@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+LOAPlugin.exp export-ignore
+LOAPlugin.lib export-ignore
+LOAPlugin.pdb export-ignore
