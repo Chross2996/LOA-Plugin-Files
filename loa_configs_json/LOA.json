@@ -240,42 +240,7 @@
                 ],
                 "copText": "NIE",
                 "waypoints": [
-                    "NIE",
-                    "IDEKO"
-                ]
-            },
-            {
-                "origins": [
-                    "EDDV",
-                    "ETNW",
-                    "ETHB",
-                    "ETHC"
-                ],
-                "xfl": 140,
-                "nextSectors": [
-                    "ALR"
-                ],
-                "copText": "NIE",
-                "waypoints": [
-                    "NIE",
-                    "VERED"
-                ]
-            },
-            {
-                "origins": [
-                    "EDDV",
-                    "ETNW",
-                    "ETHB",
-                    "ETHC"
-                ],
-                "xfl": 140,
-                "nextSectors": [
-                    "ALR"
-                ],
-                "copText": "NIE",
-                "waypoints": [
-                    "NIE",
-                    "YEFAW"
+                    "NIE"
                 ]
             },
             {
@@ -5208,8 +5173,7 @@
                 ],
                 "copText": "DIRBO",
                 "waypoints": [
-                    "DIRBO",
-                    "BKD"
+                    "DIRBO"
                 ]
             },
             {
@@ -5456,31 +5420,12 @@
                     "EDHI",
                     "EDHL"
                 ],
-                "xfl": 105,
+                "xfl": 0,
                 "nextSectors": [
                     "HAM"
                 ],
-                "copText": "BOGMU",
-                "waypoints": [
-                    "BOGMU",
-                    "EKERN"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDH",
-                    "EDHI",
-                    "EDHL"
-                ],
-                "xfl": 105,
-                "nextSectors": [
-                    "HAM"
-                ],
-                "copText": "RIBSO",
-                "waypoints": [
-                    "RIBSO",
-                    "OSTOR"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -5490,10 +5435,8 @@
                 "nextSectors": [
                     "FRI"
                 ],
-                "copText": "WTM",
-                "waypoints": [
-                    "WTM"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
