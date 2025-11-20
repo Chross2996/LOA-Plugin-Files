@@ -7214,7 +7214,8 @@
             {
                 "destinations": [
                     "EDDC",
-                    "EDDP EDDN",
+                    "EDDP",
+                    "EDDN",
                     "EDAB",
                     "EDAC",
                     "EDQ*",
@@ -7949,7 +7950,8 @@
             {
                 "destinations": [
                     "EDDC",
-                    "EDDP EDDN",
+                    "EDDP",
+                    "EDDN",
                     "EDAB",
                     "EDAC",
                     "EDQ*",
@@ -7965,7 +7967,8 @@
             {
                 "destinations": [
                     "EDDC",
-                    "EDDP EDDN",
+                    "EDDP",
+                    "EDDN",
                     "EDAB",
                     "EDAC",
                     "EDQ*",
