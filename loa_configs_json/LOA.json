@@ -677,7 +677,7 @@
                 "destinations": [
                     "EDDP"
                 ],
-                "xfl": 170,
+                "xfl": 197,
                 "nextSectors": [
                     "TRN"
                 ],
@@ -690,33 +690,7 @@
                 "destinations": [
                     "EDDP"
                 ],
-                "xfl": 190,
-                "nextSectors": [
-                    "TRN"
-                ],
-                "copText": "BERDI",
-                "waypoints": [
-                    "BERDI"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDE"
-                ],
-                "xfl": 170,
-                "nextSectors": [
-                    "TRN"
-                ],
-                "copText": "ADMOS",
-                "waypoints": [
-                    "ADMOS"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDP"
-                ],
-                "xfl": 150,
+                "xfl": 175,
                 "nextSectors": [
                     "TRN"
                 ],
