@@ -80,20 +80,6 @@
             },
             {
                 "destinations": [
-                    "EDDH",
-                    "EDHI"
-                ],
-                "xfl": 210,
-                "nextSectors": [
-                    "ALR"
-                ],
-                "copText": "BASUM",
-                "waypoints": [
-                    "BASUM"
-                ]
-            },
-            {
-                "destinations": [
                     "EDWE",
                     "EDWF"
                 ],
@@ -104,20 +90,6 @@
                 "copText": "YEFAW",
                 "waypoints": [
                     "YEFAW"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDWE",
-                    "EDWF"
-                ],
-                "xfl": 210,
-                "nextSectors": [
-                    "ALR"
-                ],
-                "copText": "BASUM",
-                "waypoints": [
-                    "BASUM"
                 ]
             },
             {
