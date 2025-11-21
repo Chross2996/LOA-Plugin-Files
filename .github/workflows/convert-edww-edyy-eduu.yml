@@ -4,8 +4,6 @@ permissions:
   contents: write   # 👈 allow the workflow to push commits
 
 on:
-  push:
-    branches: [ main ]
   workflow_dispatch: {}
 
 jobs:
