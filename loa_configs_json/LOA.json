@@ -1838,7 +1838,7 @@
                 "origins": [
                     "EDDB"
                 ],
-                "xfl": 285,
+                "xfl": 0,
                 "nextSectors": [
                     "CL"
                 ],
@@ -1851,7 +1851,7 @@
                 "origins": [
                     "EDDB"
                 ],
-                "xfl": 285,
+                "xfl": 0,
                 "nextSectors": [
                     "SL"
                 ],
@@ -1864,7 +1864,7 @@
                 "origins": [
                     "EDDB"
                 ],
-                "xfl": 285,
+                "xfl": 0,
                 "nextSectors": [
                     "SL"
                 ],
@@ -4417,9 +4417,19 @@
                 ],
                 "copText": "RIBSO",
                 "waypoints": [
-                    "RIBSO",
-                    "MUBZI"
+                    "RIBSO"
                 ]
+            },
+            {
+                "destinations": [
+                    "EDVE"
+                ],
+                "xfl": 0,
+                "nextSectors": [
+                    "HEI"
+                ],
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -4455,27 +4465,12 @@
                 "destinations": [
                     "ETMN"
                 ],
-                "xfl": 105,
+                "xfl": 0,
                 "nextSectors": [
                     "EID"
                 ],
-                "copText": "NDO",
-                "waypoints": [
-                    "NDO"
-                ]
-            },
-                        {
-                "destinations": [
-                    "ETMN"
-                ],
-                "xfl": 105,
-                "nextSectors": [
-                    "EID"
-                ],
-                "copText": "NOR",
-                "waypoints": [
-                    "NOR"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -4982,8 +4977,7 @@
                 ],
                 "copText": "BOGMU",
                 "waypoints": [
-                    "BOGMU",
-                    "NIGAD"
+                    "BOGMU"
                 ]
             },
             {
@@ -5112,6 +5106,17 @@
             }
         ],
         "departureLoas": [
+            {
+                "origins": [
+                    "EDHL"
+                ],
+                "xfl": 0,
+                "nextSectors": [
+                    "ALR"
+                ],
+                "copText": "",
+                "waypoints": []
+            },
             {
                 "origins": [
                     "EDVE"
@@ -5426,7 +5431,7 @@
                 "destinations": [
                     "ETNT"
                 ],
-                "xfl": 105,
+                "xfl": 0,
                 "nextSectors": [
                     "FRI"
                 ],
@@ -5608,6 +5613,45 @@
                 "waypoints": [
                     "REVLA"
                 ]
+            },
+            {
+                "origins": [
+                    "EDXW"
+                ],
+                "xfl": 0,
+                "nextSectors": [
+                    "ALR"
+                ],
+                "copText": "",
+                "waypoints": []
+            },
+            {
+                "origins": [
+                    "EDHK",
+                    "EDXF",
+                    "ETNH",
+                    "ETNS"
+                ],
+                "xfl": 0,
+                "nextSectors": [
+                    "ALR"
+                ],
+                "copText": "",
+                "waypoints": []
+            },
+            {
+                "origins": [
+                    "EDHK",
+                    "EDXF",
+                    "ETNH",
+                    "ETNS"
+                ],
+                "xfl": 0,
+                "nextSectors": [
+                    "HEI"
+                ],
+                "copText": "",
+                "waypoints": []
             },
             {
                 "origins": [
@@ -5976,11 +6020,11 @@
                 "origins": [
                     "ETNT"
                 ],
-                "xfl": 105,
+                "xfl": 0,
                 "nextSectors": [
                     "EID"
                 ],
-                "copText": "COORD",
+                "copText": "",
                 "waypoints": []
             },
             {
@@ -6330,7 +6374,7 @@
                 ],
                 "xfl": 250,
                 "nextSectors": [
-                    "PAH"
+                    "PADH"
                 ],
                 "copText": "PODER",
                 "waypoints": [
@@ -6398,7 +6442,7 @@
                 ],
                 "xfl": 290,
                 "nextSectors": [
-                    "FUL"
+                    "FUL1"
                 ],
                 "copText": "XAROL",
                 "waypoints": [
@@ -6413,7 +6457,7 @@
                 ],
                 "xfl": 330,
                 "nextSectors": [
-                    "FUL"
+                    "FUL2"
                 ],
                 "copText": "XAROL",
                 "waypoints": [
@@ -6427,7 +6471,7 @@
                 ],
                 "xfl": 330,
                 "nextSectors": [
-                    "FUL"
+                    "FUL2"
                 ],
                 "copText": "OTMON",
                 "waypoints": [
@@ -6450,7 +6494,7 @@
                 ],
                 "xfl": 350,
                 "nextSectors": [
-                    "FUL"
+                    "FUL1"
                 ],
                 "copText": "WERRA",
                 "waypoints": [
@@ -6473,7 +6517,7 @@
                 ],
                 "xfl": 350,
                 "nextSectors": [
-                    "FUL"
+                    "FUL1"
                 ],
                 "copText": "BERXO",
                 "waypoints": [
@@ -6486,7 +6530,7 @@
                 ],
                 "xfl": 290,
                 "nextSectors": [
-                    "FUL"
+                    "FUL1"
                 ],
                 "copText": "BERXO",
                 "waypoints": [
@@ -6499,7 +6543,7 @@
                 ],
                 "xfl": 290,
                 "nextSectors": [
-                    "FUL"
+                    "FUL1"
                 ],
                 "copText": "WERRA",
                 "waypoints": [
@@ -6613,27 +6657,8 @@
                 "nextSectors": [
                     "CL"
                 ],
-                "copText": "SAS",
-                "waypoints": [
-                    "SAS"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDH",
-                    "EDHI",
-                    "EDHK",
-                    "EDHL",
-                    "EDXR"
-                ],
-                "xfl": 330,
-                "nextSectors": [
-                    "CL"
-                ],
-                "copText": "DIRBO",
-                "waypoints": [
-                    "DIRBO"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -6649,10 +6674,8 @@
                 "nextSectors": [
                     "ML"
                 ],
-                "copText": "ABAMI",
-                "waypoints": [
-                    "ABAMI"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -6677,7 +6700,7 @@
                 ],
                 "xfl": 290,
                 "nextSectors": [
-                    "FUL"
+                    "FUL1"
                 ],
                 "copText": "WERRA",
                 "waypoints": [
@@ -6690,7 +6713,7 @@
                 ],
                 "xfl": 290,
                 "nextSectors": [
-                    "FUL"
+                    "FUL1"
                 ],
                 "copText": "WERRA",
                 "waypoints": [
@@ -6703,7 +6726,7 @@
                 ],
                 "xfl": 330,
                 "nextSectors": [
-                    "SAL"
+                    "SAL1"
                 ],
                 "copText": "POVEL",
                 "waypoints": [
@@ -6716,7 +6739,7 @@
                 ],
                 "xfl": 330,
                 "nextSectors": [
-                    "SAL"
+                    "SAL1"
                 ],
                 "copText": "ZUCKA",
                 "waypoints": [
@@ -6729,7 +6752,7 @@
                 ],
                 "xfl": 330,
                 "nextSectors": [
-                    "SAL"
+                    "SAL1"
                 ],
                 "copText": "ABGUS",
                 "waypoints": [
@@ -6742,7 +6765,7 @@
                 ],
                 "xfl": 330,
                 "nextSectors": [
-                    "SAL"
+                    "SAL1"
                 ],
                 "copText": "KUMER",
                 "waypoints": [
@@ -6755,7 +6778,7 @@
                 ],
                 "xfl": 350,
                 "nextSectors": [
-                    "SAL"
+                    "SAL1"
                 ],
                 "copText": "ZUCKA",
                 "waypoints": [
@@ -6921,10 +6944,8 @@
                 "nextSectors": [
                     "ML"
                 ],
-                "copText": "EXPUH",
-                "waypoints": [
-                    "EXPUH"
-                ]
+                "copText": "",
+                "waypoints": []
             }
         ]
     },
@@ -7204,67 +7225,8 @@
                 "nextSectors": [
                     "SL"
                 ],
-                "copText": "NORTA",
-                "waypoints": [
-                    "NORTA"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDC",
-                    "EDDP",
-                    "EDDN",
-                    "EDAB",
-                    "EDAC",
-                    "EDQ*",
-                    "ETIC"
-                ],
-                "xfl": 330,
-                "nextSectors": [
-                    "SL"
-                ],
-                "copText": "POVEL",
-                "waypoints": [
-                    "POVEL"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDC",
-                    "EDDP",
-                    "EDDN",
-                    "EDAB",
-                    "EDAC",
-                    "EDQ*",
-                    "ETIC"
-                ],
-                "xfl": 330,
-                "nextSectors": [
-                    "SL"
-                ],
-                "copText": "ABGUS",
-                "waypoints": [
-                    "ABGUS"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDC",
-                    "EDDP",
-                    "EDDN",
-                    "EDAB",
-                    "EDAC",
-                    "EDQ*",
-                    "ETIC"
-                ],
-                "xfl": 330,
-                "nextSectors": [
-                    "SL"
-                ],
-                "copText": "NOMKA",
-                "waypoints": [
-                    "NOMKA"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -7274,10 +7236,8 @@
                 "nextSectors": [
                     "SL"
                 ],
-                "copText": "PODER",
-                "waypoints": [
-                    "PODER"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -7294,10 +7254,8 @@
                 "nextSectors": [
                     "SL"
                 ],
-                "copText": "WRB",
-                "waypoints": [
-                    "WRB"
-                ]
+                "copText": "",
+                "waypoints": []
             }
         ],
         "departureLoas": [
@@ -7307,7 +7265,7 @@
                 ],
                 "xfl": 290,
                 "nextSectors": [
-                    "OSE"
+                    "OSE1"
                 ],
                 "copText": "NEBUN",
                 "waypoints": [
@@ -7529,52 +7487,8 @@
                 "nextSectors": [
                     "CL"
                 ],
-                "copText": "NUSGU",
-                "waypoints": [
-                    "NUSGU"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDB",
-                    "EDDP",
-                    "EDAE",
-                    "EDAV",
-                    "EDAY",
-                    "EDAZ",
-                    "EDBW",
-                    "EDON",
-                    "EDBC"
-                ],
-                "xfl": 320,
-                "nextSectors": [
-                    "CL"
-                ],
-                "copText": "BUMIL",
-                "waypoints": [
-                    "BUMIL"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDB",
-                    "EDDP",
-                    "EDAE",
-                    "EDAV",
-                    "EDAY",
-                    "EDAZ",
-                    "EDBW",
-                    "EDON",
-                    "EDBC"
-                ],
-                "xfl": 320,
-                "nextSectors": [
-                    "CL"
-                ],
-                "copText": "NEBUN",
-                "waypoints": [
-                    "NEBUN"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -7586,40 +7500,8 @@
                 "nextSectors": [
                     "CL"
                 ],
-                "copText": "ROBEG",
-                "waypoints": [
-                    "ROBEG"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDVK",
-                    "EDLP",
-                    "EDFQ"
-                ],
-                "xfl": 330,
-                "nextSectors": [
-                    "CL"
-                ],
-                "copText": "PIROT",
-                "waypoints": [
-                    "PIROT"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDVK",
-                    "EDLP",
-                    "EDFQ"
-                ],
-                "xfl": 330,
-                "nextSectors": [
-                    "CL"
-                ],
-                "copText": "SAS",
-                "waypoints": [
-                    "SAS"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -7631,10 +7513,8 @@
                 "nextSectors": [
                     "ML"
                 ],
-                "copText": "HABFU",
-                "waypoints": [
-                    "HABFU"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -7708,6 +7588,44 @@
                 "copText": "ATTUS",
                 "waypoints": [
                     "ATTUS"
+                ]
+            }
+        ]
+    },
+    "SOL": {
+        "departureLoas": [
+            {
+                "origins": [
+                    "EDDW"
+                ],
+                "xfl": 330,
+                "nextSectors": [
+                    "SAL1"
+                ],
+                "copText": "NOMKA",
+                "waypoints": [
+                    "NOMKA"
+                ]
+            }
+        ]
+    },
+    "RHR": {
+        "departureLoas": [
+            {
+                "origins": [
+                    "EHEH",
+                    "EHBK",
+                    "EHBD",
+                    "EDLV",
+                    "EDLS"
+                ],
+                "xfl": 310,
+                "nextSectors": [
+                    "FFM1"
+                ],
+                "copText": "GMH",
+                "waypoints": [
+                    "GMH"
                 ]
             }
         ]
@@ -8043,67 +7961,8 @@
                 "nextSectors": [
                     "CL"
                 ],
-                "copText": "SAS",
-                "waypoints": [
-                    "SAS"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDC",
-                    "EDDP",
-                    "EDDN",
-                    "EDAB",
-                    "EDAC",
-                    "EDQ*",
-                    "ETIC"
-                ],
-                "xfl": 350,
-                "nextSectors": [
-                    "CL"
-                ],
-                "copText": "HLZ",
-                "waypoints": [
-                    "HLZ"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDC",
-                    "EDDP",
-                    "EDDN",
-                    "EDAB",
-                    "EDAC",
-                    "EDQ*",
-                    "ETIC"
-                ],
-                "xfl": 350,
-                "nextSectors": [
-                    "CL"
-                ],
-                "copText": "BUMIL",
-                "waypoints": [
-                    "BUMIL"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDC",
-                    "EDDP",
-                    "EDDN",
-                    "EDAB",
-                    "EDAC",
-                    "EDQ*",
-                    "ETIC"
-                ],
-                "xfl": 350,
-                "nextSectors": [
-                    "CL"
-                ],
-                "copText": "BATEL",
-                "waypoints": [
-                    "BATEL"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -8119,67 +7978,8 @@
                 "nextSectors": [
                     "SL"
                 ],
-                "copText": "NORTA",
-                "waypoints": [
-                    "NORTA"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDC",
-                    "EDDP",
-                    "EDDN",
-                    "EDAB",
-                    "EDAC",
-                    "EDQ*",
-                    "ETIC"
-                ],
-                "xfl": 350,
-                "nextSectors": [
-                    "SL"
-                ],
-                "copText": "POVEL",
-                "waypoints": [
-                    "POVEL"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDC",
-                    "EDDP",
-                    "EDDN",
-                    "EDAB",
-                    "EDAC",
-                    "EDQ*",
-                    "ETIC"
-                ],
-                "xfl": 350,
-                "nextSectors": [
-                    "SL"
-                ],
-                "copText": "ABGUS",
-                "waypoints": [
-                    "ABGUS"
-                ]
-            },
-            {
-                "destinations": [
-                    "EDDC",
-                    "EDDP",
-                    "EDDN",
-                    "EDAB",
-                    "EDAC",
-                    "EDQ*",
-                    "ETIC"
-                ],
-                "xfl": 350,
-                "nextSectors": [
-                    "SL"
-                ],
-                "copText": "NOMKA",
-                "waypoints": [
-                    "NOMKA"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -8195,10 +7995,8 @@
                 "nextSectors": [
                     "RL"
                 ],
-                "copText": "ABAMI",
-                "waypoints": [
-                    "ABAMI"
-                ]
+                "copText": "",
+                "waypoints": []
             },
             {
                 "destinations": [
@@ -10781,6 +10579,45 @@
         "departureLoas": [
             {
                 "origins": [
+                    "EDDB"
+                ],
+                "xfl": 0,
+                "nextSectors": [
+                    "CL"
+                ],
+                "copText": "HLZ",
+                "waypoints": [
+                    "HLZ"
+                ]
+            },
+            {
+                "origins": [
+                    "EDDB"
+                ],
+                "xfl": 0,
+                "nextSectors": [
+                    "SL"
+                ],
+                "copText": "POVEL",
+                "waypoints": [
+                    "POVEL"
+                ]
+            },
+            {
+                "origins": [
+                    "EDDB"
+                ],
+                "xfl": 0,
+                "nextSectors": [
+                    "SL"
+                ],
+                "copText": "ABGUS",
+                "waypoints": [
+                    "ABGUS"
+                ]
+            },
+            {
+                "origins": [
                     "EDDP"
                 ],
                 "xfl": 330,
@@ -12932,6 +12769,32 @@
             }
         ],
         "departureLoas": [
+            {
+                "origins": [
+                    "EDDB"
+                ],
+                "xfl": 0,
+                "nextSectors": [
+                    "CL"
+                ],
+                "copText": "BUMIL",
+                "waypoints": [
+                    "BUMIL"
+                ]
+            },
+            {
+                "origins": [
+                    "EDDB"
+                ],
+                "xfl": 0,
+                "nextSectors": [
+                    "CL"
+                ],
+                "copText": "NEBUN",
+                "waypoints": [
+                    "NEBUN"
+                ]
+            },
             {
                 "origins": [
                     "EKCH",
