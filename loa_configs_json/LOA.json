@@ -48,7 +48,8 @@
                 "copText": "OSNAD",
                 "waypoints": [
                     "OSNAD"
-                ]
+                ],
+                "excludeDestinations": [ "EDLW" ]
             },
             {
                 "destinations": [
@@ -62,7 +63,8 @@
                 "copText": "RORUS",
                 "waypoints": [
                     "RORUS"
-                ]
+                ],
+                "excludeDestinations": [ "EDLW" ]
             },
             {
                 "destinations": [
