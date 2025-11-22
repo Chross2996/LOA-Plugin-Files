@@ -6490,7 +6490,8 @@
                 "copText": "WERRA",
                 "waypoints": [
                     "WERRA"
-                ]
+                ],
+                "excludeOrigins": [ "EDDV", "EDVE" ]
             },
             {
                 "destinations": [
@@ -6513,7 +6514,8 @@
                 "copText": "BERXO",
                 "waypoints": [
                     "BERXO"
-                ]
+                ],
+                "excludeOrigins": [ "EDDV", "EDVE" ]
             },
             {
                 "destinations": [
