@@ -48,7 +48,8 @@
                 "copText": "OSNAD",
                 "waypoints": [
                     "OSNAD"
-                ]
+                ],
+                "excludeDestinations": [ "EDLW" ]
             },
             {
                 "destinations": [
@@ -62,7 +63,8 @@
                 "copText": "RORUS",
                 "waypoints": [
                     "RORUS"
-                ]
+                ],
+                "excludeDestinations": [ "EDLW" ]
             },
             {
                 "destinations": [
@@ -6488,7 +6490,8 @@
                 "copText": "WERRA",
                 "waypoints": [
                     "WERRA"
-                ]
+                ],
+                "excludeOrigins": [ "EDDV", "EDVE" ]
             },
             {
                 "destinations": [
@@ -6511,7 +6514,8 @@
                 "copText": "BERXO",
                 "waypoints": [
                     "BERXO"
-                ]
+                ],
+                "excludeOrigins": [ "EDDV", "EDVE" ]
             },
             {
                 "destinations": [
