@@ -56,7 +56,6 @@
                     "EDDL",
                     "EDL*"
                 ],
-                "excludeDestinations": [ "EDLW" ],
                 "xfl": 200,
                 "nextSectors": [
                     "HMM"
@@ -218,6 +217,7 @@
             {
                 "destinations": [
                     "EDDV",
+                    "EDVE",
                     "ETNW"
                 ],
                 "xfl": 110,
@@ -538,7 +538,7 @@
             },
             {
                 "destinations": [
-                    "EDDl",
+                    "EDDL",
                     "EDDG"
                 ],
                 "xfl": 200,
@@ -869,9 +869,61 @@
                 "nextSectors": [
                     "HAN"
                 ],
-                "copText": "DLE",
+                "copText": "SAS",
                 "waypoints": [
-                    "DLE"
+                    "SAS"
+                ]
+            },
+            {
+                "destinations": [
+                    "EDVE"
+                ],
+                "xfl": 110,
+                "nextSectors": [
+                    "HAN"
+                ],
+                "copText": "NORTA",
+                "waypoints": [
+                    "NORTA"
+                ]
+            },
+            {
+                "destinations": [
+                    "EDVE"
+                ],
+                "xfl": 110,
+                "nextSectors": [
+                    "HAN"
+                ],
+                "copText": "WERRA",
+                "waypoints": [
+                    "WERRA"
+                ]
+            },
+            {
+                "destinations": [
+                    "EDVE"
+                ],
+                "xfl": 110,
+                "nextSectors": [
+                    "HAN"
+                ],
+                "copText": "POVEL",
+                "waypoints": [
+                    "POVEL"
+                ]
+            },
+            {
+                "destinations": [
+                    "EDVE"
+                ],
+                "xfl": 110,
+                "nextSectors": [
+                    "HAN"
+                ],
+                "copText": "LARET",
+                "waypoints": [
+                    "LARET"
                 ]
             }
         ],
@@ -4704,6 +4756,11 @@
         ]
     },
     "HAM": {
+        "aorDestinations": [
+            "EDDH",
+            "EDHI",
+            "EDHL"
+        ],
         "departureLoas": [
             {
                 "origins": [
@@ -6173,20 +6230,6 @@
             },
             {
                 "origins": [
-                    "EDDV",
-                    "ETNW"
-                ],
-                "xfl": 100,
-                "nextSectors": [
-                    "HEI"
-                ],
-                "copText": "MULDO",
-                "waypoints": [
-                    "MULDO"
-                ]
-            },
-            {
-                "origins": [
                     "EDVE"
                 ],
                 "xfl": 100,
@@ -6297,9 +6340,35 @@
                 "nextSectors": [
                     "HRZ"
                 ],
+                "copText": "NORTA",
+                "waypoints": [
+                    "NORTA"
+                ]
+            },
+            {
+                "origins": [
+                    "EDDV"
+                ],
+                "xfl": 100,
+                "nextSectors": [
+                    "HRZ"
+                ],
                 "copText": "WERRA",
                 "waypoints": [
                     "WERRA"
+                ]
+            },
+            {
+                "origins": [
+                    "EDDV"
+                ],
+                "xfl": 100,
+                "nextSectors": [
+                    "HRZ"
+                ],
+                "copText": "TOLTA",
+                "waypoints": [
+                    "TOLTA"
                 ]
             },
             {
@@ -6310,9 +6379,9 @@
                 "nextSectors": [
                     "HRZ"
                 ],
-                "copText": "DLE",
+                "copText": "SAS",
                 "waypoints": [
-                    "DLE"
+                    "SAS"
                 ]
             },
             {
