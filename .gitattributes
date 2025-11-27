@@ -6,3 +6,5 @@ LOAPlugin.lib export-ignore
 LOAPlugin.pdb export-ignore
 toml_to_json.py export-ignore
 .github/workflows export-ignore
+README.md export-ignore
+.gitattributes export-ignore
