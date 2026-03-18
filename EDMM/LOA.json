@@ -3637,6 +3637,147 @@
                 "waypoints": [
                     "UNAVI"
                 ]
+            },
+            {
+                "destinations": [
+                    "LOWS",
+                    "LOWI",
+                    "LOWL"
+                ],
+                "predictedFromVolumes": [ "ERL_VOL" ],
+                "predictedToVolumes": [ "DON_VOL" ],
+                "xfl": 320,
+                "nextSectors": [
+                    "DON"
+                ],
+                "copText": "XDON",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "LOWW"
+                ],
+                "xfl": 370,
+                "nextSectors": [
+                    "DON"
+                ],
+                "copText": "XDON",
+                "waypoints": [
+                    "BUDEX"
+                ]
+            },
+            {
+                "destinations": [
+                    "EDDK",
+                    "EDKB",
+                    "EDKZ",
+                    "EDLA",
+                    "EDLE",
+                    "EDLM",
+                    "EDLD",
+                    "EDLI",
+                    "EDLP",
+                    "EDLW"
+                ],
+                "predictedFromVolumes": [ "ERL_VOL" ],
+                "predictedToVolumes": [ "FUL_VOL" ],
+                "xfl": 320,
+                "nextSectors": [
+                    "FUL"
+                ],
+                "copText": "XFUL",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EDDV",
+                    "EDVE",
+                    "ETNW"
+                ],
+                "predictedFromVolumes": [ "ERL_VOL" ],
+                "predictedToVolumes": [ "FUL_VOL" ],
+                "xfl": 340,
+                "nextSectors": [
+                    "FUL"
+                ],
+                "copText": "XFUL",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EDDV",
+                    "EDDW"
+                ],
+                "xfl": 320,
+                "nextSectors": [
+                    "SAL"
+                ],
+                "copText": "XSAL",
+                "waypoints": [
+                    "OKKOC"
+                ]
+            },
+            {
+                "destinations": [
+                    "ETNW"
+                ],
+                "predictedFromVolumes": [ "ERL_VOL" ],
+                "predictedToVolumes": [ "SAL_VOL" ],
+                "xfl": 320,
+                "nextSectors": [
+                    "SAL"
+                ],
+                "copText": "XSAL",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EDDR",
+                    "EDFH",
+                    "ELLX",
+                    "EDSB",
+                    "EDRZ",
+                    "ETAD"
+                ],
+                "predictedFromVolumes": [ "ERL_VOL" ],
+                "predictedToVolumes": [ "WUR_VOL" ],
+                "xfl": 320,
+                "nextSectors": [
+                    "WUR"
+                ],
+                "copText": "XWUR",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EBLG",
+                    "EBZW",
+                    "EHBK",
+                    "LFLJ",
+                    "LFSN"
+                ],
+                "predictedFromVolumes": [ "ERL_VOL" ],
+                "predictedToVolumes": [ "WUR_VOL" ],
+                "xfl": 360,
+                "nextSectors": [
+                    "WUR"
+                ],
+                "copText": "XWUR",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EDTM",
+                    "EDTD"
+                ],
+                "predictedFromVolumes": [ "ERL_VOL" ],
+                "predictedToVolumes": [ "WUR_VOL" ],
+                "xfl": 340,
+                "nextSectors": [
+                    "WUR"
+                ],
+                "copText": "XWUR",
+                "waypoints": []
             }
         ]
     },
@@ -3828,6 +3969,113 @@
                 "waypoints": [
                     "MAREM"
                 ]
+            },
+            {
+                "destinations": [
+                    "EDDV",
+                    "EDLP",
+                    "EDLI",
+                    "EDVK",
+                    "ETNW"
+                ],
+                "predictedFromVolumes": [ "SPE_VOL" ],
+                "predictedToVolumes": [ "HVL_VOL" ],
+                "xfl": 360,
+                "nextSectors": [
+                    "HVL"
+                ],
+                "copText": "XHVL",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EDDW"
+                ],
+                "xfl": 360,
+                "nextSectors": [
+                    "HVL"
+                ],
+                "copText": "XHVL",
+                "waypoints": [
+                    "KOSIX",
+                    "MAG"
+                ]
+            },
+            {
+                "destinations": [
+                    "EDDF",
+                    "EDFE",
+                    "EDFQ",
+                    "EDFZ",
+                    "ETOU"
+                ],
+                "predictedFromVolumes": [ "SPE_VOL" ],
+                "predictedToVolumes": [ "SAL_VOL" ],
+                "xfl": 360,
+                "nextSectors": [
+                    "SAL"
+                ],
+                "copText": "XSAL",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EDDF",
+                    "EDFE",
+                    "EDFQ",
+                    "EDFZ",
+                    "ETOU"
+                ],
+                "predictedFromVolumes": [ "SPE_VOL" ],
+                "predictedToVolumes": [ "SAL_VOL" ],
+                "xfl": 360,
+                "nextSectors": [
+                    "SAL"
+                ],
+                "copText": "XSAL",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EDDF"
+                ],
+                "xfl": 340,
+                "nextSectors": [
+                    "SAL"
+                ],
+                "copText": "XSAL",
+                "waypoints": [
+                    "SODRO",
+                    "SULUS"
+                ]
+            },
+            {
+                "destinations": [
+                    "EDDM",
+                    "EDMA",
+                    "EDMO"
+                ],
+                "predictedFromVolumes": [ "SPE_VOL" ],
+                "predictedToVolumes": [ "SAL_VOL" ],
+                "xfl": 350,
+                "nextSectors": [
+                    "SAL"
+                ],
+                "copText": "XSAL",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EDDV"
+                ],
+                "predictedFromVolumes": [ "SPE_VOL" ],
+                "predictedToVolumes": [ "SAL_VOL" ],
+                "xfl": 320,
+                "nextSectors": [
+                    "SAL"
+                ],
+                "copText": "XSAL",
+                "waypoints": []
             }
         ],
         "departureLoas": [
@@ -4073,6 +4321,68 @@
                 "waypoints": [
                     "SODRO"
                 ]
+            },
+            {
+                "destinations": [
+                    "LOWS",
+                    "LOWL",
+                    "LOWI"
+                ],
+                "predictedFromVolumes": [ "SAL_VOL" ],
+                "predictedToVolumes": [ "ERL_VOL" ],
+                "xfl": 370,
+                "nextSectors": [
+                    "ERL"
+                ],
+                "copText": "XERL",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EDSB",
+                    "EDTM"
+                ],
+                "predictedFromVolumes": [ "SAL_VOL" ],
+                "predictedToVolumes": [ "ERL_VOL" ],
+                "xfl": 350,
+                "nextSectors": [
+                    "ERL"
+                ],
+                "copText": "XERL",
+                "waypoints": []
+            },
+            {
+                "destinations": [
+                    "EDDF"
+                ],
+                "xfl": 320,
+                "nextSectors": [
+                    "ERL"
+                ],
+                "copText": "XERL",
+                "waypoints": [
+                    "SULUS"
+                ]
+            },
+            {
+                "destinations": [
+                    "LKPR",
+                    "LKPD",
+                    "LKKB",
+                    "LKCV",
+                    "LKHK",
+                    "LKMH",
+                    "LKVO",
+                    "LKCS"
+                ],
+                "predictedFromVolumes": [ "SAL_VOL" ],
+                "predictedToVolumes": [ "SPE_VOL" ],
+                "xfl": 320,
+                "nextSectors": [
+                    "SPE"
+                ],
+                "copText": "XSPE",
+                "waypoints": []
             }
         ]
     }
