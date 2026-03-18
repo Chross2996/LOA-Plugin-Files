@@ -1,0 +1,1016 @@
+  {
+  "ownership": {
+        "HAL": [
+            "HAL",
+            "GER",
+            "MEI",
+            "TRN",
+            "TRS",
+            "SAS",
+            "SAL",
+            "SPE"
+        ],
+        "GER": [
+            "HAL",
+            "GER",
+            "MEI",
+            "TRN",
+            "TRS",
+            "SAS",
+            "SAL",
+            "SPE"
+        ],
+        "MEI": [
+            "HAL",
+            "GER",
+            "MEI",
+            "TRN",
+            "TRS",
+            "SAS",
+            "SAL",
+            "SPE"
+        ],
+        "TRN": [
+            "TRN",
+            "TRS"
+        ],
+        "TRS": [
+            "TRN",
+            "TRS",
+            "SAS"
+        ],
+        "SAS": [
+            "SAS"
+        ],
+        "SAL": [
+            "SAL",
+            "ERL",
+            "SPE"
+        ],
+        "SPE": [
+            "SPE",
+            "SAL"
+        ],
+        "ERL": [
+            "ERL",
+            "DON"
+        ]
+    },
+    "priority": {
+        "CT": [
+            "CT",
+            "SAS",
+            "MEI",
+            "TRS",
+            "GER",
+            "HOF",
+            "HAL"
+        ],
+        "ET": [
+            "ET",
+            "TRS",
+            "TRN",
+            "GER",
+            "MEI",
+            "HOF",
+            "HAL"
+        ],
+        "MTN": [
+            "MTN",
+            "MTS",
+            "DMNL",
+            "DMSL",
+            "DMNH",
+            "DMSH",
+            "DMND",
+            "DMSD",
+            "ZUG",
+            "RDG"
+        ],
+        "MTS": [
+            "MTS",
+            "MTN",
+            "DMNL",
+            "DMSL",
+            "DMNH",
+            "DMSH",
+            "DMND",
+            "DMSD",
+            "ZUG",
+            "RDG"
+        ],
+        "NT": [
+            "NT",
+            "FRK",
+            "BBG",
+            "HOF",
+            "RDG"
+        ],
+        "PTN": [
+            "PTN",
+            "PTS",
+            "TRN",
+            "TRS",
+            "GER",
+            "HAL",
+            "MEI",
+            "HOF"
+        ],
+        "PTS": [
+            "PTS",
+            "PTN",
+            "TRS",
+            "TRN",
+            "GER",
+            "HAL",
+            "MEI",
+            "HOF"
+        ],
+        "JAT": [
+            "JAT",
+            "ILR",
+            "SWA",
+            "FUE",
+            "ZUG",
+            "STA",
+            "TRU",
+            "RDG"
+        ],
+        "MAT": [
+            "MAT",
+            "DMNL",
+            "DMSL",
+            "DMNH",
+            "DMSH",
+            "SWA",
+            "NDG",
+            "WLD",
+            "ZUG",
+            "RDG"
+        ],
+        "MOT": [
+            "MOT",
+            "DMSL",
+            "DMNL",
+            "DMSH",
+            "DMNH",
+            "ZUG",
+            "RDG"
+        ],
+        "NYT": [
+            "NYT",
+            "ARFA",
+            "ZHA",
+            "LSZE",
+            "LSZS",
+            "LSZC",
+            "LSC",
+            "ZUG",
+            "TRU",
+            "RDG"
+        ],
+        "QMT": [
+            "QMT",
+            "FRK",
+            "BBG",
+            "HOF",
+            "RDG"
+        ],
+        "HLT": [
+            "HLT",
+            "ILR",
+            "SWA",
+            "ZUG",
+            "RDG"
+        ],
+        "ICT": [
+            "ICT"
+        ],
+        "SIT": [
+            "SIT",
+            "IGL",
+            "SWA"
+        ],
+        "SLT": [
+            "SLT",
+            "SWA"
+        ],
+        "SNT": [
+            "SNT",
+            "IGL",
+            "SWA"
+        ],
+        "ZRT": [
+            "ZRT",
+            "ARFA",
+            "ZHA",
+            "LSZE",
+            "LSZS",
+            "LSZC",
+            "LSC"
+        ],
+        "DMND": [
+            "DMND",
+            "DMSD"
+        ],
+        "DMSD": [
+            "DMSD",
+            "DMND"
+        ],
+        "DND": [
+            "DND"
+        ],
+        "DPND": [
+            "DPND",
+            "DPSD"
+        ],
+        "DPSD": [
+            "DPSD",
+            "DPND"
+        ],
+        "DBAST": [
+            "DBAST",
+            "DBANT",
+            "DBAS",
+            "DBAN",
+            "FLG",
+            "BOR",
+            "MAR",
+            "WWC"
+        ],
+        "WIAF": [
+            "WIAF",
+            "WIAE",
+            "WIA",
+            "WIAS",
+            "LOL",
+            "LOW",
+            "LOS",
+            "LOB",
+            "LOV",
+            "LOWU",
+            "LOSU",
+            "LOBU"
+        ],
+        "NSN": [
+            "NSN"
+        ],
+        "IGL": [
+            "IGL"
+        ],
+        "LCH": [
+            "LCH"
+        ],
+        "SHR": [
+            "SHR"
+        ],
+        "REU": [
+            "REU",
+            "STG",
+            "LUB",
+            "BAD",
+            "BADH",
+            "GGS",
+            "GGSA",
+            "GGSH",
+            "GGCS",
+            "GGCSH"
+        ],
+        "STG": [
+            "STG",
+            "REU",
+            "LUB",
+            "BAD",
+            "BADH",
+            "GGS",
+            "GGSA",
+            "GGSH",
+            "GGCS",
+            "GGCSH"
+        ],
+        "SWA": [
+            "SWA",
+            "ALB",
+            "WLD",
+            "RDG",
+            "EGG",
+            "ZUG"
+        ],
+        "FRK": [
+            "FRK",
+            "BBG",
+            "HOF",
+            "RDG"
+        ],
+        "ILR": [
+            "ILR",
+            "SWA",
+            "FUE",
+            "ZUG",
+            "STA",
+            "TRU",
+            "RDG"
+        ],
+        "SAS": [
+            "SAS",
+            "MEI",
+            "TRS",
+            "GER",
+            "HOF",
+            "HAL"
+        ],
+        "DMNH": [
+            "DMNH",
+            "DMNL",
+            "DMSH",
+            "DMSL",
+            "DMND",
+            "DMSD",
+            "ZUG",
+            "RDG"
+        ],
+        "DMNL": [
+            "DMNL",
+            "DMNH",
+            "DMSL",
+            "DMSH",
+            "DMND",
+            "DMSD",
+            "ZUG",
+            "RDG"
+        ],
+        "DMSH": [
+            "DMSH",
+            "DMSL",
+            "DMNH",
+            "DMNL",
+            "DMSD",
+            "DMND",
+            "ZUG",
+            "RDG"
+        ],
+        "DMSL": [
+            "DMSL",
+            "DMSH",
+            "DMNL",
+            "DMNH",
+            "DMSD",
+            "DMND",
+            "ZUG",
+            "RDG"
+        ],
+        "TRN": [
+            "TRN",
+            "TRS",
+            "GER",
+            "MEI",
+            "HAL",
+            "HOF"
+        ],
+        "TRS": [
+            "TRS",
+            "TRN",
+            "GER",
+            "MEI",
+            "HAL",
+            "HOF"
+        ],
+        "DBAS": [
+            "DBAS",
+            "DBAN",
+            "FLG",
+            "BOR",
+            "MAR",
+            "WWC"
+        ],
+        "DBDS": [
+            "DBDS",
+            "DBDN",
+            "DBAS",
+            "DBAN",
+            "FLG",
+            "BOR",
+            "MAR",
+            "WWC"
+        ],
+        "KVA": [
+            "KVA",
+            "LKA",
+            "LKW",
+            "LKL",
+            "LKC"
+        ],
+        "PRA": [
+            "PRA",
+            "LKL",
+            "LKC"
+        ],
+        "MTA": [
+            "MTA",
+            "LKA",
+            "LKN",
+            "LKL",
+            "LKC"
+        ],
+        "WIAS": [
+            "WIAS",
+            "WIAE",
+            "WIA",
+            "LOL",
+            "LOW",
+            "LOS",
+            "LOB",
+            "LOV",
+            "LOWU",
+            "LOSU",
+            "LOBU"
+        ],
+        "WIAE": [
+            "WIAE",
+            "WIA",
+            "WIAS",
+            "LOL",
+            "LOW",
+            "LOS",
+            "LOB",
+            "LOV",
+            "LOWU",
+            "LOSU",
+            "LOBU"
+        ],
+        "WIA": [
+            "WIA",
+            "WIAE",
+            "WIAS",
+            "LOL",
+            "LOW",
+            "LOS",
+            "LOB",
+            "LOV",
+            "LOWU",
+            "LOSU",
+            "LOBU"
+        ],
+        "WLA": [
+            "WLA",
+            "LONA",
+            "LOL",
+            "LON",
+            "LOE",
+            "LOV",
+            "LOC",
+            "LONU",
+            "LOEU"
+        ],
+        "WSA": [
+            "WSA",
+            "LONA",
+            "LOL",
+            "LOB",
+            "LOBC",
+            "LOW",
+            "LON",
+            "LOV",
+            "LOC",
+            "LOBU",
+            "LOWU",
+            "LONU"
+        ],
+        "ARFA": [
+            "ARFA",
+            "ZHA",
+            "LSZE",
+            "LSZS",
+            "LSZC",
+            "LSC",
+            "ILR",
+            "ZUG",
+            "TRU",
+            "RDG"
+        ],
+        "BAD": [
+            "BAD",
+            "BADH",
+            "LUB",
+            "GGS",
+            "GGSA",
+            "GGSH",
+            "GGCS",
+            "GGCSH"
+        ],
+        "DKB": [
+            "DKB",
+            "DKBH",
+            "GGS",
+            "GGSA",
+            "GGSH",
+            "GGCS",
+            "GGCSH"
+        ],
+        "FUL": [
+            "FUL",
+            "FFM",
+            "UUC",
+            "UUCW",
+            "GINH",
+            "GGCH",
+            "GGAH",
+            "GGCSH"
+        ],
+        "GED": [
+            "GED",
+            "HEF",
+            "GIN",
+            "GINH",
+            "GGC",
+            "GGCA",
+            "GGCH",
+            "GGA",
+            "GGAH",
+            "GGCS",
+            "GGCSH"
+        ],
+        "HAB": [
+            "HAB",
+            "KTG",
+            "DKB",
+            "DKBH",
+            "GGS",
+            "GGSA",
+            "GGSH",
+            "GGCS",
+            "GGCSH"
+        ],
+        "HEF": [
+            "HEF",
+            "GIN",
+            "GINH",
+            "GGC",
+            "GGCA",
+            "GGCH",
+            "GGA",
+            "GGAH",
+            "GGCS",
+            "GGCSH"
+        ],
+        "KTG": [
+            "KTG",
+            "DKB",
+            "DKBH",
+            "GGS",
+            "GGSA",
+            "GGSH",
+            "GGCS",
+            "GGCSH"
+        ],
+        "LUB": [
+            "LUB",
+            "BAD",
+            "BADH",
+            "GGS",
+            "GGSA",
+            "GGSH",
+            "GGCS",
+            "GGCSH"
+        ],
+        "TGO": [
+            "TGO",
+            "SLN",
+            "UUW",
+            "UUCW",
+            "BADH",
+            "GGSH",
+            "GGCSH"
+        ],
+        "WUR": [
+            "WUR",
+            "SLN",
+            "UUC",
+            "UUCW",
+            "DKBH",
+            "GGSH",
+            "GGCSH"
+        ],
+        "ALB": [
+            "ALB",
+            "WLD",
+            "RDG",
+            "EGG",
+            "ZUG",
+            "WUR",
+            "SLN",
+            "DKB",
+            "KTG",
+            "BAD"
+        ],
+        "BBG": [
+            "BBG",
+            "HOF",
+            "RDG"
+        ],
+        "EGG": [
+            "EGG",
+            "RDG",
+            "ALB",
+            "WLD",
+            "ZUG"
+        ],
+        "FUE": [
+            "FUE",
+            "ZUG",
+            "STA",
+            "TRU",
+            "RDG"
+        ],
+        "GER": [
+            "GER",
+            "HAL",
+            "MEI",
+            "HOF"
+        ],
+        "HAL": [
+            "HAL",
+            "GER",
+            "MEI",
+            "HOF"
+        ],
+        "HOF": [
+            "HOF",
+            "BBG",
+            "RDG"
+        ],
+        "MEI": [
+            "MEI",
+            "GER",
+            "HOF",
+            "HAL"
+        ],
+        "NDG": [
+            "NDG",
+            "TRU",
+            "WLD",
+            "ZUG",
+            "RDG"
+        ],
+        "RDG": [
+            "RDG",
+            "EGG",
+            "ALB",
+            "WLD",
+            "ZUG"
+        ],
+        "STA": [
+            "STA",
+            "FUE",
+            "TEG",
+            "TRU",
+            "ZUG",
+            "RDG"
+        ],
+        "TEG": [
+            "TEG",
+            "TRU",
+            "STA",
+            "ZUG",
+            "RDG"
+        ],
+        "TRU": [
+            "TRU",
+            "TEG",
+            "STA",
+            "ZUG",
+            "RDG"
+        ],
+        "WLD": [
+            "WLD",
+            "NDG",
+            "TRU",
+            "ZUG",
+            "RDG"
+        ],
+        "ZUG": [
+            "ZUG",
+            "FUE",
+            "STA",
+            "TRU",
+            "RDG"
+        ],
+        "ALP": [
+            "ALP",
+            "ISA",
+            "CHI",
+            "ZUG",
+            "FUE",
+            "STA",
+            "TRU",
+            "RDG"
+        ],
+        "CHI": [
+            "CHI",
+            "ISA",
+            "ALP",
+            "TRU",
+            "STA",
+            "TEG",
+            "ZUG",
+            "RDG"
+        ],
+        "DON": [
+            "DON",
+            "ERL",
+            "CHI",
+            "RDG",
+            "EGG",
+            "ALB",
+            "WLD",
+            "ZUG"
+        ],
+        "ERL": [
+            "ERL",
+            "SAL",
+            "BBG",
+            "HOF",
+            "RDG"
+        ],
+        "ISA": [
+            "ISA",
+            "CHI",
+            "NDG",
+            "WLD",
+            "TRU",
+            "ZUG",
+            "RDG"
+        ],
+        "SAL": [
+            "SAL",
+            "SPE",
+            "HVL",
+            "GER",
+            "MEI",
+            "HOF",
+            "HAL"
+        ],
+        "SPE": [
+            "SPE",
+            "SAL",
+            "HVL",
+            "MEI",
+            "GER",
+            "HOF",
+            "HAL"
+        ],
+        "HVL": [
+            "HVL",
+            "OSE",
+            "BOR",
+            "FLG",
+            "MAR",
+            "WWC"
+        ],
+        "OSEH": [
+            "OSEH",
+            "HVL",
+            "OSE",
+            "BOR",
+            "FLG",
+            "MAR",
+            "WWC"
+        ],
+        "BOR": [
+            "BOR",
+            "FLG",
+            "MAR",
+            "WWC"
+        ],
+        "FLG": [
+            "FLG",
+            "BOR",
+            "MAR",
+            "WWC"
+        ],
+        "HRZ": [
+            "HRZ",
+            "EMS",
+            "EIDW",
+            "WWC"
+        ],
+        "SOLH": [
+            "SOLH",
+            "CELH",
+            "MNSH",
+            "SOLL",
+            "CELL",
+            "MNSL",
+            "YYBB",
+            "EMS",
+            "EIDW",
+            "WWC"
+        ],
+        "SOLL": [
+            "SOLL",
+            "SOLH",
+            "CELL",
+            "CELH",
+            "MNSL",
+            "MNSH",
+            "YYBB",
+            "EMS",
+            "EIDW",
+            "WWC"
+        ],
+        "POS": [
+            "POS",
+            "PON",
+            "EPTM",
+            "EPDT",
+            "EPTCJ",
+            "EPDTC",
+            "EPDBT",
+            "EPS",
+            "EPWW",
+            "EPU"
+        ],
+        "EPD": [
+            "EPD",
+            "EPDBT",
+            "EPDT",
+            "EPDTC",
+            "EPDBF",
+            "EPN",
+            "EPWW",
+            "EPU"
+        ],
+        "EPDBT": [
+            "EPDBT",
+            "EPDT",
+            "EPDTC",
+            "EPDBF",
+            "EPN",
+            "EPU",
+            "EPD",
+            "EPWW"
+        ],
+        "EPDTC": [
+            "EPDTC",
+            "EPN",
+            "EPDBF",
+            "EPU",
+            "EPDT",
+            "EPDBT",
+            "EPD",
+            "EPWW"
+        ],
+        "EPTM": [
+            "EPTM",
+            "EPDT",
+            "EPTCJ",
+            "EPDTC",
+            "EPDBT",
+            "EPS",
+            "EPWW",
+            "EPU"
+        ],
+        "POI": [
+            "POI",
+            "EPWI"
+        ],
+        "IPN2": [
+            "IPN2",
+            "IPN1",
+            "IPC1"
+        ],
+        "IPN3": [
+            "IPN3",
+            "IPN6",
+            "IPN8",
+            "IMU",
+            "IPN2",
+            "IPN1",
+            "IPC1"
+        ],
+        "IPN6": [
+            "IPN6",
+            "IPN8",
+            "IPN3",
+            "IMU",
+            "IPN2",
+            "IPN1",
+            "IPC1"
+        ],
+        "IPN8": [
+            "IPN8",
+            "IPN6",
+            "IPN3",
+            "IMU",
+            "IPN2",
+            "IPN1",
+            "IPC1"
+        ],
+        "IPN1": [
+            "IPN1",
+            "IPC3",
+            "IPC1"
+        ],
+        "LKU": [
+            "LKU",
+            "LKN",
+            "LKC",
+            "EUEN"
+        ],
+        "LKN": [
+            "LKN",
+            "LKL",
+            "LKC",
+            "EUEN"
+        ],
+        "LKW": [
+            "LKW",
+            "LKL",
+            "LKC",
+            "EUEN"
+        ],
+        "LOB": [
+            "LOB",
+            "LOBC",
+            "LOW",
+            "LON",
+            "LOV",
+            "LOC",
+            "LOBU",
+            "LOWU",
+            "LONU",
+            "LOVU"
+        ],
+        "LOBU": [
+            "LOBU",
+            "LOWU",
+            "LONU",
+            "LOVU",
+            "LOB",
+            "LOBC",
+            "LOW",
+            "LON",
+            "LOV",
+            "LOC"
+        ],
+        "LON1": [
+            "LON1",
+            "LON",
+            "LOE",
+            "LOV",
+            "LOC",
+            "LONU",
+            "LOEU",
+            "LOVU"
+        ],
+        "LONU": [
+            "LONU",
+            "LOEU",
+            "LOVU",
+            "LON",
+            "LOE",
+            "LOV",
+            "LOC"
+        ],
+        "LOW": [
+            "LOW",
+            "LOS",
+            "LOB",
+            "LOBC",
+            "LOV",
+            "LOC",
+            "LOWU",
+            "LOSU",
+            "LOBU",
+            "LOVU"
+        ],
+        "LOWU": [
+            "LOWU",
+            "LOSU",
+            "LOBU",
+            "LOVU",
+            "LOW",
+            "LOS",
+            "LOB",
+            "LOBC",
+            "LOV",
+            "LOC"
+        ],
+        "LSC": [
+            "LSC",
+            "LSZC",
+            "EUWN"
+        ],
+        "LSZE": [
+            "LSZE",
+            "LSZS",
+            "LSZC",
+            "LSC"
+        ],
+        "LSZS": [
+            "LSZS",
+            "LSZC",
+            "LSC"
+        ]
+    }
+}
