@@ -32,10 +32,10 @@
             "ALR",
             "HEI",
             "EID",
+            "FRI",
             "HAM",
             "HAMW",
-            "DHAT",
-            "FRI"
+            "DHAT"
         ],
         "HEI": [
             "HEI",
@@ -65,6 +65,22 @@
             "HH",
             "EID",
             "FRI"
+        ],
+        "MRZ": [
+            "MRZ",
+            "MAR",
+            "NLR",
+            "OSE12",
+            "OSE22"
+        ],
+        "OSE12": [
+            "OSE12",
+            "OSE22",
+            "HVL12"
+        ],
+        "OSE22": [
+            "OSE22",
+            "HVL12"
         ],
         "FRI": [
             "FRI"
@@ -272,6 +288,19 @@
             "BOR",
             "MAR",
             "WC"
+        ],
+        "DFAN": [
+            "DFAN",
+            "DFANT",
+            "DFDN",
+            "DFAS",
+            "DFAST",
+            "DFDS",
+            "RUD",
+            "DKB",
+            "GCA",
+            "GSA",
+            "GCS"
         ],
         "NLT": [
             "NLT",
@@ -1088,6 +1117,15 @@
             "HOF",
             "HAL"
         ],
+        "HVL22": [
+            "OSE22",
+            "HVL12",
+            "OSE12",
+            "BOR",
+            "FLG",
+            "MAR",
+            "WC"
+        ],
         "HVL12": [
             "HVL12",
             "OSE12",
@@ -1098,10 +1136,9 @@
         ],
         "OSE22": [
             "OSE22",
-            "HVL12",
             "OSE12",
-            "BOR",
-            "FLG",
+            "HVL12",
+            "MRZ",
             "MAR",
             "WC"
         ],
