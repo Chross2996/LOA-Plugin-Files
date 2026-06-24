@@ -8108,6 +8108,27 @@
           "HEI"
         ],
         "waypoints": []
+      },
+      {
+        "origins": [],
+        "destinations": [
+          "EDDG",
+          "EDLW",
+          "EDLA",
+          "EHTW",
+          "EHLE",
+          "EDVK",
+          "EDLI"
+        ],
+        "xfl": 250,
+        "nextSectors": [
+          "EMS"
+        ],
+        "copText": "XEMS",
+        "waypoints": [],
+        "predictedEnterVolumes": [
+          "FORCE_EMS"
+        ]
       }
     ],
     "departureLoas": [
