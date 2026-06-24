@@ -2844,7 +2844,7 @@
         ],
         "xfl": 130,
         "nextSectors": [
-          "EPSC TMA"
+          "EPSC"
         ],
         "copText": "FARCU",
         "waypoints": [
@@ -6178,17 +6178,21 @@
           "ETNT"
         ],
         "predictedFromVolumes": [
-          "EID_VOL"
-        ],
-        "predictedToVolumes": [
-          "FRI_VOL"
+          "EID1_VOL",
+          "EID2_VOL"
         ],
         "xfl": 105,
         "nextSectors": [
           "FRI"
         ],
         "copText": "XFRI",
-        "waypoints": []
+        "waypoints": [],
+        "predictedEndVolumes": [
+          "FRI_VOL"
+        ],
+        "predictedToVolumes": [
+          "FRI_VOL"
+        ]
       }
     ],
     "departureLoas": [
@@ -9084,80 +9088,6 @@
         "waypoints": [
           "DIDGI"
         ]
-      },
-      {
-        "destinations": [
-          "EDDR",
-          "EDDS",
-          "EDFM",
-          "EDFV",
-          "EDJA",
-          "EDMS",
-          "EDRY",
-          "EDTL",
-          "EDTY",
-          "ETAR",
-          "ETIN",
-          "ETHN",
-          "ETOR",
-          "LKKV"
-        ],
-        "xfl": 360,
-        "nextSectors": [
-          "SAL"
-        ],
-        "copText": "",
-        "waypoints": []
-      },
-      {
-        "destinations": [
-          "EDDF",
-          "EDFE",
-          "EDFQ",
-          "EDFZ",
-          "ETOU"
-        ],
-        "xfl": 340,
-        "nextSectors": [
-          "SAL"
-        ],
-        "copText": "",
-        "waypoints": []
-      },
-      {
-        "destinations": [
-          "LKPR",
-          "LKPD",
-          "LKKB",
-          "LKCV",
-          "LKHK",
-          "LKMH",
-          "LKVO"
-        ],
-        "xfl": 350,
-        "nextSectors": [
-          "SAL"
-        ],
-        "copText": "",
-        "waypoints": []
-      },
-      {
-        "destinations": [
-          "LKPR",
-          "LKPD",
-          "LKKB",
-          "LKCV",
-          "LKHK",
-          "LKMH",
-          "LKVO",
-          "LKPM"
-        ],
-        "xfl": 350,
-        "nextSectors": [
-          "SPE1"
-        ],
-        "copText": "",
-        "waypoints": []
       },
       {
         "destinations": [
