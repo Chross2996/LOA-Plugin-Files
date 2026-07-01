@@ -1208,6 +1208,21 @@
         "waypoints": [
           "OKG"
         ]
+      },
+      {
+        "origins": [
+          "EDDN"
+        ],
+        "destinations": [],
+        "xfl": 190,
+        "nextSectors": [
+          "BBG"
+        ],
+        "copText": "XBBG",
+        "waypoints": [],
+        "predictedEnterVolumes": [
+          "BBG_VOL"
+        ]
       }
     ],
     "destinationLoas": [
