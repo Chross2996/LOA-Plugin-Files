@@ -1158,10 +1158,7 @@
       },
       {
         "origins": [
-          "EDQA",
-          "EDQC",
-          "EDQD",
-          "EDQM",
+          "EDQ*",
           "ETIC"
         ],
         "xfl": 170,
