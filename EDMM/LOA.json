@@ -1061,9 +1061,9 @@
         "nextSectors": [
           "WLD"
         ],
-        "copText": "AKANU",
+        "copText": "BOLSI",
         "waypoints": [
-          "AKANU"
+          "BOLSI"
         ]
       },
       {
@@ -1352,6 +1352,16 @@
         "copText": "OKG",
         "waypoints": [
           "OKG"
+        ]
+      },
+      {
+        "origins": [],
+        "destinations": [],
+        "xfl": 0,
+        "nextSectors": [],
+        "copText": "NEW",
+        "waypoints": [
+          "NEW"
         ]
       }
     ]
