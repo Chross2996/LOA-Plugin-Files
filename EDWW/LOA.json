@@ -8699,20 +8699,6 @@
           "EID"
         ],
         "waypoints": []
-      },
-      {
-        "destinations": [],
-        "predictedFromVolumes": [
-          "JEV_VOL"
-        ],
-        "predictedToVolumes": [
-          "WST_VOL"
-        ],
-        "copText": "ABNED",
-        "nextSectors": [],
-        "waypoints": [
-          "ABNED"
-        ]
       }
     ],
     "departureLoas": [
