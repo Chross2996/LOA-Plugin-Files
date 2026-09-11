@@ -87,6 +87,23 @@
         ]
       },
       {
+        "origins": [
+          "EDDE"
+        ],
+        "destinations": [
+          "EDDV",
+          "ETNW"
+        ],
+        "xfl": 200,
+        "nextSectors": [
+          "HRZ"
+        ],
+        "copText": "BOKSO",
+        "waypoints": [
+          "BOKSO"
+        ]
+      },
+      {
         "destinations": [
           "EDDW",
           "EDDV",
@@ -1367,14 +1384,14 @@
         ]
       },
       {
-        "origins": [],
         "destinations": [],
+        "predictedEndVolumes": [
+          "FRK_VOL"
+        ],
         "xfl": 0,
+        "copText": "COPX",
         "nextSectors": [],
-        "copText": "NEW",
-        "waypoints": [
-          "NEW"
-        ]
+        "waypoints": []
       }
     ]
   },
@@ -1568,6 +1585,16 @@
         "waypoints": [
           "ALOSO"
         ]
+      },
+      {
+        "destinations": [],
+        "predictedEndVolumes": [
+          "TRS_VOL"
+        ],
+        "xfl": 0,
+        "copText": "COPX",
+        "nextSectors": [],
+        "waypoints": []
       }
     ]
   },
@@ -3258,6 +3285,9 @@
         ]
       },
       {
+        "origins": [
+          "EDDP"
+        ],
         "destinations": [
           "EDBM",
           "EDBC"
@@ -3270,6 +3300,16 @@
         "waypoints": [
           "ODLUN"
         ]
+      },
+      {
+        "destinations": [],
+        "predictedEndVolumes": [
+          "TRN_VOL"
+        ],
+        "xfl": 0,
+        "copText": "COPX",
+        "nextSectors": [],
+        "waypoints": []
       }
     ]
   },
@@ -3483,6 +3523,9 @@
         ]
       },
       {
+        "origins": [
+          "EDDC"
+        ],
         "destinations": [
           "EDDB"
         ],
@@ -3522,6 +3565,9 @@
         ]
       },
       {
+        "origins": [
+          "EDDC"
+        ],
         "destinations": [
           "LKPR",
           "LKKB",
@@ -3537,6 +3583,9 @@
         ]
       },
       {
+        "origins": [
+          "EDDC"
+        ],        
         "destinations": [
           "LKPR",
           "LKKB",
@@ -3550,6 +3599,16 @@
         "waypoints": [
           "DEKOV"
         ]
+      },
+      {
+        "destinations": [],
+        "predictedEndVolumes": [
+          "SAS_VOL"
+        ],
+        "xfl": 0,
+        "copText": "COPX",
+        "nextSectors": [],
+        "waypoints": []
       }
     ]
   },
