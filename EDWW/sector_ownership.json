@@ -73,6 +73,17 @@
       "OSE12",
       "OSE22"
     ],
+    "MAR": [
+      "MRZ",
+      "MAR",
+      "FLG",
+      "BOR",
+      "NLR",
+      "OSE12",
+      "OSE22",
+      "HVL12",
+      "HVL22"
+    ],
     "OSE12": [
       "OSE12",
       "OSE22",
@@ -81,6 +92,14 @@
     "OSE22": [
       "OSE22",
       "HVL12"
+    ],
+    "HVL12": [
+      "HVL12",
+      "OSE12",
+      "HVL22",
+      "OSE22",
+      "SAL",
+      "SPE"
     ],
     "FRI": [
       "FRI"
@@ -134,6 +153,38 @@
     ],
     "DVAT": [
       "DVAT"
+    ],
+    "DBAN": [
+      "DBAN",
+      "DBDN",
+      "DBAS",
+      "DBDS",
+      "DBANT",
+      "DBAST"
+    ],
+    "DBAS": [
+      "DBAS",
+      "DBDS",
+      "DBAN",
+      "DBDN",
+      "DBAST",
+      "DBANT"
+    ],
+    "DBDN": [
+      "DBDN",
+      "DBDS"
+    ],
+    "DBANT": [
+      "DBANT",
+      "DBAST"
+    ],
+    "DBAST": [
+      "DBAST",
+      "DBANT"
+    ],
+    "DBDS": [
+      "DBDS",
+      "DBDN"
     ],
     "SL": [
       "SL",
@@ -425,11 +476,11 @@
     ],
     "EPSC": [
       "EPSC",
-      "EPWB",
-      "EPWG",
+      "EPWDBT",
+      "EPWDBF",
       "EPWN",
-      "EPWW",
-      "EPWU"
+      "EPWALL",
+      "EPWALH"
     ],
     "HFR": [
       "HFR"
@@ -529,6 +580,10 @@
       "GGN",
       "GGNH"
     ],
+    "DLA": [
+      "BOT",
+      "DLD"
+    ],    
     "EIF": [
       "EIF",
       "RUD",
@@ -639,8 +694,8 @@
     "DBDN": [
       "DBDN",
       "DBDS",
-      "DBAS",
       "DBAN",
+      "DBAS",
       "FLG",
       "BOR",
       "MAR",
@@ -649,8 +704,8 @@
     "DBDS": [
       "DBDS",
       "DBDN",
-      "DBAS",
       "DBAN",
+      "DBAS",
       "FLG",
       "BOR",
       "MAR",
@@ -1293,35 +1348,61 @@
     "EPOS": [
       "EPOS",
       "EPON",
-      "EPWW",
-      "EPWU"
+      "EPWTM",
+      "EPWDT",
+      "EPWTCJ",
+      "EPWDTC",
+      "EPWDBT",
+      "EPWS",
+      "EPWALL",
+      "EPWALH"
     ],
-    "EPWB": [
-      "EPWB",
-      "EPWG",
+    "EPWDBT": [
+      "EPWDBT",
+      "EPWDT",
+      "EPWDTC",
+      "EPWDBF",
       "EPWN",
-      "EPWW",
-      "EPWU",
-      "EEN"
+      "EPWALH",
+      "EPWD",
+      "EPWALL"
     ],
-    "EPWU": [
-      "EPWU",
-      "EPWB",
-      "EPWG",
+    "EPWN": [
       "EPWN",
-      "EPWW",
-      "EEN"
+      "EPWALH",
+      "EPWDBT",
+      "EPWDBF",
+      "EPWALL"
     ],
     "EPWD": [
       "EPWD",
-      "EPWW",
-      "EPWU",
-      "EEN"
+      "EPWDBT",
+      "EPWDT",
+      "EPWDTC",
+      "EPWDBF",
+      "EPWN",
+      "EPWALL",
+      "EPWALH"
     ],
-    "EPWW": [
-      "EPWW",
-      "EPWU",
-      "EEN"
+    "EPWDTC": [
+      "EPWDTC",
+      "EPWN",
+      "EPWDBF",
+      "EPWALH",
+      "EPWDT",
+      "EPWDBT",
+      "EPWD",
+      "EPWALL"
+    ],
+    "EPWTM": [
+      "EPWTM",
+      "EPWDT",
+      "EPWTCJ",
+      "EPWDTC",
+      "EPWDBT",
+      "EPWS",
+      "EPWALL",
+      "EPWALH"
     ],
     "GDI": [
       "GDI",
