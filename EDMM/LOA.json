@@ -148,6 +148,34 @@
         "waypoints": [
           "GALMA"
         ]
+      },
+      {
+        "predictedFromVolumes": [
+          "HAL_VOL"
+        ],
+        "predictedToVolumes": [
+          "TRN_VOL"
+        ],
+        "xflText": "20V",
+        "nextSectors": [
+          "TRN"
+        ],
+        "copText": "XTRN",
+        "waypoints": []
+      },
+      {
+        "predictedFromVolumes": [
+          "HAL_VOL"
+        ],
+        "predictedToVolumes": [
+          "TRS_VOL"
+        ],
+        "xflText": "20V",
+        "nextSectors": [
+          "TRS"
+        ],
+        "copText": "XTRS",
+        "waypoints": []
       }
     ],
     "departureLoas": [
@@ -463,6 +491,12 @@
           "EDDW",
           "ETNW"
         ],
+        "predictedFromVolumes": [
+          "BBG_VOL"
+        ], 
+        "predictedToVolumes": [
+          "GER_VOL"
+        ],
         "xfl": 300,
         "nextSectors": [
           "GER"
@@ -478,6 +512,12 @@
           "EDDW",
           "ETNW"
         ],
+        "predictedFromVolumes": [
+          "BBG_VOL"
+        ], 
+        "predictedToVolumes": [
+          "GER_VOL"
+        ],        
         "xfl": 300,
         "nextSectors": [
           "GER"
@@ -995,6 +1035,7 @@
         ],
         "copText": "DKB",
         "waypoints": [
+          "BOLSI",
           "DKB"
         ]
       },
@@ -1126,7 +1167,8 @@
         ],
         "copText": "BOLSI",
         "waypoints": [
-          "BOLSI"
+          "BOLSI",
+          "AKANU"
         ]
       },
       {
@@ -2785,6 +2827,34 @@
         "waypoints": [
           "ALOSO"
         ]
+      },
+      {
+        "predictedFromVolumes": [
+          "GER_VOL"
+        ],
+        "predictedToVolumes": [
+          "TRN_VOL"
+        ],
+        "xflText": "20V",
+        "nextSectors": [
+          "TRN"
+        ],
+        "copText": "XTRN",
+        "waypoints": []
+      },
+      {
+        "predictedFromVolumes": [
+          "GER_VOL"
+        ],
+        "predictedToVolumes": [
+          "TRS_VOL"
+        ],
+        "xflText": "20V",
+        "nextSectors": [
+          "TRS"
+        ],
+        "copText": "XTRS",
+        "waypoints": []
       }
     ]
   },
@@ -3360,6 +3430,20 @@
         "waypoints": [
           "BEBEX"
         ]
+      },
+      {
+        "predictedFromVolumes": [
+          "MEI_VOL"
+        ],
+        "predictedToVolumes": [
+          "SAS_VOL"
+        ],
+        "xflText": "17V",
+        "nextSectors": [
+          "SAS"
+        ],
+        "copText": "XSAS",
+        "waypoints": []
       }
     ]
   },
@@ -3954,7 +4038,7 @@
           "EDVE",
           "EDBM"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "HOF"
         ],
@@ -3968,7 +4052,7 @@
           "EDDC",
           "EDAB"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "HOF"
         ],
@@ -3987,7 +4071,7 @@
           "LKHK",
           "LKMH"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "HOF"
         ],
@@ -4000,7 +4084,7 @@
         "destinations": [
           "EDDF"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "HOF"
         ],
@@ -4013,7 +4097,7 @@
         "destinations": [
           "EDDF"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "BBG"
         ],
@@ -4027,7 +4111,7 @@
           "EDDF",
           "ETAR"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "HOF"
         ],
@@ -4043,10 +4127,10 @@
           "LOWL"
         ],
         "predictedFromVolumes": [
-          "ERL_VOL"
+          "ERL_NOLIM"
         ],
         "predictedToVolumes": [
-          "DON_VOL"
+          "DON_NOLIM"
         ],
         "xfl": 320,
         "nextSectors": [
@@ -4082,10 +4166,10 @@
           "EDLW"
         ],
         "predictedFromVolumes": [
-          "ERL_VOL"
+          "ERL_NOLIM"
         ],
         "predictedToVolumes": [
-          "FUL_VOL"
+          "FUL_NOLIM"
         ],
         "xfl": 320,
         "nextSectors": [
@@ -4101,10 +4185,10 @@
           "ETNW"
         ],
         "predictedFromVolumes": [
-          "ERL_VOL"
+          "ERL_NOLIM"
         ],
         "predictedToVolumes": [
-          "FUL_VOL"
+          "FUL_NOLIM"
         ],
         "xfl": 340,
         "nextSectors": [
@@ -4132,10 +4216,10 @@
           "ETNW"
         ],
         "predictedFromVolumes": [
-          "ERL_VOL"
+          "ERL_NOLIM"
         ],
         "predictedToVolumes": [
-          "SAL_VOL"
+          "SAL_NOLIM"
         ],
         "xfl": 320,
         "nextSectors": [
@@ -4154,10 +4238,10 @@
           "ETAD"
         ],
         "predictedFromVolumes": [
-          "ERL_VOL"
+          "ERL_NOLIM"
         ],
         "predictedToVolumes": [
-          "WUR_VOL"
+          "WUR_NOLIM"
         ],
         "xfl": 320,
         "nextSectors": [
@@ -4175,10 +4259,10 @@
           "LFSN"
         ],
         "predictedFromVolumes": [
-          "ERL_VOL"
+          "ERL_NOLIM"
         ],
         "predictedToVolumes": [
-          "WUR_VOL"
+          "WUR_NOLIM"
         ],
         "xfl": 360,
         "nextSectors": [
@@ -4193,10 +4277,10 @@
           "EDTD"
         ],
         "predictedFromVolumes": [
-          "ERL_VOL"
+          "ERL_NOLIM"
         ],
         "predictedToVolumes": [
-          "WUR_VOL"
+          "WUR_NOLIM"
         ],
         "xfl": 340,
         "nextSectors": [
@@ -4225,7 +4309,7 @@
           "LKCS",
           "LKPM"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
@@ -4238,7 +4322,7 @@
         "destinations": [
           "EPWR"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
@@ -4253,7 +4337,7 @@
           "EPPO",
           "EPZG"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
@@ -4273,7 +4357,7 @@
           "LKHK",
           "LKMH"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
@@ -4293,7 +4377,7 @@
           "LKHK",
           "LKMH"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
@@ -4313,7 +4397,7 @@
           "LKHK",
           "LKMH"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4333,7 +4417,7 @@
           "LKHK",
           "LKMH"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4348,7 +4432,7 @@
           "EDDS",
           "EDJA"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
@@ -4372,7 +4456,7 @@
           "LKKV",
           "LKCS"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
@@ -4405,10 +4489,10 @@
           "ETNW"
         ],
         "predictedFromVolumes": [
-          "SPE_VOL"
+          "SPE_NOLIM"
         ],
         "predictedToVolumes": [
-          "HVL_VOL"
+          "HVL_NOLIM"
         ],
         "xfl": 360,
         "nextSectors": [
@@ -4440,10 +4524,10 @@
           "ETOU"
         ],
         "predictedFromVolumes": [
-          "SPE_VOL"
+          "SPE_NOLIM"
         ],
         "predictedToVolumes": [
-          "SAL_VOL"
+          "SAL_NOLIM"
         ],
         "xfl": 360,
         "nextSectors": [
@@ -4461,10 +4545,10 @@
           "ETOU"
         ],
         "predictedFromVolumes": [
-          "SPE_VOL"
+          "SPE_NOLIM"
         ],
         "predictedToVolumes": [
-          "SAL_VOL"
+          "SAL_NOLIM"
         ],
         "xfl": 360,
         "nextSectors": [
@@ -4494,10 +4578,10 @@
           "EDMO"
         ],
         "predictedFromVolumes": [
-          "SPE_VOL"
+          "SPE_NOLIM"
         ],
         "predictedToVolumes": [
-          "SAL_VOL"
+          "SAL_NOLIM"
         ],
         "xfl": 350,
         "nextSectors": [
@@ -4511,10 +4595,10 @@
           "EDDV"
         ],
         "predictedFromVolumes": [
-          "SPE_VOL"
+          "SPE_NOLIM"
         ],
         "predictedToVolumes": [
-          "SAL_VOL"
+          "SAL_NOLIM"
         ],
         "xfl": 320,
         "nextSectors": [
@@ -4559,7 +4643,7 @@
         "destinations": [
           "EDDV"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4574,7 +4658,7 @@
           "EDDW",
           "ETNW"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4589,7 +4673,7 @@
           "EDAY",
           "EDAZ"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4604,7 +4688,7 @@
           "EDAY",
           "EDAZ"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4625,7 +4709,7 @@
           "EDQA",
           "ETIC"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4642,7 +4726,7 @@
           "EDFZ",
           "EDFQ"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "HAL"
         ],
@@ -4659,7 +4743,7 @@
           "EDFZ",
           "EDFQ"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "HAL"
         ],
@@ -4676,7 +4760,7 @@
           "EDFZ",
           "EDFQ"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4692,7 +4776,7 @@
           "ETIN",
           "LKKV"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "HAL"
         ],
@@ -4706,7 +4790,7 @@
           "ETSI",
           "ETSN"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4720,7 +4804,7 @@
           "ETSI",
           "ETSN"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4744,7 +4828,7 @@
           "EDTM",
           "ETAR"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
@@ -4759,7 +4843,7 @@
           "EDMA",
           "EDMO"
         ],
-        "xfl": 320,
+        "xflText": "32V",
         "nextSectors": [
           "HOF"
         ],
@@ -4775,12 +4859,12 @@
           "LOWI"
         ],
         "predictedFromVolumes": [
-          "SAL_VOL"
+          "SAL_NOLIM"
         ],
         "predictedToVolumes": [
-          "ERL_VOL"
+          "ERL_NOLIM"
         ],
-        "xfl": 370,
+        "xfl": 320,
         "nextSectors": [
           "ERL"
         ],
@@ -4793,10 +4877,10 @@
           "EDTM"
         ],
         "predictedFromVolumes": [
-          "SAL_VOL"
+          "SAL_NOLIM"
         ],
         "predictedToVolumes": [
-          "ERL_VOL"
+          "ERL_NOLIM"
         ],
         "xfl": 350,
         "nextSectors": [
@@ -4830,10 +4914,10 @@
           "LKCS"
         ],
         "predictedFromVolumes": [
-          "SAL_VOL"
+          "SAL_NOLIM"
         ],
         "predictedToVolumes": [
-          "SPE_VOL"
+          "SPE_NOLIM"
         ],
         "xfl": 320,
         "nextSectors": [
