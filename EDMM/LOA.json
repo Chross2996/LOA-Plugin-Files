@@ -533,6 +533,12 @@
           "EDVE",
           "EDBC"
         ],
+        "predictedFromVolumes": [
+          "BBG_VOL"
+        ], 
+        "predictedToVolumes": [
+          "GER_VOL"
+        ],
         "xfl": 280,
         "nextSectors": [
           "GER"
@@ -548,6 +554,12 @@
           "EDVE",
           "EDBC"
         ],
+        "predictedFromVolumes": [
+          "BBG_VOL"
+        ], 
+        "predictedToVolumes": [
+          "GER_VOL"
+        ],        
         "xfl": 280,
         "nextSectors": [
           "GER"
@@ -609,82 +621,6 @@
         "copText": "ERETO",
         "waypoints": [
           "ERETO"
-        ]
-      },
-      {
-        "destinations": [
-          "EDDK",
-          "EDLW",
-          "EDLA",
-          "EDKZ",
-          "EDLP",
-          "EDLI",
-          "EDFQ",
-          "EDDL"
-        ],
-        "xfl": 300,
-        "nextSectors": [
-          "FUL"
-        ],
-        "copText": "VAGAB",
-        "waypoints": [
-          "VAGAB"
-        ]
-      },
-      {
-        "destinations": [
-          "EDDK",
-          "EDLW",
-          "EDLA",
-          "EDKZ",
-          "EDLP",
-          "EDLI",
-          "EDFQ",
-          "EDDL"
-        ],
-        "xfl": 300,
-        "nextSectors": [
-          "FUL"
-        ],
-        "copText": "PILAM",
-        "waypoints": [
-          "PILAM"
-        ]
-      },
-      {
-        "destinations": [
-          "EDDK",
-          "EDLW",
-          "EDLA",
-          "EDKZ",
-          "EDLP",
-          "EDLI"
-        ],
-        "xfl": 300,
-        "nextSectors": [
-          "FUL"
-        ],
-        "copText": "GASKA",
-        "waypoints": [
-          "GASKA"
-        ]
-      },
-      {
-        "destinations": [
-          "EDDK",
-          "EDLW",
-          "EDLA",
-          "EDKZ",
-          "EDLP",
-          "EDLI"
-        ],
-        "xfl": 300,
-        "nextSectors": [
-          "FUL"
-        ],
-        "copText": "TESDU",
-        "waypoints": [
-          "TESDU"
         ]
       },
       {
