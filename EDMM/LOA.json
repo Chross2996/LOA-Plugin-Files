@@ -491,7 +491,7 @@
           "EDDW",
           "ETNW"
         ],
-        "RFLbelow": 310,
+        "RFLbelow": 315,
         "xfl": 300,
         "nextSectors": [
           "GER"
@@ -507,7 +507,7 @@
           "EDDW",
           "ETNW"
         ],
-        "RFLbelow": 310,
+        "RFLbelow": 315,
         "xfl": 300,
         "nextSectors": [
           "GER"
@@ -523,7 +523,7 @@
           "EDVE",
           "EDBC"
         ],
-        "RFLbelow": 310,
+        "RFLbelow": 315,
         "xfl": 280,
         "nextSectors": [
           "GER"
@@ -539,7 +539,7 @@
           "EDVE",
           "EDBC"
         ],
-        "RFLbelow": 310,        
+        "RFLbelow": 315,       
         "xfl": 280,
         "nextSectors": [
           "GER"
