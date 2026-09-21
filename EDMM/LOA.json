@@ -852,6 +852,25 @@
       },
       {
         "origins": [
+          "EDDM"
+        ],
+        "predictedFromVolumes": [
+          "BBG_VOL"
+        ],
+        "predictedToVolumes": [
+          "GER_VOL"
+        ],
+        "xfl": 300,
+        "nextSectors": [
+          "GER"
+        ],
+        "copText": "PIBAD",
+        "waypoints": [
+          "PIBAD"
+        ]
+      },
+      {
+        "origins": [
           "LKKV",
           "EDQD",
           "EDQM"
