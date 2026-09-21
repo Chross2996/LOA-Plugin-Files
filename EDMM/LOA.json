@@ -491,12 +491,7 @@
           "EDDW",
           "ETNW"
         ],
-        "predictedFromVolumes": [
-          "BBG_VOL"
-        ], 
-        "predictedToVolumes": [
-          "GER_VOL"
-        ],
+        "RFLbelow": 315,
         "xfl": 300,
         "nextSectors": [
           "GER"
@@ -512,12 +507,7 @@
           "EDDW",
           "ETNW"
         ],
-        "predictedFromVolumes": [
-          "BBG_VOL"
-        ], 
-        "predictedToVolumes": [
-          "GER_VOL"
-        ],        
+        "RFLbelow": 315,      
         "xfl": 300,
         "nextSectors": [
           "GER"
@@ -533,12 +523,7 @@
           "EDVE",
           "EDBC"
         ],
-        "predictedFromVolumes": [
-          "BBG_VOL"
-        ], 
-        "predictedToVolumes": [
-          "GER_VOL"
-        ],
+        "RFLbelow": 315,
         "xfl": 280,
         "nextSectors": [
           "GER"
@@ -554,12 +539,7 @@
           "EDVE",
           "EDBC"
         ],
-        "predictedFromVolumes": [
-          "BBG_VOL"
-        ], 
-        "predictedToVolumes": [
-          "GER_VOL"
-        ],        
+        "RFLbelow": 315,        
         "xfl": 280,
         "nextSectors": [
           "GER"
