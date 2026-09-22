@@ -866,7 +866,8 @@
         "copText": "PIBAD",
         "waypoints": [
           "PIBAD"
-        ]
+        ],
+        "Remarks": "Applicable for slow climbers only"
       },
       {
         "origins": [
