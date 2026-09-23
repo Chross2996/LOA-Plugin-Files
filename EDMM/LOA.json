@@ -4056,6 +4056,24 @@
       },
       {
         "destinations": [
+          "LOWW",
+          "EPWR"
+        ],
+        "predictedFromVolumes": [
+          "ERL_NOLIM"
+        ],
+        "predictedToVolumes": [
+          "LKAA_U_NOLIM"
+        ],
+        "xfl": 350,
+        "nextSectors": [
+          "LKWU"
+        ],
+        "copText": "XLKWU",
+        "waypoints": []
+      },
+      {
+        "destinations": [
           "LOWS",
           "LOWI",
           "LOWL"
@@ -4072,19 +4090,6 @@
         ],
         "copText": "XDON",
         "waypoints": []
-      },
-      {
-        "destinations": [
-          "LOWW"
-        ],
-        "xfl": 370,
-        "nextSectors": [
-          "DON"
-        ],
-        "copText": "XDON",
-        "waypoints": [
-          "BUDEX"
-        ]
       },
       {
         "destinations": [
@@ -4540,6 +4545,24 @@
         ],
         "copText": "XSAL",
         "waypoints": []
+      },
+      {
+        "destinations": [
+          "LOWW",
+          "EPWR"
+        ],
+        "predictedFromVolumes": [
+          "SPE_NOLIM"
+        ],
+        "predictedToVolumes": [
+          "LKAA_U_NOLIM"
+        ],
+        "xfl": 350,
+        "nextSectors": [
+          "LKWU"
+        ],
+        "copText": "XLKWU",
+        "waypoints": []
       }
     ],
     "departureLoas": [
@@ -4785,6 +4808,24 @@
         "waypoints": [
           "SODRO"
         ]
+      },
+      {
+        "destinations": [
+          "LOWW",
+          "EPWR"
+        ],
+        "predictedFromVolumes": [
+          "SAL_NOLIM"
+        ],
+        "predictedToVolumes": [
+          "LKAA_U_NOLIM"
+        ],
+        "xfl": 350,
+        "nextSectors": [
+          "LKWU"
+        ],
+        "copText": "XLKWU",
+        "waypoints": []
       },
       {
         "destinations": [
