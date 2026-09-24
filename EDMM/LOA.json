@@ -966,7 +966,7 @@
         ],
         "xfl": 100,
         "nextSectors": [
-          "KTG"
+          "STG"
         ],
         "copText": "AMOSA",
         "waypoints": [
@@ -977,11 +977,17 @@
         "destinations": [
           "EDQG"
         ],
+        "predictedFromBoundaries": [
+          "FRK_VOL"
+        ],
+        "predictedToBoundaries": [
+          "DKB_85_VOL"
+        ],
         "xfl": 80,
         "nextSectors": [
-          "KTG"
+          "DKB"
         ],
-        "copText": "",
+        "copText": "COORD",
         "waypoints": []
       },
       {
@@ -1007,7 +1013,7 @@
         ],
         "xfl": 50,
         "nextSectors": [
-          "KTG"
+          "DKB"
         ],
         "copText": "ILM",
         "waypoints": [
