@@ -988,11 +988,17 @@
         "destinations": [
           "ETHN"
         ],
+        "predictedFromBoundaries": [
+          "FRK_VOL"
+        ],
+        "predictedToBoundaries": [
+          "DKB_85_VOL"
+        ],
         "xfl": 80,
         "nextSectors": [
           "DKB"
         ],
-        "copText": "",
+        "copText": "COORD",
         "waypoints": []
       },
       {
