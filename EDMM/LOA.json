@@ -559,20 +559,8 @@
         ],
         "copText": "LASGA",
         "waypoints": [
-          "LASGA"
-        ]
-      },
-      {
-        "destinations": [
-          "EDDP"
-        ],
-        "xfl": 230,
-        "nextSectors": [
-          "HOF"
-        ],
-        "copText": "PIBAD",
-        "waypoints": [
-          "PIBAD"
+          "LASGA",
+          "TABAT"
         ]
       },
       {
