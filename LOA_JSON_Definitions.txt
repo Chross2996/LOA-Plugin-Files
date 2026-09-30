@@ -1,0 +1,336 @@
+LOA.json DEFINITIONS
+====================
+
+Current definitions supported/identified in the LOA plugin:
+
+STRUCTURE
+---------
+destinationLoas
+    Array containing arrival/destination LOA definitions.
+
+departureLoas
+    Array containing departure LOA definitions.
+
+
+AIRPORT MATCHING
+----------------
+origins
+    Array of required origin airports.
+
+destinations
+    Array of required destination airports.
+
+excludeOrigins
+    Array of origin airports that prevent the LOA from matching.
+
+excludeDestinations
+    Array of destination airports that prevent the LOA from matching.
+
+
+ROUTE / WAYPOINT MATCHING
+-------------------------
+waypoints
+    Array of waypoints that must ALL be present in the route.
+
+fcopx
+    Array of waypoints where ANY ONE of the listed waypoints must be present
+    in the route.
+
+notViaWaypoints
+    Array of waypoints. If ANY of these occur in the route, the LOA does not match.
+
+notVia
+    Alias for notViaWaypoints.
+
+
+PREDICTED VOLUME MATCHING
+-------------------------
+predictedEnterVolumes
+    Matches when the predicted trajectory enters ANY listed volume.
+
+predictedFromVolumes
+    Defines volume(s) the predicted trajectory must come FROM.
+
+predictedToVolumes
+    Defines volume(s) the predicted trajectory must subsequently go TO.
+
+
+PREDICTED BOUNDARY MATCHING
+---------------------------
+predictedEnterBoundaries
+    Predicted trajectory enters the listed boundary/volume laterally.
+    Altitude limits are ignored.
+
+predictedFromBoundaries
+    Predicted trajectory comes FROM the listed boundary/volume laterally.
+    Altitude limits are ignored.
+
+predictedToBoundaries
+    Predicted trajectory goes TO the listed boundary/volume laterally.
+    Altitude limits are ignored.
+
+Singular aliases also accepted:
+    predictedEnterBoundary
+    predictedFromBoundary
+    predictedToBoundary
+
+
+START / END VOLUMES
+-------------------
+startVolumes
+    Matches when the flight starts inside ANY listed volume.
+
+endVolumes
+    Matches when the flight ends inside ANY listed volume.
+
+Older aliases:
+    predictedStartVolumes
+    predictedEndVolumes
+
+
+NEXT SECTOR
+-----------
+nextSectors
+    Array containing one or more next-sector IDs.
+
+
+XFL
+---
+xfl
+    Numeric XFL value.
+
+    Example:
+        "xfl": 250
+
+xflText
+    Custom XFL display text.
+
+    Can be used together with xfl:
+        "xfl": 250,
+        "xflText": "250"
+
+    It can also be used by itself:
+        "xflText": "23R"
+
+xfltext
+    Lowercase alias for xflText.
+
+
+RFL RESTRICTIONS
+----------------
+RFLabove
+    Minimum required filed RFL.
+
+    Example:
+        "RFLabove": 250
+
+RFLbelow
+    Maximum allowed filed RFL.
+
+    Example:
+        "RFLbelow": 350
+
+Both can be used together:
+    "RFLabove": 250,
+    "RFLbelow": 350
+
+
+COP
+---
+copText
+    Text displayed/used for the COP.
+
+    Default internal value:
+        COPX
+
+
+RUNWAY MATCHING
+---------------
+runways
+    Generic runway restriction.
+
+    For departure LOAs:
+        Checked against active departure runways at the origin.
+
+    For destination LOAs:
+        Checked against active arrival runways at the destination.
+
+depRunways
+    Departure-specific runway restriction.
+
+arrRunways
+    Arrival-specific runway restriction.
+
+
+SECTOR-LEVEL AOR
+----------------
+aorDestinations
+    Sector-level list of destinations associated with the sector's AOR.
+
+
+EXAMPLE
+-------
+{
+    "EMS": {
+        "aorDestinations": [
+            "EDDH",
+            "EDHI",
+            "EDHL"
+        ],
+
+        "destinationLoas": [
+            {
+                "destinations": [
+                    "EDDH",
+                    "EDHI"
+                ],
+
+                "excludeOrigins": [
+                    "EDDV"
+                ],
+
+                "waypoints": [
+                    "WAYPT"
+                ],
+
+                "fcopx": [
+                    "NEBUN",
+                    "LUMAS"
+                ],
+
+                "notViaWaypoints": [
+                    "BADWP"
+                ],
+
+                "predictedEnterVolumes": [
+                    "FORCE_EMS"
+                ],
+
+                "predictedFromVolumes": [
+                    "MNS1_VOL"
+                ],
+
+                "predictedToVolumes": [
+                    "SOL_VOL"
+                ],
+
+                "predictedEnterBoundaries": [
+                    "EMS_BOUNDARY"
+                ],
+
+                "startVolumes": [
+                    "START_VOL"
+                ],
+
+                "endVolumes": [
+                    "END_VOL"
+                ],
+
+                "nextSectors": [
+                    "EMS"
+                ],
+
+                "xfl": 250,
+
+                "xflText": "250",
+
+                "RFLabove": 250,
+
+                "RFLbelow": 350,
+
+                "copText": "XEMS",
+
+                "arrRunways": [
+                    "23",
+                    "05"
+                ]
+            }
+        ],
+
+        "departureLoas": [
+            {
+                "origins": [
+                    "EDDW"
+                ],
+
+                "destinations": [
+                    "EDDH"
+                ],
+
+                "nextSectors": [
+                    "EMS"
+                ],
+
+                "xfl": 290,
+
+                "copText": "NEBUN",
+
+                "depRunways": [
+                    "27"
+                ]
+            }
+        ]
+    }
+}
+
+
+COMPLETE LIST
+-------------
+destinationLoas
+departureLoas
+
+origins
+destinations
+excludeOrigins
+excludeDestinations
+
+waypoints
+fcopx
+notViaWaypoints
+notVia
+
+predictedEnterVolumes
+predictedFromVolumes
+predictedToVolumes
+
+predictedEnterBoundaries
+predictedFromBoundaries
+predictedToBoundaries
+predictedEnterBoundary
+predictedFromBoundary
+predictedToBoundary
+
+startVolumes
+endVolumes
+predictedStartVolumes
+predictedEndVolumes
+
+nextSectors
+
+xfl
+xflText
+xfltext
+
+RFLabove
+RFLbelow
+
+copText
+
+runways
+depRunways
+arrRunways
+
+aorDestinations
+
+
+NOTE
+----
+The internal LOAEntry structure also contains:
+    requireNextSectorOnline
+
+However, the current plugin source reviewed did not show this field being
+parsed from LOA.json, so it should not be considered a currently usable
+LOA.json definition unless the parser is updated.
+
+Older fallback LOA/minAltitude definitions were not included because they
+are not part of the current LOAEntry structure reviewed.
