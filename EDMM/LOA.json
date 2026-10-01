@@ -381,6 +381,18 @@
         "waypoints": [
           "KUMER"
         ]
+      },
+      {
+        "predictedEnterVolumes": [
+          "SAL_VOL"
+        ],        
+        "origins": [],
+        "xflText": "31V",
+        "nextSectors": [
+          "SAL"
+        ],
+        "copText": "XSAL",
+        "waypoints": []
       }
     ]
   },
