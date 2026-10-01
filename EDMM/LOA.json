@@ -386,7 +386,6 @@
         "predictedEnterVolumes": [
           "SAL_VOL"
         ],        
-        "origins": [],
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -955,6 +954,28 @@
         "waypoints": [
           "BAMAS"
         ]
+      },
+      {
+        "predictedEnterVolumes": [
+          "ERL_VOL"
+        ],        
+        "xflText": "31V",
+        "nextSectors": [
+          "ERL"
+        ],
+        "copText": "XERL",
+        "waypoints": []
+      },
+      {
+        "predictedEnterVolumes": [
+          "SAL_VOL"
+        ],        
+        "xflText": "31V",
+        "nextSectors": [
+          "SAL"
+        ],
+        "copText": "XSAL",
+        "waypoints": []
       }
     ]
   },
@@ -2120,6 +2141,28 @@
         "waypoints": [
           "OKG"
         ]
+      },
+      {
+        "predictedEnterVolumes": [
+          "ERL_VOL"
+        ],        
+        "xflText": "31V",
+        "nextSectors": [
+          "ERL"
+        ],
+        "copText": "XERL",
+        "waypoints": []
+      },
+      {
+        "predictedEnterVolumes": [
+          "SAL_VOL"
+        ],        
+        "xflText": "31V",
+        "nextSectors": [
+          "SAL"
+        ],
+        "copText": "XSAL",
+        "waypoints": []
       }
     ]
   },
@@ -2801,6 +2844,28 @@
         "waypoints": [
           "TADUV"
         ]
+      },
+      {
+        "predictedEnterVolumes": [
+          "SAL_VOL"
+        ],        
+        "xflText": "31V",
+        "nextSectors": [
+          "SAL"
+        ],
+        "copText": "XSAL",
+        "waypoints": []
+      },
+      {
+        "predictedEnterVolumes": [
+          "SPE_VOL"
+        ],        
+        "xflText": "31V",
+        "nextSectors": [
+          "SPE"
+        ],
+        "copText": "XSPE",
+        "waypoints": []
       }
     ]
   },
@@ -3390,6 +3455,17 @@
         "waypoints": [
           "OMELO"
         ]
+      },
+      {
+        "predictedEnterVolumes": [
+          "SPE_VOL"
+        ],        
+        "xflText": "31V",
+        "nextSectors": [
+          "SPE"
+        ],
+        "copText": "XSPE",
+        "waypoints": []
       }
     ]
   },
