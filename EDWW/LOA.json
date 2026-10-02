@@ -8353,11 +8353,8 @@
           "EDLW",
           "EDLA"
         ],
-        "predictedFromBoundaries": [
-          "HOL_VOL"
-        ],
         "predictedEnterBoundaries": [
-          "MNS1_VOL"
+          "MNS4_VOL"
         ],
         "xfl": 320,
         "copText": "XMNS",
@@ -8372,11 +8369,8 @@
           "EDLP",
           "EDFQ"
         ],
-        "predictedFromBoundaries": [
-          "HOL_VOL"
-        ],
         "predictedEnterBoundaries": [
-          "CEL1_VOL"
+          "CEL2_VOL"
         ],
         "xfl": 330,
         "copText": "XCEL",

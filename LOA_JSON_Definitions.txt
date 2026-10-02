@@ -61,11 +61,11 @@ predictedEnterBoundaries
     Predicted trajectory enters the listed boundary/volume laterally.
     Altitude limits are ignored.
 
-predictedFromBoundaries
+predictedFromBoundaries (Sectors need to be in Sequence. SEC1-SEC2 no Sector in between)
     Predicted trajectory comes FROM the listed boundary/volume laterally.
     Altitude limits are ignored.
 
-predictedToBoundaries
+predictedToBoundaries (Sectors need to be in Sequence. SEC1-SEC2 no Sector in between)
     Predicted trajectory goes TO the listed boundary/volume laterally.
     Altitude limits are ignored.
 
