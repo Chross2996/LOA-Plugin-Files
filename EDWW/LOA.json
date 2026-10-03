@@ -8369,7 +8369,9 @@
           "EDLP",
           "EDFQ"
         ],
-        "coordline": "HOL_CEL",
+        "predictedEnterBoundaries": [
+          "CEL2_VOL"
+        ],
         "xfl": 330,
         "copText": "XCEL",
         "nextSectors": [
