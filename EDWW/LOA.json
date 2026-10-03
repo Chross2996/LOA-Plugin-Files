@@ -158,12 +158,7 @@
           "EDWF",
           "ETMN"
         ],
-        "predictedFromBoundaries": [
-          "EMS_VOL"
-        ],
-        "predictedToBoundaries": [
-          "ALR_VOL"
-        ],
+        "coordline": "EMS_ALR",
         "xfl": 210,
         "nextSectors": [
           "ALR"
