@@ -4199,6 +4199,25 @@
       },
       {
         "destinations": [
+          "LOWW"
+        ],
+        "predictedFromBoundaries": [
+          "ERL_VOL"
+        ],
+        "predictedToBoundaries": [
+          "DON_VOL"
+        ],
+        "xfl": 370,
+        "nextSectors": [
+          "DON"
+        ],
+        "copText": "XDON",
+        "waypoints": [
+          "BUDEX"
+        ]
+      },
+      {
+        "destinations": [
           "EDDK",
           "EDKB",
           "EDKZ",
