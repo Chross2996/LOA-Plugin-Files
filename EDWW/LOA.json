@@ -8042,54 +8042,6 @@
       },
       {
         "destinations": [
-          "EDDH",
-          "EDHI",
-          "EDHL",
-          "EDXF",
-          "EDXR",
-          "EDHK",
-          "ETNH",
-          "ETNS"
-        ],
-        "predictedFromBoundaries": [
-          "CEL1_VOL"
-        ],
-        "predictedToVolumes": [
-          "HEI_VOL"
-        ],
-        "xfl": 250,
-        "copText": "XHEI",
-        "nextSectors": [
-          "HEI"
-        ],
-        "waypoints": []
-      },
-      {
-        "destinations": [
-          "EDDH",
-          "EDHI",
-          "EDHL",
-          "EDXF",
-          "EDXR",
-          "EDHK",
-          "ETNH",
-          "ETNS"
-        ],
-        "predictedFromBoundaries": [
-          "CEL1_VOL"
-        ],
-        "predictedToVolumes": [
-          "ALR_VOL"
-        ],
-        "xfl": 245,
-        "copText": "XALR",
-        "nextSectors": [
-          "ALR"
-        ],
-        "waypoints": []
-      },
-      {
-        "destinations": [
           "EDDF",
           "EDFH",
           "EDFQ",
