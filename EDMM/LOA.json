@@ -383,9 +383,12 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+        "predictedFromVolumes": [
+          "HAL_VOL"
+        ],
+        "predictedToVolumes": [
+          "SAS_VOL"
+        ],       
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -601,6 +604,24 @@
         "waypoints": [
           "ERETO"
         ]
+      },
+      {
+        "predictedFromVolumes": [
+          "BBG_VOL"
+        ],
+        "predictedToVolumes": [
+          "FRK_VOL"
+        ],
+        "endVolumes": [
+          "TRN_VOL",
+          "TRS_VOL"
+        ],
+        "xflText": "20V",
+        "nextSectors": [
+          "FRK"
+        ],
+        "copText": "XFRK",
+        "waypoints": []
       },
       {
         "predictedFromVolumes": [
@@ -956,9 +977,12 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
+        "predictedFromVolumes": [
+          "BBG_VOL"
+        ],
+        "predictedToVolumes": [
           "ERL_VOL"
-        ],        
+        ],       
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -967,9 +991,12 @@
         "waypoints": []
       },
       {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+        "predictedFromVolumes": [
+          "BBG_VOL"
+        ],
+        "predictedToVolumes": [
+          "SAS_VOL"
+        ],       
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -998,11 +1025,8 @@
         "destinations": [
           "EDQG"
         ],
-        "predictedFromBoundaries": [
+        "predictedEnterVolumes": [
           "FRK_VOL"
-        ],
-        "predictedToBoundaries": [
-          "DKB_85_VOL"
         ],
         "xfl": 80,
         "nextSectors": [
@@ -1015,17 +1039,14 @@
         "destinations": [
           "ETHN"
         ],
-        "predictedFromBoundaries": [
+        "predictedEnterVolumes": [
           "FRK_VOL"
-        ],
-        "predictedToBoundaries": [
-          "DKB_85_VOL"
         ],
         "xfl": 80,
         "nextSectors": [
           "DKB"
         ],
-        "copText": "COORD",
+        "copText": "XETHN",
         "waypoints": []
       },
       {
@@ -1862,7 +1883,28 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
+        "predictedFromVolumes": [
+          "HOF_VOL"
+        ],
+        "predictedToVolumes": [
+          "FRK_VOL"
+        ],
+        "endVolumes": [
+          "TRN_VOL",
+          "TRS_VOL"
+        ],
+        "xflText": "20V",
+        "nextSectors": [
+          "FRK"
+        ],
+        "copText": "XFRK",
+        "waypoints": []
+      },
+      {
+        "predictedFromVolumes": [
+          "HOF_VOL"
+        ],
+        "predictedToVolumes": [
           "FRK_VOL"
         ],
         "xflText": "20V",
@@ -2143,9 +2185,12 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
+        "predictedFromVolumes": [
+          "HOF_VOL"
+        ],
+        "predictedToVolumes": [
           "ERL_VOL"
-        ],        
+        ],         
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -2154,9 +2199,12 @@
         "waypoints": []
       },
       {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+        "predictedFromVolumes": [
+          "HOF_VOL"
+        ],
+        "predictedToVolumes": [
+          "SAS_VOL"
+        ],       
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -2846,9 +2894,12 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+        "predictedFromVolumes": [
+          "GER_VOL"
+        ],
+        "predictedToVolumes": [
+          "SAS_VOL"
+        ],       
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -2857,9 +2908,12 @@
         "waypoints": []
       },
       {
-        "predictedEnterVolumes": [
+        "predictedFromVolumes": [
+          "GER_VOL"
+        ],
+        "predictedToVolumes": [
           "SPE_VOL"
-        ],        
+        ],       
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3457,9 +3511,12 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
+        "predictedFromVolumes": [
+          "MEI_VOL"
+        ],
+        "predictedToVolumes": [
           "SPE_VOL"
-        ],        
+        ],       
         "xflText": "31V",
         "nextSectors": [
           "SPE"
