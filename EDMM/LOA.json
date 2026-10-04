@@ -733,13 +733,13 @@
           "ALAXA"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {       
         "origins": [
           "EDJA"
         ],
+        "predictedEnterVolumes": [
+          "ERL_VOL"
+        ], 
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -749,13 +749,13 @@
           "ERETO"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {     
         "origins": [
           "EDJA"
         ],
+        "predictedEnterVolumes": [
+          "ERL_VOL"
+        ],   
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -1573,6 +1573,62 @@
         "waypoints": [
           "ALOSO"
         ]
+      },
+      {
+        "destinations": [
+          "EDDP"
+        ],
+        "xfl": 0,
+        "copText": "XPTS",
+        "nextSectors": [
+          "PTS"
+        ],
+        "waypoints": [
+          "TAKOR"
+        ],
+        "remakrs": "For Tower South handoff 26L"
+      },
+      {
+        "destinations": [
+          "EDDP"
+        ],
+        "xfl": 0,
+        "copText": "XPTN",
+        "nextSectors": [
+          "PTN"
+        ],
+        "waypoints": [
+          "KOSAM"
+        ],
+        "remakrs": "For Tower North handoff 26R"
+      },
+      {
+        "destinations": [
+          "EDDP"
+        ],
+        "xfl": 0,
+        "copText": "XPTN",
+        "nextSectors": [
+          "PTN"
+        ],
+        "waypoints": [
+          "MOKUL"
+        ],
+        "remakrs": "For Tower North handoff 08L"
+      },
+      {
+        "destinations": [
+          "EDDP"
+        ],
+        "xfl": 0,
+        "copText": "XPTS",
+        "nextSectors": [
+          "PTS"
+        ],
+        "waypoints": [
+          "GAMKO"
+        ],
+        "remakrs": "For Tower South handoff 08R"
       },
       {
         "destinations": [],
@@ -3690,6 +3746,62 @@
         "waypoints": [
           "ODLUN"
         ]
+      },
+      {
+        "destinations": [
+          "EDDP"
+        ],
+        "xfl": 0,
+        "copText": "XPTS",
+        "nextSectors": [
+          "PTS"
+        ],
+        "waypoints": [
+          "TAKOR"
+        ],
+        "remakrs": "For Tower South handoff 26L"
+      },
+      {
+        "destinations": [
+          "EDDP"
+        ],
+        "xfl": 0,
+        "copText": "XPTN",
+        "nextSectors": [
+          "PTN"
+        ],
+        "waypoints": [
+          "KOSAM"
+        ],
+        "remakrs": "For Tower North handoff 26R"
+      },
+      {
+        "destinations": [
+          "EDDP"
+        ],
+        "xfl": 0,
+        "copText": "XPTN",
+        "nextSectors": [
+          "PTN"
+        ],
+        "waypoints": [
+          "MOKUL"
+        ],
+        "remakrs": "For Tower North handoff 08L"
+      },
+      {
+        "destinations": [
+          "EDDP"
+        ],
+        "xfl": 0,
+        "copText": "XPTS",
+        "nextSectors": [
+          "PTS"
+        ],
+        "waypoints": [
+          "GAMKO"
+        ],
+        "remakrs": "For Tower South handoff 08R"
       },
       {
         "destinations": [],
