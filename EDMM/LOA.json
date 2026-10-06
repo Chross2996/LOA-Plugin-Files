@@ -3135,7 +3135,7 @@
         ],
         "xfl": 290,
         "nextSectors": [
-          "EPWWT"
+          "EPTM"
         ],
         "copText": "LASIS",
         "waypoints": [
@@ -3148,7 +3148,7 @@
         ],
         "xfl": 290,
         "nextSectors": [
-          "EPWWD"
+          "EPD"
         ],
         "copText": "POZUM",
         "waypoints": [
