@@ -87,6 +87,18 @@
         ]
       },
       {
+        "destinations": [
+          "EDDV",
+          "ETNW"
+        ],
+        "xfl": 220,
+        "nextSectors": [
+          "HRZ"
+        ],
+        "copText": "BOKSO",
+        "coordline": "HAL_HRZ"
+      },
+      {
         "origins": [
           "EDDE"
         ],
@@ -4349,12 +4361,7 @@
           "LOWI",
           "LOWL"
         ],
-        "predictedFromBoundaries": [
-          "ERL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "DON_VOL"
-        ],
+        "coordline": "DON_ERL",
         "xfl": 320,
         "nextSectors": [
           "DON"
@@ -4366,12 +4373,7 @@
         "destinations": [
           "LOWW"
         ],
-        "predictedFromBoundaries": [
-          "ERL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "DON_VOL"
-        ],
+        "coordline": "DON_ERL",
         "xfl": 370,
         "nextSectors": [
           "DON"
