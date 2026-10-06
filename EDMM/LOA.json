@@ -4342,12 +4342,7 @@
           "LOWW",
           "EPWR"
         ],
-        "predictedFromBoundaries": [
-          "ERL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "LKAA_U_VOL"
-        ],
+        "coordline": "ERL_LKWU",
         "xfl": 350,
         "nextSectors": [
           "LKWU"
@@ -4410,12 +4405,7 @@
           "EDVE",
           "ETNW"
         ],
-        "predictedFromBoundaries": [
-          "ERL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "FUL_VOL"
-        ],
+        "coordline": "FUL_ERL",
         "xfl": 340,
         "nextSectors": [
           "FUL"
@@ -4441,12 +4431,7 @@
         "destinations": [
           "ETNW"
         ],
-        "predictedFromBoundaries": [
-          "ERL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "SAL_VOL"
-        ],
+        "coordline": "ERL_SAL",
         "xfl": 320,
         "nextSectors": [
           "SAL"
@@ -4463,12 +4448,7 @@
           "EDRZ",
           "ETAD"
         ],
-        "predictedFromBoundaries": [
-          "ERL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "WUR_VOL"
-        ],
+        "coordline": "WUR_ERL",
         "xfl": 320,
         "nextSectors": [
           "WUR"
@@ -4484,12 +4464,7 @@
           "LFLJ",
           "LFSN"
         ],
-        "predictedFromBoundaries": [
-          "ERL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "WUR_VOL"
-        ],
+        "coordline": "WUR_ERL",
         "xfl": 360,
         "nextSectors": [
           "WUR"
@@ -4502,12 +4477,7 @@
           "EDTM",
           "EDTD"
         ],
-        "predictedFromBoundaries": [
-          "ERL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "WUR_VOL"
-        ],
+        "coordline": "WUR_ERL",
         "xfl": 340,
         "nextSectors": [
           "WUR"
@@ -4743,12 +4713,7 @@
           "EDVK",
           "ETNW"
         ],
-        "predictedFromBoundaries": [
-          "SPE_VOL"
-        ],
-        "predictedToBoundaries": [
-          "HVL_VOL"
-        ],
+        "coordline": "SPE_HVL",
         "xfl": 360,
         "nextSectors": [
           "HVL"
@@ -4778,12 +4743,7 @@
           "EDFZ",
           "ETOU"
         ],
-        "predictedFromBoundaries": [
-          "SPE_VOL"
-        ],
-        "predictedToBoundaries": [
-          "SAL_VOL"
-        ],
+        "coordline": "SAL_SPE",
         "xfl": 360,
         "nextSectors": [
           "SAL"
@@ -4799,12 +4759,7 @@
           "EDFZ",
           "ETOU"
         ],
-        "predictedFromBoundaries": [
-          "SPE_VOL"
-        ],
-        "predictedToBoundaries": [
-          "SAL_VOL"
-        ],
+        "coordline": "SAL_SPE",
         "xfl": 360,
         "nextSectors": [
           "SAL"
@@ -4832,12 +4787,7 @@
           "EDMA",
           "EDMO"
         ],
-        "predictedFromBoundaries": [
-          "SPE_VOL"
-        ],
-        "predictedToBoundaries": [
-          "SAL_VOL"
-        ],
+        "coordline": "SAL_SPE",
         "xfl": 350,
         "nextSectors": [
           "SAL"
@@ -4849,12 +4799,7 @@
         "destinations": [
           "EDDV"
         ],
-        "predictedFromBoundaries": [
-          "SPE_VOL"
-        ],
-        "predictedToBoundaries": [
-          "SAL_VOL"
-        ],
+        "coordline": "SAL_SPE",
         "xfl": 320,
         "nextSectors": [
           "SAL"
@@ -4867,12 +4812,7 @@
           "LOWW",
           "EPWR"
         ],
-        "predictedFromBoundaries": [
-          "SPE_VOL"
-        ],
-        "predictedToBoundaries": [
-          "LKAA_U_VOL"
-        ],
+        "coordline": "SPE_LKWU",
         "xfl": 350,
         "nextSectors": [
           "LKWU"
@@ -5168,12 +5108,7 @@
           "LOWW",
           "EPWR"
         ],
-        "predictedFromBoundaries": [
-          "SAL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "LKAA_U_VOL"
-        ],
+        "coordline": "SAL_LKWU",
         "xfl": 350,
         "nextSectors": [
           "LKWU"
@@ -5187,12 +5122,7 @@
           "LOWL",
           "LOWI"
         ],
-        "predictedFromBoundaries": [
-          "SAL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "ERL_VOL"
-        ],
+        "coordline": "ERL_SAL",
         "xfl": 370,
         "nextSectors": [
           "ERL"
@@ -5205,12 +5135,7 @@
           "EDSB",
           "EDTM"
         ],
-        "predictedFromBoundaries": [
-          "SAL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "ERL_VOL"
-        ],
+        "coordline": "ERL_SAL",
         "xfl": 350,
         "nextSectors": [
           "ERL"
@@ -5242,12 +5167,7 @@
           "LKVO",
           "LKCS"
         ],
-        "predictedFromBoundaries": [
-          "SAL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "SPE_VOL"
-        ],
+        "coordline": "SAL_SPE",
         "xfl": 320,
         "nextSectors": [
           "SPE"
