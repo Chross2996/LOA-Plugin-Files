@@ -87,18 +87,6 @@
         ]
       },
       {
-        "destinations": [
-          "EDDV",
-          "ETNW"
-        ],
-        "xfl": 220,
-        "nextSectors": [
-          "HRZ"
-        ],
-        "copText": "XHRZ",
-        "coordline": "HAL_HRZ"
-      },
-      {
         "origins": [
           "EDDE"
         ],
