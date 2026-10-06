@@ -1025,12 +1025,7 @@
         "destinations": [
           "EDQG"
         ],
-        "predictedFromVolumes": [
-          "EDMM_FRK_000_135"
-        ],
-        "predictedToVolumes": [
-          "EDGG_DKB1_000_085"
-        ],
+        "coordline": "FRK_DKB_85",
         "xfl": 80,
         "nextSectors": [
           "DKB"
@@ -1042,12 +1037,7 @@
         "destinations": [
           "ETHN"
         ],
-        "predictedFromVolumes": [
-          "EDMM_FRK_000_135"
-        ],
-        "predictedToVolumes": [
-          "EDGG_DKB1_000_085"
-        ],
+        "coordline": "FRK_DKB_85",
         "xfl": 80,
         "nextSectors": [
           "DKB"
