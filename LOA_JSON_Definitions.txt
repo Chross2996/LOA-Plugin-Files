@@ -55,13 +55,6 @@ predictedToVolumes
     Defines volume(s) the predicted trajectory must subsequently go TO.
 
 
-PREDICTED BOUNDARY MATCHING
----------------------------
-"coordline": "FRK_DKB_85"
-Use for Sector Boundary LOAs. No Vertical profile.
-if no XFL defined use RFLabove or RFLbelow to avoid false matching.
-
-
 START / END VOLUMES
 -------------------
 startVolumes
@@ -73,6 +66,13 @@ endVolumes
 Older aliases:
     predictedStartVolumes
     predictedEndVolumes
+
+
+PREDICTED BOUNDARY MATCHING
+---------------------------
+"coordline": "FRK_DKB_85"
+Use for Sector Boundary LOAs. No Vertical profile.
+if no XFL defined use RFLabove or RFLbelow to avoid false matching.
 
 
 NEXT SECTOR
