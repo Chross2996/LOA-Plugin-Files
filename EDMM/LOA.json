@@ -4394,12 +4394,7 @@
           "EDLP",
           "EDLW"
         ],
-        "predictedFromBoundaries": [
-          "ERL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "FUL_VOL"
-        ],
+        "coordline": "FUL_ERL",
         "xfl": 320,
         "nextSectors": [
           "FUL"
