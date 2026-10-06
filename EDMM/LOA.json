@@ -1025,8 +1025,11 @@
         "destinations": [
           "EDQG"
         ],
-        "predictedEnterVolumes": [
-          "FRK_VOL"
+        "predictedFromBoundaries": [
+          "EDMM_FRK_000_135"
+        ],
+        "predictedToBoundaries": [
+          "EDGG_DKB1_000_085"
         ],
         "xfl": 80,
         "nextSectors": [
@@ -1039,8 +1042,11 @@
         "destinations": [
           "ETHN"
         ],
-        "predictedEnterVolumes": [
-          "FRK_VOL"
+        "predictedFromBoundaries": [
+          "EDMM_FRK_000_135"
+        ],
+        "predictedToBoundaries": [
+          "EDGG_DKB1_000_085"
         ],
         "xfl": 80,
         "nextSectors": [
