@@ -57,22 +57,9 @@ predictedToVolumes
 
 PREDICTED BOUNDARY MATCHING
 ---------------------------
-predictedEnterBoundaries
-    Predicted trajectory enters the listed boundary/volume laterally.
-    Altitude limits are ignored.
-
-predictedFromBoundaries (Sectors need to be in Sequence. SEC1-SEC2 no Sector in between)
-    Predicted trajectory comes FROM the listed boundary/volume laterally.
-    Altitude limits are ignored.
-
-predictedToBoundaries (Sectors need to be in Sequence. SEC1-SEC2 no Sector in between)
-    Predicted trajectory goes TO the listed boundary/volume laterally.
-    Altitude limits are ignored.
-
-Singular aliases also accepted:
-    predictedEnterBoundary
-    predictedFromBoundary
-    predictedToBoundary
+"coordline": "FRK_DKB_85"
+Use for Sector Boundary LOAs. No Vertical profile.
+if no XFL defined use RFLabove or RFLbelow to avoid false matching.
 
 
 START / END VOLUMES
