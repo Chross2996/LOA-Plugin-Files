@@ -246,10 +246,7 @@
           "DIDGI"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {      
         "origins": [
           "EDDV",
           "EDDG",
@@ -263,6 +260,7 @@
           "EDAY",
           "EDAZ"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -272,10 +270,7 @@
           "GALMA"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {      
         "origins": [
           "EDLP",
           "EDDK",
@@ -283,6 +278,7 @@
           "EDLW",
           "EDVK"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -292,13 +288,11 @@
           "SUVUT"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {       
         "origins": [
           "EDDB"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -308,13 +302,11 @@
           "ORTAG"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {     
         "origins": [
           "EDDB"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -324,16 +316,14 @@
           "SONDU"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {      
         "origins": [
           "EDDF",
           "EDFE",
           "EDFZ",
           "ETOU"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -387,8 +377,9 @@
           "HAL_VOL"
         ],
         "predictedToVolumes": [
-          "SAS_VOL"
+          "SAL_VOL"
         ],       
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -712,10 +703,7 @@
           "ALAXA"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {     
         "origins": [
           "EDDM",
           "EDMO",
@@ -724,6 +712,7 @@
           "ETSI",
           "ETSN"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -737,9 +726,7 @@
         "origins": [
           "EDJA"
         ],
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ], 
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -752,10 +739,8 @@
       {     
         "origins": [
           "EDJA"
-        ],
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],   
+        ], 
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -904,13 +889,11 @@
           "TESDU"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {      
         "origins": [
           "EDBM"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -920,10 +903,7 @@
           "RATIP"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {    
         "origins": [
           "EDDM",
           "EDMO",
@@ -932,6 +912,7 @@
           "ETSI",
           "ETSN"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -941,16 +922,14 @@
           "LONLI"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {      
         "origins": [
           "LKPR",
           "LKKB",
           "LKVO",
           "LKCS"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -960,13 +939,11 @@
           "ERETO"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {      
         "origins": [
           "EDMO"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -983,6 +960,7 @@
         "predictedToVolumes": [
           "ERL_VOL"
         ],       
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -995,8 +973,9 @@
           "BBG_VOL"
         ],
         "predictedToVolumes": [
-          "SAS_VOL"
+          "SAL_VOL"
         ],       
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -1030,7 +1009,7 @@
         "nextSectors": [
           "DKB"
         ],
-        "copText": "COORD",
+        "copText": "XEDQG",
         "waypoints": []
       },
       {
@@ -1436,6 +1415,7 @@
           "BBG_VOL",
           "HOF_VOL"
         ],
+        "xfl": 190,
         "xflText": "19V",
         "nextSectors": [
           "BBG"
@@ -1451,6 +1431,7 @@
         "predictedToVolumes": [
           "BBG_VOL"
         ],
+        "xfl": 190,
         "xflText": "19V",
         "nextSectors": [
           "BBG"
@@ -1466,6 +1447,7 @@
         "predictedToVolumes": [
           "HOF_VOL"
         ],
+        "xfl": 190,
         "xflText": "19V",
         "nextSectors": [
           "HOF"
@@ -1740,6 +1722,7 @@
         "predictedToVolumes": [
           "HAL_VOL"
         ],
+        "xfl": 190,
         "xflText": "19V",
         "nextSectors": [
           "HAL"
@@ -1754,6 +1737,7 @@
         "predictedToVolumes": [
           "GER_VOL"
         ],
+        "xfl": 190,
         "xflText": "19V",
         "nextSectors": [
           "GER"
@@ -1879,10 +1863,15 @@
         "destinations": [
           "EDDN"
         ],
-        "xflText": "20V",
-        "predictedEnterVolumes": [
-          "FRK_VOL"
+        "predictedFromVolumes": [
+          "HOF_VOL"
         ],
+        "predictedToVolumes": [
+          "FRK_VOL",
+          "BBG_VOL"
+        ],
+        "xfl": 200,
+        "xflText": "20V",
         "nextSectors": [
           "FRK"
         ],
@@ -1935,16 +1924,14 @@
         ]
       },
       {
-        "predictedFromVolumes": [
+        "predictedEnterVolumes": [
           "HOF_VOL"
-        ],
-        "predictedToVolumes": [
-          "FRK_VOL"
         ],
         "endVolumes": [
           "TRN_VOL",
           "TRS_VOL"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "FRK"
@@ -1959,6 +1946,7 @@
         "predictedToVolumes": [
           "FRK_VOL"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "FRK"
@@ -2033,14 +2021,12 @@
           "TABAT"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {     
         "origins": [
           "EDDC",
           "EDAB"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -2050,14 +2036,12 @@
           "UNAVI"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {      
         "origins": [
           "EDDC",
           "EDAB"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -2067,15 +2051,13 @@
           "RONTU"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {      
         "origins": [
           "EDDP",
           "EDVK",
           "EDBM"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -2085,10 +2067,7 @@
           "RONIG"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {     
         "origins": [
           "LKPR",
           "LKKB",
@@ -2097,6 +2076,7 @@
           "LKCS",
           "EDDC"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -2106,10 +2086,7 @@
           "SODRO"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {      
         "origins": [
           "EDDS",
           "EDSB",
@@ -2122,6 +2099,7 @@
           "ETHN",
           "ETAR"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -2131,10 +2109,7 @@
           "KULOK"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {     
         "origins": [
           "EDDS",
           "EDSB",
@@ -2147,6 +2122,7 @@
           "ETHN",
           "ETAR"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -2156,16 +2132,14 @@
           "NOGRA"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {       
         "origins": [
           "LKPR",
           "LKKB",
           "LKVO",
           "LKCS"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -2175,16 +2149,14 @@
           "UNAVI"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {       
         "origins": [
           "LKPR",
           "LKKB",
           "LKVO",
           "LKCS"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -2243,6 +2215,7 @@
         "predictedToVolumes": [
           "ERL_VOL"
         ],         
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "ERL"
@@ -2255,8 +2228,9 @@
           "HOF_VOL"
         ],
         "predictedToVolumes": [
-          "SAS_VOL"
+          "SAL_VOL"
         ],       
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -2605,6 +2579,7 @@
           "EDQ*",
           "ETIC"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "TRS"
@@ -2619,6 +2594,7 @@
           "EDQ*",
           "ETIC"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "TRS"
@@ -2633,6 +2609,7 @@
           "EDQ*",
           "ETIC"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "TRS"
@@ -2647,6 +2624,7 @@
           "EDDC",
           "EDAB"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "TRS"
@@ -2661,6 +2639,7 @@
           "EDDC",
           "EDAB"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "TRS"
@@ -2675,6 +2654,7 @@
           "EDDC",
           "EDAB"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "TRS"
@@ -2688,6 +2668,7 @@
         "destinations": [
           "LKKV"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "TRS"
@@ -2704,6 +2685,7 @@
         "predictedToVolumes": [
           "TRN_VOL"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "TRN"
@@ -2718,6 +2700,7 @@
         "predictedToVolumes": [
           "TRS_VOL"
         ],
+        "xfl": 200,
         "xflText": "20V",
         "nextSectors": [
           "TRS"
@@ -2848,13 +2831,11 @@
           "TAMEB"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {      
         "origins": [
           "EDDB"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -2864,13 +2845,11 @@
           "MIPSI"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {       
         "origins": [
           "EDDF"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -2880,10 +2859,7 @@
           "NEVKO"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {      
         "origins": [
           "EDDN",
           "ETIC",
@@ -2902,6 +2878,7 @@
           "EDTY",
           "LSZH"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -2911,13 +2888,11 @@
           "OKKOC"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {      
         "origins": [
           "EDDM"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -2927,15 +2902,13 @@
           "BAMKI"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {      
         "origins": [
           "EDDV",
           "EDVE",
           "ETNW"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -2950,8 +2923,9 @@
           "GER_VOL"
         ],
         "predictedToVolumes": [
-          "SAS_VOL"
+          "SAL_VOL"
         ],       
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SAL"
@@ -2966,6 +2940,7 @@
         "predictedToVolumes": [
           "SPE_VOL"
         ],       
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3267,64 +3242,37 @@
       },
       {
         "destinations": [
-          "EDDP"
-        ],
-        "xflText": "17V",
-        "nextSectors": [
-          "SAS"
-        ],
-        "copText": "IVQOQ",
-        "waypoints": [
-          "IVQOQ"
-        ]
-      },
-      {
-        "destinations": [
-          "EDDP"
-        ],
-        "xflText": "17V",
-        "nextSectors": [
-          "SAS"
-        ],
-        "copText": "UWBAZ",
-        "waypoints": [
-          "UWBAZ"
-        ]
-      },
-      {
-        "destinations": [
           "EDQ*",
           "ETIC"
         ],
+        "coordline": "FRK_SAS",
+        "xfl": 170,
         "xflText": "17V",
         "nextSectors": [
           "SAS"
         ],
-        "copText": "ABKIS",
-        "waypoints": [
-          "ABKIS"
-        ]
+        "copText": "XSAS",
+        "waypoints": []
       },
       {
         "destinations": [
+          "EDDP",
           "EDAC"
         ],
+        "coordline": ["SAS_TRN", "SAS_TRS"],
+        "xfl": 170,
         "xflText": "17V",
         "nextSectors": [
           "SAS"
         ],
-        "copText": "BEBEX",
-        "waypoints": [
-          "BEBEX"
-        ]
+        "copText": "XSAS",
+        "waypoints": []
       },
       {
-        "predictedFromVolumes": [
-          "MEI_VOL"
-        ],
-        "predictedToVolumes": [
+        "endVolumes": [
           "SAS_VOL"
         ],
+        "xfl": 170,
         "xflText": "17V",
         "nextSectors": [
           "SAS"
@@ -4220,14 +4168,12 @@
   },
   "ERL": {
     "destinationLoas": [
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {    
         "destinations": [
           "EDVE",
           "EDBM"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "HOF"
@@ -4237,14 +4183,12 @@
           "LASGA"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {       
         "destinations": [
           "EDDC",
           "EDAB"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "HOF"
@@ -4254,10 +4198,7 @@
           "KULOK"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {      
         "destinations": [
           "LKPR",
           "LKKB",
@@ -4267,6 +4208,7 @@
           "LKHK",
           "LKMH"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "HOF"
@@ -4276,13 +4218,11 @@
           "BAROB"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],       
+      {     
         "destinations": [
           "EDDF"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "HOF"
@@ -4292,13 +4232,11 @@
           "NURGO"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],        
+      {       
         "destinations": [
           "EDDF"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "BBG"
@@ -4308,14 +4246,12 @@
           "KODUK"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "ERL_VOL"
-        ],          
+      {        
         "destinations": [
           "EDDF",
           "ETAR"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "HOF"
@@ -4477,10 +4413,7 @@
   },
   "SPE": {
     "destinationLoas": [
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {      
         "destinations": [
           "EDQD",
           "EDQM",
@@ -4496,22 +4429,22 @@
           "LKCS",
           "LKPM"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
         "copText": "BEBKU",
         "waypoints": [
-          "BEBKU"
+          "BEBKU",
+          "PIKIB"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {      
         "destinations": [
           "EPWR"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "MEI"
@@ -4522,15 +4455,12 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],
-
         "destinations": [
           "EPWR",
           "EPPO",
           "EPZG"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "MEI"
@@ -4540,10 +4470,7 @@
           "KOBUS"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {      
         "destinations": [
           "LKPR",
           "LKKB",
@@ -4554,20 +4481,18 @@
           "LKHK",
           "LKMH"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
         "copText": "EBASA",
         "waypoints": [
-          "EBASA"
+          "EBASA",
+          "KOBUS"
         ]
       },
       {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],
-
         "destinations": [
           "LKPR",
           "LKKB",
@@ -4578,19 +4503,18 @@
           "LKHK",
           "LKMH"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
         "copText": "OSKAN",
         "waypoints": [
-          "OSKAN"
+          "OSKAN",
+          "RENDO"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {      
         "destinations": [
           "LKPR",
           "LKKB",
@@ -4601,19 +4525,18 @@
           "LKHK",
           "LKMH"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
         "copText": "OSTRA",
         "waypoints": [
-          "OSTRA"
+          "OSTRA",
+          "TORPU"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],          
+      {          
         "destinations": [
           "LKPR",
           "LKKB",
@@ -4624,37 +4547,35 @@
           "LKHK",
           "LKMH"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
         ],
         "copText": "TALEG",
         "waypoints": [
-          "TALEG"
+          "TALEG",
+          "EKPEK"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],          
+      {      
         "destinations": [
           "EDDN",
           "EDDS",
           "EDJA"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
         "copText": "NOKSI",
         "waypoints": [
-          "NOKSI"
+          "NOKSI",
+          "PEROX"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],         
+      {     
         "destinations": [
           "EDQD",
           "EDQM",
@@ -4669,13 +4590,15 @@
           "LKKV",
           "LKCS"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "MEI"
         ],
         "copText": "KOBUS",
         "waypoints": [
-          "KOBUS"
+          "KOBUS",
+          "GARKI"
         ]
       },
       {
@@ -4807,6 +4730,19 @@
         ],
         "copText": "XLKWU",
         "waypoints": []
+      },
+      {
+        "destinations": [
+          "LOWW",
+          "EPWR"
+        ],
+        "coordline": "SPE_LKWU",
+        "xfl": 350,
+        "nextSectors": [
+          "LKWU"
+        ],
+        "copText": "XLKWU",
+        "waypoints": []
       }
     ],
     "departureLoas": [
@@ -4840,13 +4776,11 @@
   },
   "SAL": {
     "destinationLoas": [
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],         
+      {       
         "destinations": [
           "EDDV"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
@@ -4857,15 +4791,12 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ], 
-
         "destinations": [
           "EDDV",
           "EDDW",
           "ETNW"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
@@ -4875,15 +4806,13 @@
           "OKKOC"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {      
         "destinations": [
           "EDDB",
           "EDAY",
           "EDAZ"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
@@ -4893,15 +4822,13 @@
           "GOLAT"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {       
         "destinations": [
           "EDDB",
           "EDAY",
           "EDAZ"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
@@ -4911,10 +4838,7 @@
           "RELKO"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {      
         "destinations": [
           "EDDN",
           "EDQD",
@@ -4926,6 +4850,7 @@
           "EDQA",
           "ETIC"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
@@ -4935,10 +4860,7 @@
           "TOGRO"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {     
         "destinations": [
           "EDDF",
           "ETOU",
@@ -4946,6 +4868,7 @@
           "EDFZ",
           "EDFQ"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "HAL"
@@ -4956,10 +4879,6 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],
-
         "destinations": [
           "EDDF",
           "ETOU",
@@ -4967,6 +4886,7 @@
           "EDFZ",
           "EDFQ"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "HAL"
@@ -4976,10 +4896,7 @@
           "OSKAT"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],        
+      {     
         "destinations": [
           "EDDF",
           "ETOU",
@@ -4987,6 +4904,7 @@
           "EDFZ",
           "EDFQ"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
@@ -4997,15 +4915,13 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],
         "destinations": [
           "EDMS",
           "ETHN",
           "ETIN",
           "LKKV"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "HAL"
@@ -5016,13 +4932,11 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],
         "destinations": [
           "ETSI",
           "ETSN"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
@@ -5037,6 +4951,7 @@
           "ETSI",
           "ETSN"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
@@ -5047,9 +4962,6 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],
         "destinations": [
           "EDDR",
           "EDDS",
@@ -5064,6 +4976,7 @@
           "EDTM",
           "ETAR"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "GER"
@@ -5074,14 +4987,12 @@
         ]
       },
       {
-        "predictedEnterVolumes": [
-          "SAL_VOL"
-        ],
         "destinations": [
           "EDDM",
           "EDMA",
           "EDMO"
         ],
+        "xfl": 320,
         "xflText": "32V",
         "nextSectors": [
           "HOF"
