@@ -3296,10 +3296,7 @@
           "ABKIS"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {        
         "origins": [
           "EDDB",
           "EDAC",
@@ -3309,6 +3306,7 @@
           "LKHK",
           "LKCS"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3318,10 +3316,7 @@
           "KOBUS"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {       
         "origins": [
           "EDDM",
           "EDDN",
@@ -3341,6 +3336,7 @@
           "LKKV",
           "LSZH"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3350,13 +3346,11 @@
           "ABKIS"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {     
         "origins": [
           "EDDB"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3366,13 +3360,11 @@
           "BEBKU"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {       
         "origins": [
           "EPPO"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3382,13 +3374,11 @@
           "LUROS"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {      
         "origins": [
           "EPWR"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3398,13 +3388,11 @@
           "IVDUF"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {        
         "origins": [
           "EDDE"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3414,13 +3402,11 @@
           "RISVA"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {     
         "origins": [
           "EDDE"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3430,15 +3416,13 @@
           "EKPEK"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {      
         "origins": [
           "LKPR",
           "LKKB",
           "LKVO"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3448,10 +3432,7 @@
           "GARKI"
         ]
       },
-      {
-        "predictedEnterVolumes": [
-          "SPE_VOL"
-        ],        
+      {       
         "origins": [
           "LKPR",
           "LKKB",
@@ -3461,6 +3442,7 @@
           "LKPD",
           "LKCS"
         ],
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
@@ -3517,6 +3499,7 @@
         "predictedToVolumes": [
           "SPE_VOL"
         ],       
+        "xfl": 310,
         "xflText": "31V",
         "nextSectors": [
           "SPE"
