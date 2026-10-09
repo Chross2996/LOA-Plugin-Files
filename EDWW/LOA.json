@@ -270,9 +270,7 @@
           "ETHB",
           "ETHC"
         ],
-        "predictedEnterBoundaries": [
-          "ALR_VOL"
-        ],
+        "coordline": "ALR_EMS",
         "xfl": 140,
         "nextSectors": [
           "ALR"
@@ -5123,9 +5121,7 @@
           "EDDH",
           "EDHI"
         ],
-        "predictedEnterBoundaries": [
-          "EID1_VOL"
-        ],
+        "coordline": ["HAM_EID", "HAMW_EID"],
         "xfl": 100,
         "copText": "ELSOB",
         "nextSectors": [
@@ -7120,12 +7116,7 @@
           "EDHL",
           "EDXR"
         ],
-        "predictedFromBoundaries": [
-          "SOL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "CEL1_VOL"
-        ],
+        "coordline": "CL_SL",
         "xfl": 330,
         "copText": "XCEL",
         "nextSectors": [
@@ -7143,12 +7134,7 @@
           "EBMB",
           "ELLX"
         ],
-        "predictedFromBoundaries": [
-          "SOL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "MNS1_VOL"
-        ],
+        "coordline": "MM_SL",
         "xfl": 340,
         "copText": "XMNS",
         "nextSectors": [
@@ -7164,12 +7150,7 @@
           "EHBD",
           "EHLE"
         ],
-        "predictedFromBoundaries": [
-          "SOL_VOL"
-        ],
-        "predictedToBoundaries": [
-          "MNS1_VOL"
-        ],
+        "coordline": "MM_SL",
         "xfl": 280,
         "copText": "XMNS",
         "nextSectors": [
@@ -7192,9 +7173,7 @@
           "EDRY",
           "EDFB"
         ],
-        "predictedEnterBoundaries": [
-          "HRZ_0_245"
-        ],
+        "coordline": "FUL_SL_255_355",
         "xfl": 245,
         "copText": "XHRZ",
         "nextSectors": [
@@ -7748,12 +7727,7 @@
           "EDQ*",
           "ETIC"
         ],
-        "predictedFromBoundaries": [
-          "CEL1_VOL"
-        ],
-        "predictedToBoundaries": [
-          "SOL_VOL"
-        ],
+        "coordline": "CL_SL",
         "xfl": 330,
         "copText": "XSOL",
         "nextSectors": [
@@ -7765,12 +7739,7 @@
         "destinations": [
           "EDDK"
         ],
-        "predictedFromBoundaries": [
-          "CEL1_VOL"
-        ],
-        "predictedToBoundaries": [
-          "SOL_VOL"
-        ],
+        "coordline": "CL_SL",
         "xfl": 320,
         "copText": "XSOL",
         "nextSectors": [
@@ -7789,12 +7758,7 @@
           "EDRZ",
           "ETAR"
         ],
-        "predictedFromBoundaries": [
-          "CEL1_VOL"
-        ],
-        "predictedToBoundaries": [
-          "SOL_VOL"
-        ],
+        "coordline": "CL_SL",
         "xfl": 300,
         "copText": "XSOL",
         "nextSectors": [
@@ -7813,40 +7777,11 @@
           "ETNH",
           "ETNS"
         ],
-        "predictedFromBoundaries": [
-          "CEL1_VOL"
-        ],
-        "predictedToVolumes": [
-          "HEI_VOL"
-        ],
+        "coordline": "CL_HL_245_315",
         "xfl": 250,
         "copText": "XHEI",
         "nextSectors": [
           "HEI"
-        ],
-        "waypoints": []
-      },
-      {
-        "destinations": [
-          "EDDH",
-          "EDHI",
-          "EDHL",
-          "EDXF",
-          "EDXR",
-          "EDHK",
-          "ETNH",
-          "ETNS"
-        ],
-        "predictedFromBoundaries": [
-          "CEL1_VOL"
-        ],
-        "predictedToVolumes": [
-          "ALR_VOL"
-        ],
-        "xfl": 245,
-        "copText": "XALR",
-        "nextSectors": [
-          "ALR"
         ],
         "waypoints": []
       },
@@ -7865,9 +7800,7 @@
           "EDRY",
           "EDFB"
         ],
-        "predictedEnterBoundaries": [
-          "HRZ_0-245"
-        ],
+        "coordline": "FUL_SL_255_355",
         "xfl": 245,
         "copText": "XHRZ",
         "nextSectors": [
@@ -8110,9 +8043,7 @@
           "EDLW",
           "EDLA"
         ],
-        "predictedEnterBoundaries": [
-          "MNS4_VOL"
-        ],
+        "coordline": "MM_HL_315_365",
         "xfl": 320,
         "copText": "XMNS",
         "nextSectors": [
@@ -8126,9 +8057,7 @@
           "EDLP",
           "EDFQ"
         ],
-        "predictedEnterBoundaries": [
-          "CEL2_VOL"
-        ],
+        "coordline": "CL_HL_315_355",
         "xfl": 330,
         "copText": "XCEL",
         "nextSectors": [
@@ -8148,9 +8077,7 @@
           "EDON",
           "EDBC"
         ],
-        "predictedEnterBoundaries": [
-          "CEL2_VOL"
-        ],
+        "coordline": "MAR_CL",
         "xfl": 320,
         "copText": "XCEL",
         "nextSectors": [
@@ -8669,12 +8596,7 @@
           "EDQ*",
           "ETIC"
         ],
-        "predictedFromBoundaries": [
-          "MNS1_VOL"
-        ],
-        "predictedToBoundaries": [
-          "CEL1_VOL"
-        ],
+        "coordline": "MM_CL_245_355",
         "xfl": 350,
         "copText": "XCEL",
         "nextSectors": [
@@ -8692,12 +8614,7 @@
           "EDQ*",
           "ETIC"
         ],
-        "predictedFromBoundaries": [
-          "MNS1_VOL"
-        ],
-        "predictedToBoundaries": [
-          "SOL_VOL"
-        ],
+        "coordline": "MM_SL",
         "xfl": 350,
         "copText": "XSOL",
         "nextSectors": [
@@ -8715,12 +8632,7 @@
           "EBMB",
           "ELLX"
         ],
-        "predictedFromBoundaries": [
-          "MNS1_VOL"
-        ],
-        "predictedToBoundaries": [
-          "RHR_VOL"
-        ],
+        "coordline": "MM_RL_245_355",
         "xfl": 280,
         "copText": "XRHR",
         "nextSectors": [
@@ -8739,7 +8651,24 @@
           "EDDW",
           "EDWE",
           "EDWI",
-          "EDWF",
+          "EDWF"
+        ],
+        "predictedEnterVolumes": [
+          "MNS1_VOL"
+        ],
+        "coordline": [
+          "ALR_EMS",
+          "EID_EMS"
+        ],
+        "xfl": 250,
+        "copText": "XEMS",
+        "nextSectors": [
+          "EMS"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
           "ETND",
           "EDLW",
           "EDLA",
@@ -8747,13 +8676,11 @@
           "EHTE",
           "EHTW"
         ],
-        "predictedFromVolumes": [
+        "predictedEnterVolumes": [
           "MNS1_VOL"
         ],
-        "predictedToVolumes": [
-          "ALR_VOL",
-          "EID1_VOL",
-          "HMM_VOL"
+        "coordline": [
+          "HMM_EMS"
         ],
         "xfl": 250,
         "copText": "XEMS",
