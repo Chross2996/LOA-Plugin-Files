@@ -4956,6 +4956,17 @@
         "waypoints": []
       },
       {
+        "destinations": [
+          "EDDH"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "DHT"
+        ],
+        "copText": "XEDDH",
+        "waypoints": []
+      },
+      {
         "destinations": [],
         "predictedEndVolumes": [
           "HAM_VOL"
