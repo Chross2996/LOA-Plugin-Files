@@ -246,10 +246,11 @@
         "destinations": [
           "ETND"
         ],
-        "copText": "NDT",
-        "nextSectors": [
+        "xfl": 0,
+        "nextSectorDrops": [
           "NDT"
         ],
+        "copText": "XNDT",
         "waypoints": []
       },
       {
@@ -979,6 +980,17 @@
         "waypoints": [
           "LARET"
         ]
+      },
+      {
+        "destinations": [
+          "EDVK"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "VKT"
+        ],
+        "copText": "XVKT",
+        "waypoints": []
       },
       {
         "destinations": [],
@@ -4963,7 +4975,29 @@
         "nextSectorDrops": [
           "DHT"
         ],
-        "copText": "XEDDH",
+        "copText": "XDHT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDHI"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "HIT"
+        ],
+        "copText": "XHIT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDHL"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "HLT"
+        ],
+        "copText": "XHLT",
         "waypoints": []
       },
       {
@@ -6001,6 +6035,61 @@
         "waypoints": []
       },
       {
+        "destinations": [
+          "EDXW"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "XWT"
+        ],
+        "copText": "XXWT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "ETNS"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "NST"
+        ],
+        "copText": "XNST",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "ETNH"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "NHT"
+        ],
+        "copText": "XNHT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDHK"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "HKT"
+        ],
+        "copText": "XHKT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "ETMN"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "MNT"
+        ],
+        "copText": "XMNT",
+        "waypoints": []
+      },
+      {
         "destinations": [],
         "predictedEndVolumes": [
           "EID1_VOL"
@@ -6364,14 +6453,59 @@
       },
       {
         "destinations": [
+          "ETNT",
+          "EDWI",
+          "EDWE"
+        ],
+        "xfl": 0,
+        "copText": "XNTR",
+        "nextSectors": [
+          "NTR"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDDW"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "DWT"
+        ],
+        "copText": "XDWT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
           "ETNT"
         ],
         "xfl": 0,
-        "copText": "XETNT",
-        "nextSectors": [
-          "NTR",
+        "nextSectorDrops": [
           "NTT"
         ],
+        "copText": "XNTT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDWI"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "WIT"
+        ],
+        "copText": "XWIT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDWE"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "WET"
+        ],
+        "copText": "XWET",
         "waypoints": []
       },
       {
@@ -6584,13 +6718,56 @@
       },
       {
         "destinations": [
+          "EDDV"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "DVT"
+        ],
+        "copText": "XDVT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDVE"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
+          "VET"
+        ],
+        "copText": "XVET",
+        "waypoints": []
+      },
+      {
+        "destinations": [
           "ETNW"
         ],
         "xfl": 0,
-        "copText": "XETNW",
+        "copText": "XNWR",
         "nextSectors": [
-          "NWR",
+          "NWR"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "ETNW"
+        ],
+        "xfl": 0,
+        "nextSectorDrops": [
           "NWT"
+        ],
+        "copText": "XNWT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "ETHB"
+        ],
+        "xfl": 0,
+        "copText": "XHBR",
+        "nextSectors": [
+          "HBR"
         ],
         "waypoints": []
       },
@@ -6599,10 +6776,20 @@
           "ETHB"
         ],
         "xfl": 0,
-        "copText": "XETHB",
-        "nextSectors": [
-          "HBR",
+        "nextSectorDrops": [
           "HBT"
+        ],
+        "copText": "XHBT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "ETHC"
+        ],
+        "xfl": 0,
+        "copText": "XHCR",
+        "nextSectors": [
+          "HCR"
         ],
         "waypoints": []
       },
@@ -6611,10 +6798,20 @@
           "ETHC"
         ],
         "xfl": 0,
-        "copText": "XETHC",
-        "nextSectors": [
-          "HCR",
+        "nextSectorDrops": [
           "HCT"
+        ],
+        "copText": "XHCT",
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "ETHS"
+        ],
+        "xfl": 0,
+        "copText": "XHSR",
+        "nextSectors": [
+          "HSR"
         ],
         "waypoints": []
       },
@@ -6623,11 +6820,10 @@
           "ETHS"
         ],
         "xfl": 0,
-        "copText": "XETHS",
-        "nextSectors": [
-          "HSR",
+        "nextSectorDrops": [
           "HST"
         ],
+        "copText": "XHST",
         "waypoints": []
       },
       {
