@@ -359,7 +359,11 @@
       "HLT"
     ],
     "ICT": [
-      "ICT"
+      "ICT",
+      "FRK",
+      "BBG",
+      "HOF",
+      "RDG"
     ],
     "SIT": [
       "SIT"
@@ -1317,6 +1321,27 @@
             "HOF",
             "RDG"
         ],
+        "QCT": [
+            "QCT",
+            "FRK",
+            "BBG",
+            "HOF",
+            "RDG"
+        ],
+        "QAT": [
+            "QAT",
+            "FRK",
+            "BBG",
+            "HOF",
+            "RDG"
+        ],
+        "QDT": [
+            "QDT",
+            "FRK",
+            "BBG",
+            "HOF",
+            "RDG"
+        ],
         "ILR": [
             "ILR",
             "SWA",
@@ -1327,6 +1352,14 @@
             "RDG"
         ],
         "SAS": [
+            "SAS",
+            "MEI",
+            "TRS",
+            "GER",
+            "HOF"
+        ],
+        "ABT": [
+            "ABT",
             "SAS",
             "MEI",
             "TRS",
@@ -1381,6 +1414,14 @@
             "HOF"
         ],
         "TRS": [
+            "TRS",
+            "TRN",
+            "HAL",
+            "GER",
+            "HOF"
+        ],
+        "ACR": [
+            "ACR",
             "TRS",
             "TRN",
             "HAL",

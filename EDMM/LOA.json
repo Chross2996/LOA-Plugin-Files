@@ -1009,7 +1009,7 @@
         "nextSectors": [
           "DKB"
         ],
-        "copText": "XEDQG",
+        "copText": "XDKB",
         "waypoints": []
       },
       {
@@ -1021,7 +1021,7 @@
         "nextSectors": [
           "DKB"
         ],
-        "copText": "XETHN",
+        "copText": "XDKB",
         "waypoints": []
       },
       {
@@ -1128,6 +1128,72 @@
         "waypoints": [
           "OKG"
         ]
+      },
+      {
+        "destinations": [
+          "EDDN"
+        ],
+        "xfl": 0,
+        "copText": "XNT",
+        "nextSectorDrops": [
+          "NT"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDQM"
+        ],
+        "xfl": 0,
+        "copText": "XQMT",
+        "nextSectorDrops": [
+          "QMT"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "ETIC"
+        ],
+        "xfl": 0,
+        "copText": "XICT",
+        "nextSectorDrops": [
+          "ICT"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDQC"
+        ],
+        "xfl": 0,
+        "copText": "XQCT",
+        "nextSectorDrops": [
+          "QCT"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDQA"
+        ],
+        "xfl": 0,
+        "copText": "XQAT",
+        "nextSectorDrops": [
+          "QAT"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDQD"
+        ],
+        "xfl": 0,
+        "copText": "XQDT",
+        "nextSectorDrops": [
+          "QDT"
+        ],
+        "waypoints": []
       },
       {
         "destinations": [],
@@ -1558,7 +1624,7 @@
         ],
         "xfl": 0,
         "copText": "XPTS",
-        "nextSectors": [
+        "nextSectorDrops": [
           "PTS"
         ],
         "waypoints": [
@@ -1572,7 +1638,7 @@
         ],
         "xfl": 0,
         "copText": "XPTN",
-        "nextSectors": [
+        "nextSectorDrops": [
           "PTN"
         ],
         "waypoints": [
@@ -1586,7 +1652,7 @@
         ],
         "xfl": 0,
         "copText": "XPTN",
-        "nextSectors": [
+        "nextSectorDrops": [
           "PTN"
         ],
         "waypoints": [
@@ -1600,13 +1666,46 @@
         ],
         "xfl": 0,
         "copText": "XPTS",
-        "nextSectors": [
+        "nextSectorDrops": [
           "PTS"
         ],
         "waypoints": [
           "GAMKO"
         ],
         "remakrs": "For Tower South handoff 08R"
+      },
+      {
+        "destinations": [
+          "EDDE"
+        ],
+        "xfl": 0,
+        "copText": "XET",
+        "nextSectorDrops": [
+          "ET"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDDE"
+        ],
+        "xfl": 0,
+        "copText": "XET",
+        "nextSectorDrops": [
+          "ET"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDAC"
+        ],
+        "xfl": 0,
+        "copText": "XACR",
+        "nextSectorDrops": [
+          "ACR"
+        ],
+        "waypoints": []
       },
       {
         "destinations": [],
@@ -3680,7 +3779,7 @@
         ],
         "xfl": 0,
         "copText": "XPTS",
-        "nextSectors": [
+        "nextSectorDrops": [
           "PTS"
         ],
         "waypoints": [
@@ -3694,7 +3793,7 @@
         ],
         "xfl": 0,
         "copText": "XPTN",
-        "nextSectors": [
+        "nextSectorDrops": [
           "PTN"
         ],
         "waypoints": [
@@ -3708,7 +3807,7 @@
         ],
         "xfl": 0,
         "copText": "XPTN",
-        "nextSectors": [
+        "nextSectorDrops": [
           "PTN"
         ],
         "waypoints": [
@@ -3722,7 +3821,7 @@
         ],
         "xfl": 0,
         "copText": "XPTS",
-        "nextSectors": [
+        "nextSectorDrops": [
           "PTS"
         ],
         "waypoints": [
@@ -3971,6 +4070,28 @@
         "waypoints": [
           "DEKOV"
         ]
+      },
+      {
+        "destinations": [
+          "EDDC"
+        ],
+        "xfl": 0,
+        "copText": "XCT",
+        "nextSectorDrops": [
+          "CT"
+        ],
+        "waypoints": []
+      },
+      {
+        "destinations": [
+          "EDAB"
+        ],
+        "xfl": 0,
+        "copText": "XABT",
+        "nextSectorDrops": [
+          "ABT"
+        ],
+        "waypoints": []
       },
       {
         "destinations": [],
