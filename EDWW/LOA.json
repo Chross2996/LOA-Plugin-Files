@@ -209,6 +209,21 @@
         "EMS_VOL"
       ],
       "predictedToVolumes": [
+        "JEV_VOL"
+      ],
+      "xfl": 245,
+      "nextSectors": [
+        "JL"
+      ],
+      "copText": "XJEV",
+      "waypoints": []
+    },
+    {
+      "origins": [],
+      "predictedFromVolumes": [
+        "EMS_VOL"
+      ],
+      "predictedToVolumes": [
         "CEL1_VOL"
       ],
       "xfl": 245,
