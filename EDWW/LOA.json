@@ -469,7 +469,10 @@
       },
       {
         "origins": [],
-        "predictedEnterVolumes": [
+        "predictedFromVolumes":[
+          "EMS_VOL"
+        ],
+        "predictedToVolumes": [
           "CEL1_VOL"
         ],
         "xfl": 245,
@@ -481,7 +484,10 @@
       },
       {
         "origins": [],
-        "predictedEnterVolumes": [
+        "predictedFromVolumes":[
+          "EMS_VOL"
+        ],
+        "predictedToVolumes": [
           "MNS1_VOL",
           "MNS4_VOL"
         ],
@@ -1317,7 +1323,10 @@
       },
       {
         "origins": [],
-        "predictedEnterVolumes": [
+        "predictedFromVolumes":[
+          "HRZ_VOL"
+        ],
+        "predictedToVolumes": [
           "CEL1_VOL"
         ],
         "xfl": 245,
@@ -1329,7 +1338,10 @@
       },
       {
         "origins": [],
-        "predictedEnterVolumes": [
+        "predictedFromVolumes":[
+          "HRZ_VOL"
+        ],
+        "predictedToVolumes": [
           "SOL_VOL"
         ],
         "xfl": 245,
@@ -4930,7 +4942,10 @@
       },
       {
         "origins": [],
-        "predictedEnterVolumes": [
+        "predictedFromVolumes":[
+          "ALR_VOL"
+        ],
+        "predictedToVolumes": [
           "JEV_VOL"
         ],
         "xfl": 245,
@@ -4942,7 +4957,10 @@
       },
       {
         "origins": [],
-        "predictedEnterVolumes": [
+        "predictedFromVolumes":[
+          "ALR_VOL"
+        ],
+        "predictedToVolumes": [
           "HOL_VOL"
         ],
         "xfl": 245,
@@ -5205,10 +5223,10 @@
         "waypoints": []
       },
       {
-        "startVolumes": [
+        "predictedFromVolumes":[
           "HAM_VOL"
         ],
-        "predictedEnterVolumes": [
+        "predictedToVolumes": [
           "HEI_VOL"
         ],
         "xfl": 105,
@@ -5219,10 +5237,10 @@
         "waypoints": []
       },
       {
-        "startVolumes": [
+        "predictedFromVolumes":[
           "HAM_VOL"
         ],
-        "predictedEnterVolumes": [
+        "predictedToVolumes": [
           "ALR_VOL"
         ],
         "xfl": 105,
@@ -5747,17 +5765,7 @@
         ]
       },
       {
-        "origins": [
-          "EDDH",
-          "EDHI",
-          "EDHL",
-          "EDDW",
-          "ETND",
-          "EDDV",
-          "EDVE",
-          "ETNW",
-          "EDHK"
-        ],
+        "origins": [],
         "predictedFromVolumes":[
           "HEI_VOL"
         ],
@@ -5773,11 +5781,7 @@
         "waypoints": []
       },
       {
-        "origins": [
-          "EDDH",
-          "EDHI",
-          "EDHK"
-        ],
+        "origins": [],
         "predictedFromVolumes":[
           "HEI_VOL"
         ],
@@ -6373,7 +6377,10 @@
       },
       {
         "origins": [],
-        "predictedEnterVolumes": [
+        "predictedFromVolumes":[
+          "EID_VOL"
+        ],
+        "predictedToVolumes": [
           "JEV_VOL"
         ],
         "xfl": 245,
@@ -6385,7 +6392,10 @@
       },
       {
         "origins": [],
-        "predictedEnterVolumes": [
+        "predictedFromVolumes":[
+          "EID_VOL"
+        ],
+        "predictedToVolumes": [
           "HOL_VOL"
         ],
         "xfl": 245,
@@ -6700,6 +6710,48 @@
         "waypoints": [
           "MALYK"
         ]
+      },
+      {
+        "predictedFromVolumes":[
+          "FRI_VOL"
+        ],
+        "predictedToVolumes": [
+          "ALR_VOL"
+        ],
+        "xfl": 105,
+        "nextSectors": [
+          "ALR" 
+        ],
+        "copText": "XALR",
+        "waypoints": []
+      },
+      {
+        "predictedFromVolumes":[
+          "FRI_VOL"
+        ],
+        "predictedToVolumes": [
+          "EID2_VOL"
+        ],
+        "xfl": 105,
+        "nextSectors": [
+          "EID" 
+        ],
+        "copText": "XEID",
+        "waypoints": []
+      },
+      {
+        "predictedFromVolumes":[
+          "FRI_VOL"
+        ],
+        "predictedToVolumes": [
+          "EMS_VOL"
+        ],
+        "xfl": 105,
+        "nextSectors": [
+          "EMS" 
+        ],
+        "copText": "XEMS",
+        "waypoints": []
       }
     ]
   },
@@ -7058,6 +7110,49 @@
         "waypoints": [
           "POVEL"
         ]
+      },
+      {
+        "predictedFromVolumes":[
+          "HAN_VOL"
+        ],
+        "predictedToVolumes": [
+          "HEI_VOL"
+        ],
+        "xfl": 105,
+        "nextSectors": [
+          "HEI" 
+        ],
+        "copText": "XHEI",
+        "waypoints": []
+      },
+      {
+        "predictedFromVolumes":[
+          "HAN_VOL"
+        ],
+        "predictedToVolumes": [
+          "EMS_VOL"
+        ],
+        "xfl": 105,
+        "nextSectors": [
+          "EMS" 
+        ],
+        "copText": "XEMS",
+        "waypoints": []
+      },
+      {
+        "predictedFromVolumes":[
+          "HAN_VOL"
+        ],
+        "predictedToVolumes": [
+          "HRZ_105_245",
+          "HRZ_0_245"
+        ],
+        "xfl": 105,
+        "nextSectors": [
+          "HRZ" 
+        ],
+        "copText": "XHRZ",
+        "waypoints": []
       }
     ]
   },
