@@ -6705,6 +6705,32 @@
   ],
   "WM": [
     {
+      "origins": [
+        "EDDM"
+      ],
+      "xfl": 340,
+      "nextSectors": [
+        "SPE"
+      ],
+      "copText": "KILNU",
+      "waypoints": [
+        "KILNU"
+      ]
+    },
+    {
+      "destinations": [
+        "EDDF"
+      ],
+      "xfl": 340,
+      "nextSectors": [
+        "ERL"
+      ],
+      "copText": "RAPET",
+      "waypoints": [
+        "RAPET"
+      ]
+    },
+    {
       "destinations": [
         "EDDB"
       ],
@@ -6715,6 +6741,21 @@
       "copText": "GAVLI",
       "waypoints": [
         "GAVLI"
+      ]
+    }
+  ],
+  "WH": [
+    {
+      "destinations": [
+        "ETAR"
+      ],
+      "xfl": 360,
+      "nextSectors": [
+        "ERL1"
+      ],
+      "copText": "RAPET",
+      "waypoints": [
+        "RAPET"
       ]
     }
   ],
