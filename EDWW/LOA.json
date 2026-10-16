@@ -5735,6 +5735,20 @@
     },
     {
       "destinations": [
+        "EDDV",
+        "ETNW"
+      ],
+      "xfl": 110,
+      "nextSectors": [
+        "HAN"
+      ],
+      "copText": "HLZ",
+      "waypoints": [
+        "HLZ"
+      ]
+    },
+    {
+      "destinations": [
         "EDVE"
       ],
       "xfl": 110,
