@@ -5130,7 +5130,7 @@
         "HAM_EID",
         "HAMW_EID"
       ],
-      "xfl": 105,
+      "xfl": 100,
       "nextSectors": [
         "EID"
       ],
@@ -5138,13 +5138,17 @@
       "waypoints": []
     },
     {
-      "predictedFromVolumes": [
+      "startVolumes": [
         "HAM_VOL"
       ],
-      "predictedToVolumes": [
-        "HEI_VOL"
+      "coordline": [
+        "HAM_EKDB",
+        "HAM_EKDI",
+        "HAM_MRZ",
+        "HAM_MAR",
+        "HAM_HAN"
       ],
-      "xfl": 105,
+      "xfl": 100,
       "nextSectors": [
         "HEI"
       ],
@@ -5152,13 +5156,13 @@
       "waypoints": []
     },
     {
-      "predictedFromVolumes": [
+      "startVolumes": [
         "HAM_VOL"
       ],
-      "predictedToVolumes": [
-        "ALR_VOL"
+      "coordline": [
+        "FRI_HAMW"
       ],
-      "xfl": 105,
+      "xfl": 100,
       "nextSectors": [
         "ALR"
       ],
