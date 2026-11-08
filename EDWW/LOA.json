@@ -209,21 +209,6 @@
         "EMS_VOL"
       ],
       "predictedToVolumes": [
-        "JEV_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "JL"
-      ],
-      "copText": "XJEV",
-      "waypoints": []
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "EMS_VOL"
-      ],
-      "predictedToVolumes": [
         "CEL1_VOL"
       ],
       "xfl": 245,
@@ -326,12 +311,12 @@
         "EDHI"
       ],
       "xfl": 210,
+      "coordline": "ALR_EMS",
       "nextSectors": [
         "ALR",
         "HAMW",
         "HAM"
       ],
-      "copText": "YEFAW",
       "waypoints": [
         "YEFAW"
       ]
