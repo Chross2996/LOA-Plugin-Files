@@ -7,12 +7,11 @@
         "ETHB",
         "ETHC"
       ],
-      "coordline": "ALR_EMS",
       "xfl": 140,
       "nextSectors": [
         "ALR"
       ],
-      "copText": "NIE",
+      "coordline": "ALR_EMS",
       "waypoints": [
         "NIE"
       ]
@@ -25,7 +24,7 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "ITMIZ",
+      "coordline": "EID_EMS",
       "waypoints": [
         "ITMIZ"
       ]
@@ -38,7 +37,7 @@
       "nextSectors": [
         "HRZ"
       ],
-      "copText": "SAS",
+      "coordline": "EMS_HRZ",
       "waypoints": [
         "SAS"
       ]
@@ -51,7 +50,7 @@
       "nextSectors": [
         "HRZ"
       ],
-      "copText": "VAXEV",
+      "coordline": "EMS_HRZ",
       "waypoints": [
         "VAXEV"
       ]
@@ -64,7 +63,7 @@
       "nextSectors": [
         "HRZ"
       ],
-      "copText": "ROBEG",
+      "coordline": "EMS_HRZ",
       "waypoints": [
         "ROBEG"
       ]
@@ -77,7 +76,7 @@
       "nextSectors": [
         "HRZ"
       ],
-      "copText": "SAS",
+      "coordline": "EMS_HRZ",
       "waypoints": [
         "SAS"
       ]
@@ -92,7 +91,9 @@
       "nextSectors": [
         "ML"
       ],
-      "copText": "WIMCI",
+      "predictedEnterVolumes": [
+        "MNS1_VOL"
+      ],
       "waypoints": [
         "WIMCI"
       ]
@@ -107,7 +108,9 @@
       "nextSectors": [
         "ML"
       ],
-      "copText": "BASUM",
+      "predictedEnterVolumes": [
+        "MNS1_VOL"
+      ],
       "waypoints": [
         "BASUM"
       ]
@@ -122,7 +125,9 @@
       "nextSectors": [
         "ML"
       ],
-      "copText": "ATPAQ",
+      "predictedEnterVolumes": [
+        "MNS1_VOL"
+      ],
       "waypoints": [
         "ATPAQ"
       ]
@@ -138,7 +143,9 @@
       "nextSectors": [
         "ML"
       ],
-      "copText": "MAWEQ",
+      "predictedEnterVolumes": [
+        "MNS1_VOL"
+      ],
       "waypoints": [
         "MAWEQ"
       ]
@@ -152,7 +159,9 @@
       "nextSectors": [
         "ML"
       ],
-      "copText": "EDWOC",
+      "predictedEnterVolumes": [
+        "MNS1_VOL"
+      ],
       "waypoints": [
         "EDWOC"
       ]
@@ -167,7 +176,9 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "NIE",
+      "predictedEnterVolumes": [
+        "CEL1_VOL"
+      ],
       "waypoints": [
         "NIE"
       ]
@@ -183,7 +194,9 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "ROBEG",
+      "predictedEnterVolumes": [
+        "CEL1_VOL"
+      ],
       "waypoints": [
         "ROBEG"
       ]
@@ -198,41 +211,12 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "ROBEG",
+      "predictedEnterVolumes": [
+        "CEL1_VOL"
+      ],
       "waypoints": [
         "ROBEG"
       ]
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "EMS_VOL"
-      ],
-      "predictedToVolumes": [
-        "CEL1_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "CL"
-      ],
-      "copText": "XCEL",
-      "waypoints": []
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "EMS_VOL"
-      ],
-      "predictedToVolumes": [
-        "MNS1_VOL",
-        "MNS4_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "ML"
-      ],
-      "copText": "XMNS",
-      "waypoints": []
     },
     {
       "destinations": [
@@ -243,7 +227,7 @@
       "nextSectors": [
         "HMM"
       ],
-      "copText": "OSNAD",
+      "coordline": "HMM_EMS_105_245",
       "waypoints": [
         "OSNAD"
       ]
@@ -256,7 +240,7 @@
       "nextSectors": [
         "HMM"
       ],
-      "copText": "OSNAD",
+      "coordline": "HMM_EMS_105_245",
       "waypoints": [
         "OSNAD"
       ]
@@ -285,7 +269,7 @@
         "DLA",
         "DKA"
       ],
-      "copText": "OSNAD",
+      "coordline": "HMM_EMS_105_245",
       "waypoints": [
         "OSNAD"
       ]
@@ -300,7 +284,7 @@
         "HMM",
         "DLA"
       ],
-      "copText": "RORUS",
+      "coordline": "HMM_EMS_0_245",
       "waypoints": [
         "RORUS"
       ]
@@ -311,12 +295,12 @@
         "EDHI"
       ],
       "xfl": 210,
-      "coordline": "ALR_EMS",
       "nextSectors": [
         "ALR",
         "HAMW",
         "HAM"
       ],
+      "coordline": "ALR_EMS",
       "waypoints": [
         "YEFAW"
       ]
@@ -332,7 +316,7 @@
         "EID",
         "FRI"
       ],
-      "copText": "YEFAW",
+      "coordline": "ALR_EMS",
       "waypoints": [
         "YEFAW"
       ]
@@ -346,7 +330,7 @@
         "ALR",
         "EID"
       ],
-      "copText": "BASUM",
+      "coordline": "ALR_EMS",
       "waypoints": [
         "BASUM"
       ]
@@ -359,7 +343,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "BASUM",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "BASUM"
       ]
@@ -372,7 +358,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "NIE",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "NIE"
       ]
@@ -385,7 +373,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "NIE",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "NIE"
       ]
@@ -398,7 +388,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "PIXUR",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "PIXUR"
       ]
@@ -411,7 +403,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "YEFAW",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "YEFAW"
       ]
@@ -427,7 +421,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "MALYK",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "MALYK"
       ]
@@ -442,7 +438,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "NIE",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "NIE"
       ]
@@ -456,7 +454,9 @@
         "HAN",
         "NWR"
       ],
-      "copText": "ROBEG",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "ROBEG"
       ]
@@ -470,7 +470,7 @@
         "HRZ",
         "HAN"
       ],
-      "copText": "ROBEG",
+      "coordline": "EMS_HRZ",
       "waypoints": [
         "ROBEG"
       ]
@@ -487,7 +487,6 @@
       "waypoints": []
     },
     {
-      "destinations": [],
       "predictedEndVolumes": [
         "EMS_0_245"
       ],
@@ -505,7 +504,7 @@
       "nextSectors": [
         "GIN"
       ],
-      "copText": "XAROL",
+      "coordline": "GIN_HRZ",
       "waypoints": [
         "XAROL"
       ]
@@ -518,7 +517,7 @@
       "nextSectors": [
         "HEF"
       ],
-      "copText": "ELNAT",
+      "coordline": "HEF_HRZ",
       "waypoints": [
         "ELNAT"
       ]
@@ -531,7 +530,7 @@
       "nextSectors": [
         "HEF"
       ],
-      "copText": "EMBAD",
+      "coordline": "HEF_HRZ",
       "waypoints": [
         "EMBAD"
       ]
@@ -544,7 +543,7 @@
       "nextSectors": [
         "PADL"
       ],
-      "copText": "ESADU",
+      "coordline": "PAD_HRZ",
       "waypoints": [
         "ESADU"
       ]
@@ -557,7 +556,7 @@
       "nextSectors": [
         "GIN"
       ],
-      "copText": "XAROL",
+      "coordline": "GIN_HRZ",
       "waypoints": [
         "XAROL"
       ]
@@ -570,7 +569,7 @@
       "nextSectors": [
         "HEF"
       ],
-      "copText": "EMBAD",
+      "coordline": "HEF_HRZ",
       "waypoints": [
         "EMBAD"
       ]
@@ -583,7 +582,7 @@
       "nextSectors": [
         "HEF"
       ],
-      "copText": "ELNAT",
+      "coordline": "HEF_HRZ",
       "waypoints": [
         "ELNAT"
       ]
@@ -596,7 +595,7 @@
       "nextSectors": [
         "GIN"
       ],
-      "copText": "XAROL",
+      "coordline": "GIN_HRZ",
       "waypoints": [
         "XAROL"
       ]
@@ -613,7 +612,7 @@
       "nextSectors": [
         "HAL"
       ],
-      "copText": "ABGUS",
+      "coordline": "HAL_HRZ",
       "waypoints": [
         "ABGUS"
       ]
@@ -626,7 +625,7 @@
       "nextSectors": [
         "TRN"
       ],
-      "copText": "ABGUS",
+      "coordline": "TRN_HRZ",
       "waypoints": [
         "ABGUS"
       ]
@@ -639,7 +638,7 @@
       "nextSectors": [
         "TRN"
       ],
-      "copText": "BERDI",
+      "coordline": "TRN_HRZ",
       "waypoints": [
         "BERDI"
       ]
@@ -653,7 +652,7 @@
       "nextSectors": [
         "BOR"
       ],
-      "copText": "POVEL",
+      "coordline": "BOR_HRZ",
       "waypoints": [
         "POVEL",
         "EMBOX"
@@ -668,7 +667,7 @@
       "nextSectors": [
         "BOR"
       ],
-      "copText": "POVEL",
+      "coordline": "BOR_HRZ",
       "waypoints": [
         "POVEL",
         "ELTED"
@@ -682,7 +681,7 @@
       "nextSectors": [
         "BOR"
       ],
-      "copText": "POVEL",
+      "coordline": "BOR_HRZ",
       "waypoints": [
         "POVEL"
       ]
@@ -695,7 +694,7 @@
       "nextSectors": [
         "BOR"
       ],
-      "copText": "ABGUS",
+      "coordline": "BOR_HRZ",
       "waypoints": [
         "ABGUS"
       ]
@@ -709,7 +708,9 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "SAS",
+      "predictedEnterVolumes":[
+        "CEL1_VOL"
+      ],
       "waypoints": [
         "SAS"
       ]
@@ -723,7 +724,9 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "PIROT",
+      "predictedEnterVolumes":[
+        "CEL1_VOL"
+      ],
       "waypoints": [
         "PIROT"
       ]
@@ -736,7 +739,9 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "DLE",
+      "predictedEnterVolumes":[
+        "CEL1_VOL"
+      ],
       "waypoints": [
         "DLE"
       ]
@@ -749,7 +754,9 @@
       "nextSectors": [
         "SL"
       ],
-      "copText": "NORTA",
+      "predictedEnterVolumes":[
+        "SOL_VOL"
+      ],
       "waypoints": [
         "NORTA"
       ]
@@ -764,7 +771,9 @@
       "nextSectors": [
         "SL"
       ],
-      "copText": "NORTA",
+      "predictedEnterVolumes":[
+        "SOL_VOL"
+      ],
       "waypoints": [
         "NORTA"
       ]
@@ -777,7 +786,9 @@
       "nextSectors": [
         "SL"
       ],
-      "copText": "WERRA",
+      "predictedEnterVolumes":[
+        "SOL_VOL"
+      ],
       "waypoints": [
         "WERRA"
       ]
@@ -791,7 +802,9 @@
       "nextSectors": [
         "SL"
       ],
-      "copText": "POVEL",
+      "predictedEnterVolumes":[
+        "SOL_VOL"
+      ],
       "waypoints": [
         "POVEL"
       ]
@@ -804,40 +817,12 @@
       "nextSectors": [
         "SL"
       ],
-      "copText": "WRB",
+      "predictedEnterVolumes":[
+        "SOL_VOL"
+      ],
       "waypoints": [
         "WRB"
       ]
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "HRZ_VOL"
-      ],
-      "predictedToVolumes": [
-        "CEL1_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "CL"
-      ],
-      "copText": "XCEL",
-      "waypoints": []
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "HRZ_VOL"
-      ],
-      "predictedToVolumes": [
-        "SOL_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "SL"
-      ],
-      "copText": "XSOL",
-      "waypoints": []
     },
     {
       "destinations": [
@@ -847,7 +832,7 @@
       "nextSectors": [
         "PAD"
       ],
-      "copText": "ESADU",
+      "coordline": "PAD_HRZ",
       "waypoints": [
         "ESADU"
       ]
@@ -861,7 +846,7 @@
         "PAD",
         "DKA"
       ],
-      "copText": "ESADU",
+      "coordline": "PAD_HRZ",
       "waypoints": [
         "ESADU"
       ]
@@ -876,7 +861,7 @@
         "PAD",
         "DLA"
       ],
-      "copText": "WRB",
+      "coordline": "PAD_HRZ",
       "waypoints": [
         "WRB"
       ]
@@ -889,7 +874,7 @@
       "nextSectors": [
         "PADL"
       ],
-      "copText": "WRB",
+      "coordline": "PAD_HRZ",
       "waypoints": [
         "WRB"
       ]
@@ -909,7 +894,7 @@
       "nextSectors": [
         "GIN"
       ],
-      "copText": "XAROL",
+      "coordline": "GIN_HRZ",
       "waypoints": [
         "XAROL"
       ]
@@ -922,7 +907,7 @@
       "nextSectors": [
         "GIN"
       ],
-      "copText": "XAROL",
+      "coordline": "GIN_HRZ",
       "waypoints": [
         "XAROL"
       ]
@@ -937,7 +922,7 @@
         "HEF",
         "DFAN"
       ],
-      "copText": "EMBAD",
+      "coordline": "HEF_HRZ",
       "waypoints": [
         "EMBAD"
       ]
@@ -950,7 +935,7 @@
       "nextSectors": [
         "GIN"
       ],
-      "copText": "XAROL",
+      "coordline": "GIN_HRZ",
       "waypoints": [
         "XAROL"
       ]
@@ -963,7 +948,7 @@
       "nextSectors": [
         "HEF"
       ],
-      "copText": "KEMAD",
+      "coordline": "HEF_HRZ",
       "waypoints": [
         "KEMAD"
       ]
@@ -977,7 +962,7 @@
         "TRN",
         "TRS"
       ],
-      "copText": "ABGUS",
+      "coordline": "TRN_HRZ",
       "waypoints": [
         "ABGUS"
       ]
@@ -991,7 +976,7 @@
         "TRN",
         "TRS"
       ],
-      "copText": "BERDI",
+      "coordline": "TRN_HRZ",
       "waypoints": [
         "BERDI"
       ]
@@ -1004,7 +989,7 @@
       "nextSectors": [
         "TRN"
       ],
-      "copText": "BERDI",
+      "coordline": "TRN_HRZ",
       "waypoints": [
         "BERDI"
       ]
@@ -1021,7 +1006,7 @@
       "nextSectors": [
         "TRN"
       ],
-      "copText": "BERDI",
+      "coordline": "TRN_HRZ",
       "waypoints": [
         "BERDI"
       ]
@@ -1038,7 +1023,7 @@
       "nextSectors": [
         "TRN"
       ],
-      "copText": "BERDI",
+      "coordline": "TRN_HRZ",
       "waypoints": [
         "BERDI"
       ]
@@ -1055,7 +1040,7 @@
       "nextSectors": [
         "TRN"
       ],
-      "copText": "ADMOS",
+      "coordline": "TRN_HRZ",
       "waypoints": [
         "ADMOS"
       ]
@@ -1072,7 +1057,7 @@
       "nextSectors": [
         "TRN"
       ],
-      "copText": "ADMOS",
+      "coordline": "TRN_HRZ",
       "waypoints": [
         "ADMOS"
       ]
@@ -1088,7 +1073,7 @@
       "nextSectors": [
         "TRN"
       ],
-      "copText": "ABGUS",
+      "coordline": "TRN_HRZ",
       "waypoints": [
         "ABGUS"
       ]
@@ -1101,7 +1086,7 @@
       "nextSectors": [
         "BOR"
       ],
-      "copText": "POVEL",
+      "coordline": "BOR_HRZ",
       "waypoints": [
         "POVEL"
       ]
@@ -1115,7 +1100,7 @@
       "nextSectors": [
         "BOR"
       ],
-      "copText": "POVEL",
+      "coordline": "BOR_HRZ",
       "waypoints": [
         "POVEL"
       ]
@@ -1129,7 +1114,7 @@
       "nextSectors": [
         "BOR"
       ],
-      "copText": "ABGUS",
+      "coordline": "BOR_HRZ",
       "waypoints": [
         "ABGUS"
       ]
@@ -1143,7 +1128,7 @@
         "BOR",
         "DBDS"
       ],
-      "copText": "ABGUS",
+      "coordline": "BOR_HRZ",
       "waypoints": [
         "ABGUS"
       ]
@@ -1159,7 +1144,7 @@
         "EMS",
         "FRI"
       ],
-      "copText": "ROBEG",
+      "coordline": "EMS_HRZ",
       "waypoints": [
         "ROBEG"
       ]
@@ -1175,7 +1160,7 @@
         "EMS",
         "FRI"
       ],
-      "copText": "ITZAN",
+      "coordline": "EMS_HRZ",
       "waypoints": [
         "ITZAN"
       ]
@@ -1191,7 +1176,7 @@
         "EMS",
         "FRI"
       ],
-      "copText": "SAS",
+      "coordline": "EMS_HRZ",
       "waypoints": [
         "SAS"
       ]
@@ -1205,7 +1190,7 @@
         "EMS",
         "HMM"
       ],
-      "copText": "SAS",
+      "coordline": "EMS_HRZ",
       "waypoints": [
         "SAS"
       ]
@@ -1220,7 +1205,7 @@
         "EMS",
         "HMM"
       ],
-      "copText": "SAS",
+      "coordline": "EMS_HRZ",
       "waypoints": [
         "SAS"
       ]
@@ -1237,7 +1222,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "SAS",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "SAS"
       ]
@@ -1254,7 +1241,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "ROBEG",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "ROBEG"
       ]
@@ -1267,7 +1256,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "SAS",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "SAS"
       ]
@@ -1280,7 +1271,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "NORTA",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "NORTA"
       ]
@@ -1293,7 +1286,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "WERRA",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "WERRA"
       ]
@@ -1306,7 +1301,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "POVEL",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "POVEL"
       ]
@@ -1319,7 +1316,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "LARET",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "LARET"
       ]
@@ -1336,7 +1335,6 @@
       "waypoints": []
     },
     {
-      "destinations": [],
       "predictedEndVolumes": [
         "HRZ_0_245"
       ],
@@ -4619,7 +4617,7 @@
       "nextSectors": [
         "HEI"
       ],
-      "copText": "GESTO",
+      "coordline": "ALR_HEI",
       "waypoints": [
         "GESTO"
       ]
@@ -4632,7 +4630,7 @@
       "nextSectors": [
         "HEI"
       ],
-      "copText": "HAM",
+      "coordline": "ALR_HEI",
       "waypoints": [
         "HAM"
       ]
@@ -4646,7 +4644,7 @@
       "nextSectors": [
         "EMS"
       ],
-      "copText": "HABFU",
+      "coordline": "ALR_EMS",
       "waypoints": [
         "HABFU"
       ]
@@ -4660,7 +4658,7 @@
       "nextSectors": [
         "EMS"
       ],
-      "copText": "IDEKO",
+      "coordline": "ALR_EMS",
       "waypoints": [
         "IDEKO"
       ]
@@ -4674,7 +4672,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "MIZUH",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "MIZUH"
       ]
@@ -4690,7 +4690,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "OPWOT",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "OPWOT"
       ]
@@ -4704,7 +4706,9 @@
       "nextSectors": [
         "HL"
       ],
-      "copText": "ELSOB",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "ELSOB"
       ]
@@ -4717,7 +4721,9 @@
       "nextSectors": [
         "HL"
       ],
-      "copText": "ELSOB",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "ELSOB"
       ]
@@ -4731,7 +4737,9 @@
       "nextSectors": [
         "HL"
       ],
-      "copText": "MUBZI",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "MUBZI"
       ]
@@ -4747,53 +4755,12 @@
       "nextSectors": [
         "HL"
       ],
-      "copText": "ESTAD",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "ESTAD"
       ]
-    },
-    {
-      "origins": [
-        "EDDH",
-        "EDHI"
-      ],
-      "coordline": "ALR_EMS",
-      "xfl": 200,
-      "nextSectors": [
-        "EMS"
-      ],
-      "copText": "XEMS",
-      "waypoints": []
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "ALR_VOL"
-      ],
-      "predictedToVolumes": [
-        "JEV_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "JL"
-      ],
-      "copText": "XJEV",
-      "waypoints": []
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "ALR_VOL"
-      ],
-      "predictedToVolumes": [
-        "HOL_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "HL"
-      ],
-      "copText": "XHOL",
-      "waypoints": []
     },
     {
       "destinations": [
@@ -4805,7 +4772,9 @@
       "nextSectors": [
         "HAMW"
       ],
-      "copText": "RIBSO",
+      "predictedEnterVolumes":[
+        "HAM_VOL"
+      ],
       "waypoints": [
         "RIBSO",
         "MUBZI"
@@ -4822,7 +4791,7 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "OMWEG",
+      "coordline": "ALR_EID",
       "waypoints": [
         "OMWEG"
       ]
@@ -4836,7 +4805,7 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "ELSOB",
+      "coordline": "ALR_EID",
       "waypoints": [
         "ELSOB"
       ]
@@ -4845,11 +4814,11 @@
       "destinations": [
         "ETMN"
       ],
-      "xfl": 105,
+      "xfl": 0,
       "nextSectors": [
         "EID"
       ],
-      "copText": "XEID",
+      "coordline": "ALR_EID",
       "waypoints": []
     },
     {
@@ -4861,7 +4830,7 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "OMEPA",
+      "coordline": "ALR_EID",
       "waypoints": [
         "OMEPA"
       ]
@@ -4876,7 +4845,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "OMEPA",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "OMEPA"
       ]
@@ -4889,7 +4860,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "EKROV",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "EKROV"
       ]
@@ -4902,7 +4875,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "GIBMA",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "GIBMA"
       ]
@@ -4919,7 +4894,7 @@
       "nextSectors": [
         "EMS"
       ],
-      "copText": "IDEKO",
+      "coordline": "ALR_EMS",
       "waypoints": [
         "IDEKO"
       ]
@@ -4934,7 +4909,9 @@
       "nextSectors": [
         "HEI"
       ],
-      "copText": "HAM",
+      "predictedEnterVolumes":[
+        "HEI_VOL"
+      ],
       "waypoints": [
         "HAM"
       ]
@@ -4948,7 +4925,9 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "HABFU",
+      "predictedEnterVolumes":[
+        "ALR_VOL"
+      ],
       "waypoints": [
         "HABFU"
       ]
@@ -4962,7 +4941,9 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "IDEKO",
+      "predictedEnterVolumes":[
+        "ALR_VOL"
+      ],
       "waypoints": [
         "IDEKO"
       ]
@@ -4976,7 +4957,9 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "WSN",
+      "predictedEnterVolumes":[
+        "ALR_VOL"
+      ],
       "waypoints": [
         "WSN"
       ]
@@ -4990,7 +4973,9 @@
       "nextSectors": [
         "HEI"
       ],
-      "copText": "AMLUH",
+      "predictedEnterVolumes":[
+        "HEI_VOL"
+      ],
       "waypoints": [
         "AMLUH"
       ]
@@ -5004,7 +4989,9 @@
       "nextSectors": [
         "HEI"
       ],
-      "copText": "LUGEG",
+      "predictedEnterVolumes":[
+        "HEI_VOL"
+      ],
       "waypoints": [
         "LUGEG"
       ]
@@ -5016,9 +5003,11 @@
         "EDHL"
       ],
       "xfl": 100,
-      "copText": "RAMAR",
       "nextSectors": [
         "HEI"
+      ],
+      "predictedEnterVolumes":[
+        "HEI_VOL"
       ],
       "waypoints": [
         "RAMAR"
@@ -5032,7 +5021,9 @@
       "nextSectors": [
         "HEI"
       ],
-      "copText": "LUGEG",
+      "predictedEnterVolumes":[
+        "HEI_VOL"
+      ],
       "waypoints": [
         "LUGEG"
       ]
@@ -5045,7 +5036,9 @@
       "nextSectors": [
         "HEI"
       ],
-      "copText": "HAM",
+      "predictedEnterVolumes":[
+        "HEI_VOL"
+      ],
       "waypoints": [
         "HAM"
       ]
@@ -5058,7 +5051,7 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "SOKWO",
+      "coordline": "HAM_EID",
       "waypoints": [
         "SOKWO"
       ]
@@ -5068,15 +5061,11 @@
         "EDDH",
         "EDHI"
       ],
-      "coordline": [
-        "HAM_EID",
-        "HAMW_EID"
-      ],
       "xfl": 100,
-      "copText": "ELSOB",
       "nextSectors": [
         "EID"
       ],
+      "coordline": "HAMW_EID",
       "waypoints": [
         "ELSOB"
       ]
@@ -5089,7 +5078,7 @@
       "nextSectors": [
         "MRZ"
       ],
-      "copText": "OLUBI",
+      "coordline": "HAM_MRZ",
       "waypoints": [
         "OLUBI"
       ]
@@ -5102,57 +5091,10 @@
       "nextSectors": [
         "MRZ"
       ],
-      "copText": "BERIM",
+      "coordline": "HAM_MRZ",
       "waypoints": [
         "BERIM"
       ]
-    },
-    {
-      "startVolumes": [
-        "HAM_VOL"
-      ],
-      "coordline": [
-        "HAM_EID",
-        "HAMW_EID"
-      ],
-      "xfl": 100,
-      "nextSectors": [
-        "EID"
-      ],
-      "copText": "XEID",
-      "waypoints": []
-    },
-    {
-      "startVolumes": [
-        "HAM_VOL"
-      ],
-      "coordline": [
-        "HAM_EKDB",
-        "HAM_EKDI",
-        "HAM_MRZ",
-        "HAM_MAR",
-        "HAM_HAN"
-      ],
-      "xfl": 100,
-      "nextSectors": [
-        "HEI"
-      ],
-      "copText": "XHEI",
-      "waypoints": []
-    },
-    {
-      "startVolumes": [
-        "HAM_VOL"
-      ],
-      "coordline": [
-        "FRI_HAMW"
-      ],
-      "xfl": 100,
-      "nextSectors": [
-        "ALR"
-      ],
-      "copText": "XALR",
-      "waypoints": []
     },
     {
       "destinations": [
@@ -5217,7 +5159,7 @@
       "nextSectors": [
         "EMS"
       ],
-      "copText": "NIE",
+      "coordline": "EMS_HEI",
       "waypoints": [
         "NIE"
       ]
@@ -5233,7 +5175,7 @@
       "nextSectors": [
         "MAR"
       ],
-      "copText": "NUSGU",
+      "coordline": "HEI_MAR",
       "waypoints": [
         "NUSGU"
       ]
@@ -5249,7 +5191,7 @@
       "nextSectors": [
         "MAR"
       ],
-      "copText": "PABMI",
+      "coordline": "HEI_MAR",
       "waypoints": [
         "PABMI"
       ]
@@ -5263,7 +5205,7 @@
       "nextSectors": [
         "MAR"
       ],
-      "copText": "DIRBO",
+      "coordline": "HEI_MAR",
       "waypoints": [
         "DIRBO",
         "BKD"
@@ -5277,7 +5219,7 @@
       "nextSectors": [
         "MAR"
       ],
-      "copText": "NEBUN",
+      "coordline": "HEI_MAR",
       "waypoints": [
         "NEBUN"
       ]
@@ -5290,7 +5232,7 @@
       "nextSectors": [
         "MAR"
       ],
-      "copText": "BATEL",
+      "coordline": "HEI_MAR",
       "waypoints": [
         "BATEL"
       ]
@@ -5303,7 +5245,7 @@
       "nextSectors": [
         "MAR"
       ],
-      "copText": "BATEL",
+      "coordline": "HEI_MAR",
       "waypoints": [
         "BATEL"
       ]
@@ -5317,7 +5259,7 @@
       "nextSectors": [
         "MAR"
       ],
-      "copText": "LUWIL",
+      "coordline": "HEI_MAR",
       "waypoints": [
         "LUWIL"
       ]
@@ -5332,7 +5274,7 @@
       "nextSectors": [
         "MRZ"
       ],
-      "copText": "OLUBI",
+      "coordline": "HEI_HRZ",
       "waypoints": [
         "OLUBI"
       ]
@@ -5347,7 +5289,7 @@
       "nextSectors": [
         "MRZ"
       ],
-      "copText": "BERIM",
+      "coordline": "HEI_HRZ",
       "waypoints": [
         "BERIM"
       ]
@@ -5361,7 +5303,7 @@
       "nextSectors": [
         "MRZ"
       ],
-      "copText": "LAG",
+      "coordline": "HEI_HRZ",
       "waypoints": [
         "LAG"
       ]
@@ -5376,7 +5318,9 @@
         "HL",
         "EKDB"
       ],
-      "copText": "LUGEG",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "LUGEG"
       ]
@@ -5389,7 +5333,9 @@
       "nextSectors": [
         "HL"
       ],
-      "copText": "HAM",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "HAM"
       ]
@@ -5402,7 +5348,9 @@
       "nextSectors": [
         "HL"
       ],
-      "copText": "RAMAR",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "RAMAR"
       ]
@@ -5417,7 +5365,10 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "DENIX",
+      "predictedEnterVolumes":[
+        "CEL1_VOL",
+        "CEL2_VOL"
+      ],
       "waypoints": [
         "DENIX"
       ]
@@ -5432,7 +5383,9 @@
       "nextSectors": [
         "HL"
       ],
-      "copText": "HAM",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "HAM"
       ]
@@ -5446,7 +5399,10 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "RIDNI",
+      "predictedEnterVolumes":[
+        "CEL1_VOL",
+        "CEL2_VOL"
+      ],
       "waypoints": [
         "RIDNI"
       ]
@@ -5461,7 +5417,10 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "IRKIS",
+      "predictedEnterVolumes":[
+        "CEL1_VOL",
+        "CEL2_VOL"
+      ],
       "waypoints": [
         "IRKIS"
       ]
@@ -5474,7 +5433,10 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "IRKIS",
+      "predictedEnterVolumes":[
+        "CEL1_VOL",
+        "CEL2_VOL"
+      ],
       "waypoints": [
         "IRKIS"
       ]
@@ -5487,7 +5449,10 @@
       "nextSectors": [
         "CL"
       ],
-      "copText": "IRKIS",
+      "predictedEnterVolumes":[
+        "CEL1_VOL",
+        "CEL2_VOL"
+      ],
       "waypoints": [
         "IRKIS"
       ]
@@ -5501,41 +5466,10 @@
       "nextSectors": [
         "EKDB"
       ],
-      "copText": "MEGAR",
+      "coordline": "HEI_EKDB",
       "waypoints": [
         "MEGAR"
       ]
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "HEI_VOL"
-      ],
-      "predictedToVolumes": [
-        "CEL1_VOL",
-        "CEL2_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "CL"
-      ],
-      "copText": "XCEL",
-      "waypoints": []
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "HEI_VOL"
-      ],
-      "predictedToVolumes": [
-        "HOL_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "HL"
-      ],
-      "copText": "XHOL",
-      "waypoints": []
     },
     {
       "destinations": [
@@ -5547,7 +5481,7 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "HAM",
+      "coordline": "ALR_HEI",
       "waypoints": [
         "HAM"
       ]
@@ -5562,7 +5496,7 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "AMLUH",
+      "coordline": "ALR_HEI",
       "waypoints": [
         "AMLUH"
       ]
@@ -5575,7 +5509,7 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "BOGMU",
+      "coordline": "ALR_HEI",
       "waypoints": [
         "BOGMU"
       ]
@@ -5588,7 +5522,7 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "GESTO",
+      "coordline": "ALR_HEI",
       "waypoints": [
         "GESTO"
       ]
@@ -5603,7 +5537,9 @@
       "nextSectors": [
         "HAM"
       ],
-      "copText": "RARUP",
+      "predictedEnterVolumes":[
+        "HAM_VOL"
+      ],
       "waypoints": [
         "RARUP"
       ]
@@ -5618,7 +5554,9 @@
       "nextSectors": [
         "HAM"
       ],
-      "copText": "BOGMU",
+      "predictedEnterVolumes":[
+        "HAM_VOL"
+      ],
       "waypoints": [
         "BOGMU",
         "NIGAD"
@@ -5634,7 +5572,9 @@
       "nextSectors": [
         "HAM"
       ],
-      "copText": "NOLGO",
+      "predictedEnterVolumes":[
+        "HAM_VOL"
+      ],
       "waypoints": [
         "NOLGO"
       ]
@@ -5648,7 +5588,7 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "SOKWO",
+      "coordline": "EID_HEI",
       "waypoints": [
         "SOKWO"
       ]
@@ -5661,7 +5601,7 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "OTAHO",
+      "coordline": "EID_HEI",
       "waypoints": [
         "OTAHO"
       ]
@@ -5675,7 +5615,7 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "HAM",
+      "coordline": "EID_HEI",
       "waypoints": [
         "HAM"
       ]
@@ -5689,7 +5629,7 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "LUGEG",
+      "coordline": "EID_HEI",
       "waypoints": [
         "LUGEG"
       ]
@@ -5703,7 +5643,7 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "NUSTA",
+      "coordline": "EID_HEI",
       "waypoints": [
         "NUSTA"
       ]
@@ -5717,7 +5657,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "CEL",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "CEL"
       ]
@@ -5731,7 +5673,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "HLZ",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "HLZ"
       ]
@@ -5744,7 +5688,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "DIRBO",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "DIRBO"
       ]
@@ -5757,7 +5703,9 @@
       "nextSectors": [
         "HAN"
       ],
-      "copText": "ULSEN",
+      "predictedEnterVolumes":[
+        "HAN_VOL"
+      ],
       "waypoints": [
         "ULSEN"
       ]
@@ -5772,7 +5720,7 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "REVLA",
+      "coordline": "ALR_EID",
       "waypoints": [
         "REVLA"
       ]
@@ -5786,7 +5734,7 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "REVLA",
+      "coordline": "ALR_EID",
       "waypoints": [
         "REVLA"
       ]
@@ -5799,7 +5747,7 @@
       "nextSectors": [
         "EMS"
       ],
-      "copText": "MALYK",
+      "coordline": "EID_EMS",
       "waypoints": [
         "MALYK"
       ]
@@ -5815,7 +5763,9 @@
         "HL",
         "EKDD"
       ],
-      "copText": "EXNEL",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "EXNEL"
       ]
@@ -5828,7 +5778,9 @@
       "nextSectors": [
         "HL"
       ],
-      "copText": "BADOS",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "BADOS"
       ]
@@ -5842,7 +5794,9 @@
       "nextSectors": [
         "HL"
       ],
-      "copText": "EKERN",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "EKERN"
       ]
@@ -5856,7 +5810,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "OGFON",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "OGFON"
       ]
@@ -5870,7 +5826,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "OGFON",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "OGFON"
       ]
@@ -5885,7 +5843,9 @@
         "HL",
         "EKDD"
       ],
-      "copText": "BADOS",
+      "predictedEnterVolumes":[
+        "HOL_VOL"
+      ],
       "waypoints": [
         "BADOS"
       ]
@@ -5898,7 +5858,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "SOFED",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "SOFED"
       ]
@@ -5911,7 +5873,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "ONTAZ",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "ONTAZ"
       ]
@@ -5925,7 +5889,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "ROCZO",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "ROCZO"
       ]
@@ -5939,7 +5905,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "OGFON",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "OGFON"
       ]
@@ -5953,7 +5921,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "ABFAD",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "ABFAD"
       ]
@@ -5966,7 +5936,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "ROCZO",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "ROCZO"
       ]
@@ -5979,7 +5951,9 @@
       "nextSectors": [
         "JL"
       ],
-      "copText": "IFTOC",
+      "predictedEnterVolumes":[
+        "JEV_VOL"
+      ],
       "waypoints": [
         "IFTOC"
       ]
@@ -5996,7 +5970,7 @@
       "nextSectors": [
         "EKDD"
       ],
-      "copText": "ATTUS",
+      "coordline": "EID_EKDD",
       "waypoints": [
         "ATTUS"
       ]
@@ -6013,7 +5987,7 @@
       "nextSectors": [
         "EKDD"
       ],
-      "copText": "DOSUR",
+       "coordline": "EID_EKDD",
       "waypoints": [
         "DOSUR"
       ]
@@ -6030,40 +6004,10 @@
       "nextSectors": [
         "EKDD"
       ],
-      "copText": "AMRAK",
+      "coordline": "EID_EKDD",
       "waypoints": [
         "AMRAK"
       ]
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "EID_VOL"
-      ],
-      "predictedToVolumes": [
-        "JEV_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "JL"
-      ],
-      "copText": "XJEV",
-      "waypoints": []
-    },
-    {
-      "origins": [],
-      "predictedFromVolumes": [
-        "EID_VOL"
-      ],
-      "predictedToVolumes": [
-        "HOL_VOL"
-      ],
-      "xfl": 245,
-      "nextSectors": [
-        "HL"
-      ],
-      "copText": "XHOL",
-      "waypoints": []
     },
     {
       "destinations": [
@@ -6073,7 +6017,7 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "REVLA",
+      "coordline": "ALR_EID",
       "waypoints": [
         "REVLA"
       ]
@@ -6088,7 +6032,7 @@
       "nextSectors": [
         "HAM"
       ],
-      "copText": "BOGMU",
+      "coordline": "HAM_EID",
       "waypoints": [
         "BOGMU",
         "EKERN"
@@ -6104,7 +6048,7 @@
       "nextSectors": [
         "HAMW"
       ],
-      "copText": "RIBSO",
+      "coordline": "HAMW_EID",
       "waypoints": [
         "RIBSO",
         "OSTOR"
@@ -6114,11 +6058,13 @@
       "destinations": [
         "ETNT"
       ],
-      "xfl": 105,
+      "xfl": 0,
       "nextSectors": [
         "FRI"
       ],
-      "copText": "XFRI",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": []
     },
     {
@@ -6129,7 +6075,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "SUQIF",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "SUQIF"
       ]
@@ -6142,7 +6090,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "ABFAD",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "ABFAD"
       ]
@@ -6155,7 +6105,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "LAZOQ",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "LAZOQ"
       ]
@@ -6168,7 +6120,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "AMCUB",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "AMCUB"
       ]
@@ -6181,7 +6135,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "GASTU",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "GASTU"
       ]
@@ -6194,7 +6150,9 @@
       "nextSectors": [
         "FRI"
       ],
-      "copText": "ITMIZ",
+      "predictedEnterVolumes":[
+        "FRI_VOL"
+      ],
       "waypoints": [
         "ITMIZ"
       ]
@@ -6207,7 +6165,7 @@
       "nextSectors": [
         "EHAE"
       ],
-      "copText": "KUBAT",
+      "coordline": "EHAE_EID",
       "waypoints": [
         "KUBAT"
       ]
@@ -6220,7 +6178,7 @@
       "nextSectors": [
         "EHAE"
       ],
-      "copText": "ONTAZ",
+      "coordline": "EHAE_EID",
       "waypoints": [
         "ONTAZ"
       ]
@@ -6235,7 +6193,7 @@
       "nextSectors": [
         "EKDD"
       ],
-      "copText": "AMRAK",
+      "coordline": "EID_EKDD",
       "waypoints": [
         "AMRAK"
       ]
@@ -6250,7 +6208,7 @@
       "nextSectors": [
         "EKDN"
       ],
-      "copText": "REXMI",
+      "coordline": "EID_EKDN",
       "waypoints": [
         "REXMI"
       ]
@@ -6263,7 +6221,7 @@
       "nextSectors": [
         "EKDD"
       ],
-      "copText": "AMRAK",
+      "coordline": "EID_EKDD",
       "waypoints": [
         "AMRAK"
       ]
@@ -6360,7 +6318,6 @@
       "waypoints": []
     },
     {
-      "destinations": [],
       "predictedEndVolumes": [
         "EID1_VOL"
       ],
@@ -6378,7 +6335,9 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "OPWOT",
+      "predictedEnterVolumes":[
+        "ALR_VOL"
+      ],
       "waypoints": [
         "OPWOT"
       ]
@@ -6391,7 +6350,9 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "GESTO",
+      "predictedEnterVolumes":[
+        "ALR_VOL"
+      ],
       "waypoints": [
         "GESTO"
       ]
@@ -6404,7 +6365,9 @@
       "nextSectors": [
         "ALR"
       ],
-      "copText": "WSN",
+      "predictedEnterVolumes":[
+        "ALR_VOL"
+      ],
       "waypoints": [
         "WSN"
       ]
@@ -6417,7 +6380,9 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "OKWEL",
+      "predictedEnterVolumes":[
+        "EID2_VOL"
+      ],
       "waypoints": [
         "OKWEL"
       ]
@@ -6430,7 +6395,9 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "ZUFFA",
+      "predictedEnterVolumes":[
+        "EID2_VOL"
+      ],
       "waypoints": [
         "ZUFFA"
       ]
@@ -6443,7 +6410,9 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "ABFAD",
+      "predictedEnterVolumes":[
+        "EID1_VOL"
+      ],
       "waypoints": [
         "ABFAD"
       ]
@@ -6456,7 +6425,9 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "GASTU",
+      "predictedEnterVolumes":[
+        "EID2_VOL"
+      ],
       "waypoints": [
         "GASTU"
       ]
@@ -6469,7 +6440,9 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "SUQIF",
+      "predictedEnterVolumes":[
+        "EID2_VOL"
+      ],
       "waypoints": [
         "SUQIF"
       ]
@@ -6482,7 +6455,9 @@
       "nextSectors": [
         "EID"
       ],
-      "copText": "OKWEL",
+      "predictedEnterVolumes":[
+        "EID2_VOL"
+      ],
       "waypoints": [
         "OKWEL"
       ]
@@ -6491,11 +6466,13 @@
       "origins": [
         "ETNT"
       ],
-      "xfl": 105,
+      "xfl": 0,
       "nextSectors": [
         "EID"
       ],
-      "copText": "COORD",
+      "predictedEnterVolumes":[
+        "EID2_VOL"
+      ],
       "waypoints": []
     },
     {
@@ -6506,7 +6483,9 @@
       "nextSectors": [
         "EMS"
       ],
-      "copText": "WIMCI",
+      "predictedEnterVolumes":[
+        "EMS_VOL"
+      ],
       "waypoints": [
         "WIMCI"
       ]
@@ -6519,7 +6498,9 @@
       "nextSectors": [
         "EMS"
       ],
-      "copText": "NIE",
+      "predictedEnterVolumes":[
+        "EMS_VOL"
+      ],
       "waypoints": [
         "NIE"
       ]
@@ -6532,7 +6513,9 @@
       "nextSectors": [
         "EMS"
       ],
-      "copText": "ABDIM",
+      "predictedEnterVolumes":[
+        "EMS_VOL"
+      ],
       "waypoints": [
         "ABDIM"
       ]
@@ -6547,52 +6530,12 @@
       "nextSectors": [
         "EMS"
       ],
-      "copText": "MALYK",
+      "predictedEnterVolumes":[
+        "EMS_VOL"
+      ],
       "waypoints": [
         "MALYK"
       ]
-    },
-    {
-      "predictedFromVolumes": [
-        "FRI_VOL"
-      ],
-      "predictedToVolumes": [
-        "ALR_VOL"
-      ],
-      "xfl": 105,
-      "nextSectors": [
-        "ALR"
-      ],
-      "copText": "XALR",
-      "waypoints": []
-    },
-    {
-      "predictedFromVolumes": [
-        "FRI_VOL"
-      ],
-      "predictedToVolumes": [
-        "EID2_VOL"
-      ],
-      "xfl": 105,
-      "nextSectors": [
-        "EID"
-      ],
-      "copText": "XEID",
-      "waypoints": []
-    },
-    {
-      "predictedFromVolumes": [
-        "FRI_VOL"
-      ],
-      "predictedToVolumes": [
-        "EMS_VOL"
-      ],
-      "xfl": 105,
-      "nextSectors": [
-        "EMS"
-      ],
-      "copText": "XEMS",
-      "waypoints": []
     },
     {
       "destinations": [
@@ -6602,7 +6545,7 @@
       "nextSectors": [
         "EHGA"
       ],
-      "copText": "TEMLU",
+      "coordline": "FRI_EHGA",
       "waypoints": [
         "TEMLU"
       ]
@@ -6615,7 +6558,7 @@
       "nextSectors": [
         "EHGA"
       ],
-      "copText": "OLWOF",
+      "coordline": "FRI_EHGA",
       "waypoints": [
         "OLWOF"
       ]
@@ -6628,7 +6571,7 @@
       "nextSectors": [
         "EHGA"
       ],
-      "copText": "KUBAT",
+      "coordline": "FRI_EHGA",
       "waypoints": [
         "KUBAT"
       ]
@@ -6641,7 +6584,7 @@
       "nextSectors": [
         "EHGA"
       ],
-      "copText": "DOBAK",
+      "coordline": "FRI_EHGA",
       "waypoints": [
         "DOBAK"
       ]
@@ -6704,7 +6647,6 @@
       "waypoints": []
     },
     {
-      "destinations": [],
       "predictedEndVolumes": [
         "FRI_VOL"
       ],
