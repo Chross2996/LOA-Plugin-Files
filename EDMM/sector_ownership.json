@@ -157,15 +157,28 @@
             "DMND"
         ],
         "DND": [
-            "DND"
+            "DND",
+            "FRK",
+            "BBG",
+            "HOF",
+            "RDG"
         ],
         "DPND": [
             "DPND",
-            "DPSD"
+            "DPSD",
+            "TRN",
+            "TRS",
+            "HAL",
+            "GER",
+            "HOF"
         ],
         "DPSD": [
             "DPSD",
-            "DPND"
+            "DPND",
+            "TRS",
+            "HAL",
+            "GER",
+            "HOF"
         ],
         "DBAST": [
             "DBAST",

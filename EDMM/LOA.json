@@ -1436,79 +1436,15 @@
       ]
     },
     {
-      "destinations": [
-        "EDDN"
-      ],
-      "xfl": 0,
-      "copText": "XNT",
-      "nextSectorDrops": [
-        "NT"
-      ],
-      "waypoints": []
-    },
-    {
-      "destinations": [
-        "EDQM"
-      ],
-      "xfl": 0,
-      "copText": "XQMT",
-      "nextSectorDrops": [
-        "QMT"
-      ],
-      "waypoints": []
-    },
-    {
-      "destinations": [
-        "ETIC"
-      ],
-      "xfl": 0,
-      "copText": "XICT",
-      "nextSectorDrops": [
-        "ICT"
-      ],
-      "waypoints": []
-    },
-    {
-      "destinations": [
-        "EDQC"
-      ],
-      "xfl": 0,
-      "copText": "XQCT",
-      "nextSectorDrops": [
-        "QCT"
-      ],
-      "waypoints": []
-    },
-    {
-      "destinations": [
-        "EDQA"
-      ],
-      "xfl": 0,
-      "copText": "XQAT",
-      "nextSectorDrops": [
-        "QAT"
-      ],
-      "waypoints": []
-    },
-    {
-      "destinations": [
-        "EDQD"
-      ],
-      "xfl": 0,
-      "copText": "XQDT",
-      "nextSectorDrops": [
-        "QDT"
-      ],
-      "waypoints": []
-    },
-    {
       "destinations": [],
-      "predictedEndVolumes": [
+      "EndVolumes": [
         "FRK_VOL"
       ],
       "xfl": 0,
       "copText": "COPX",
-      "nextSectors": [],
+      "nextSectors": [
+        "EXT"
+      ],
       "waypoints": []
     }
   ],
@@ -1735,98 +1671,67 @@
         "EDDP"
       ],
       "xfl": 0,
-      "copText": "XPTS",
-      "nextSectorDrops": [
-        "PTS"
+      "copText": "XDPDS",
+      "nextSectors": [
+        "DPSD"
       ],
       "waypoints": [
         "TAKOR"
       ],
-      "remakrs": "For Tower South handoff 26L"
+      "remakrs": "Arrival South handoff 26L"
     },
     {
       "destinations": [
         "EDDP"
       ],
       "xfl": 0,
-      "copText": "XPTN",
-      "nextSectorDrops": [
-        "PTN"
+      "copText": "XDPND",
+      "nextSectors": [
+        "DPND"
       ],
       "waypoints": [
         "KOSAM"
       ],
-      "remakrs": "For Tower North handoff 26R"
+      "remakrs": "Arrival North handoff 26R"
     },
     {
       "destinations": [
         "EDDP"
       ],
       "xfl": 0,
-      "copText": "XPTN",
-      "nextSectorDrops": [
-        "PTN"
+      "copText": "XDPND",
+      "nextSectors": [
+        "DPND"
       ],
       "waypoints": [
         "MOKUL"
       ],
-      "remakrs": "For Tower North handoff 08L"
+      "remakrs": "Arrival North handoff 08L"
     },
     {
       "destinations": [
         "EDDP"
       ],
       "xfl": 0,
-      "copText": "XPTS",
-      "nextSectorDrops": [
-        "PTS"
+      "copText": "XDPDS",
+      "nextSectors": [
+        "DPSD"
       ],
       "waypoints": [
         "GAMKO"
       ],
-      "remakrs": "For Tower South handoff 08R"
-    },
-    {
-      "destinations": [
-        "EDDE"
-      ],
-      "xfl": 0,
-      "copText": "XET",
-      "nextSectorDrops": [
-        "ET"
-      ],
-      "waypoints": []
-    },
-    {
-      "destinations": [
-        "EDDE"
-      ],
-      "xfl": 0,
-      "copText": "XET",
-      "nextSectorDrops": [
-        "ET"
-      ],
-      "waypoints": []
-    },
-    {
-      "destinations": [
-        "EDAC"
-      ],
-      "xfl": 0,
-      "copText": "XACR",
-      "nextSectorDrops": [
-        "ACR"
-      ],
-      "waypoints": []
+      "remakrs": "Arrival South handoff 08R"
     },
     {
       "destinations": [],
-      "predictedEndVolumes": [
+      "EndVolumes": [
         "TRS_VOL"
       ],
       "xfl": 0,
       "copText": "COPX",
-      "nextSectors": [],
+      "nextSectors": [
+        "EXT"
+      ],
       "waypoints": []
     }
   ],
@@ -3844,65 +3749,67 @@
         "EDDP"
       ],
       "xfl": 0,
-      "copText": "XPTS",
-      "nextSectorDrops": [
-        "PTS"
+      "copText": "XDPDS",
+      "nextSectors": [
+        "DPSD"
       ],
       "waypoints": [
         "TAKOR"
       ],
-      "remakrs": "For Tower South handoff 26L"
+      "remakrs": "Arrival South handoff 26L"
     },
     {
       "destinations": [
         "EDDP"
       ],
       "xfl": 0,
-      "copText": "XPTN",
-      "nextSectorDrops": [
-        "PTN"
+      "copText": "XDPND",
+      "nextSectors": [
+        "DPND"
       ],
       "waypoints": [
         "KOSAM"
       ],
-      "remakrs": "For Tower North handoff 26R"
+      "remakrs": "Arrival North handoff 26R"
     },
     {
       "destinations": [
         "EDDP"
       ],
       "xfl": 0,
-      "copText": "XPTN",
-      "nextSectorDrops": [
-        "PTN"
+      "copText": "XDPND",
+      "nextSectors": [
+        "DPND"
       ],
       "waypoints": [
         "MOKUL"
       ],
-      "remakrs": "For Tower North handoff 08L"
+      "remakrs": "Arrival North handoff 08L"
     },
     {
       "destinations": [
         "EDDP"
       ],
       "xfl": 0,
-      "copText": "XPTS",
-      "nextSectorDrops": [
-        "PTS"
+      "copText": "XDPDS",
+      "nextSectors": [
+        "DPSD"
       ],
       "waypoints": [
         "GAMKO"
       ],
-      "remakrs": "For Tower South handoff 08R"
+      "remakrs": "Arrival South handoff 08R"
     },
     {
       "destinations": [],
-      "predictedEndVolumes": [
+      "EndVolumes": [
         "TRN_VOL"
       ],
       "xfl": 0,
       "copText": "COPX",
-      "nextSectors": [],
+      "nextSectors": [
+        "EXT"
+      ],
       "waypoints": []
     }
   ],
@@ -4205,35 +4112,15 @@
       ]
     },
     {
-      "destinations": [
-        "EDDC"
-      ],
-      "xfl": 0,
-      "copText": "XCT",
-      "nextSectorDrops": [
-        "CT"
-      ],
-      "waypoints": []
-    },
-    {
-      "destinations": [
-        "EDAB"
-      ],
-      "xfl": 0,
-      "copText": "XABT",
-      "nextSectorDrops": [
-        "ABT"
-      ],
-      "waypoints": []
-    },
-    {
       "destinations": [],
-      "predictedEndVolumes": [
+      "EndVolumes": [
         "SAS_VOL"
       ],
       "xfl": 0,
       "copText": "COPX",
-      "nextSectors": [],
+      "nextSectors": [
+        "EXT"
+      ],
       "waypoints": []
     }
   ],
