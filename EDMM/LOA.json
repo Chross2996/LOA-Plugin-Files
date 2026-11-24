@@ -951,7 +951,7 @@
       "predictedToVolumes": [
         "FRK_VOL"
       ],
-      "endVolumes": [
+      "predictedEndVolumes": [
         "TRN_VOL",
         "TRS_VOL"
       ],
@@ -1722,7 +1722,7 @@
     },
     {
       "destinations": [],
-      "PredictedEndVolumes": [
+      "predictedEndVolumes": [
         "TRS_VOL"
       ],
       "xfl": 0,
@@ -2192,7 +2192,7 @@
       "predictedEnterVolumes": [
         "HOF_VOL"
       ],
-      "endVolumes": [
+      "predictedEndVolumes": [
         "TRN_VOL",
         "TRS_VOL"
       ],
@@ -3472,7 +3472,7 @@
       "waypoints": []
     },
     {
-      "endVolumes": [
+      "predictedEndVolumes": [
         "SAS_VOL"
       ],
       "xfl": 170,
@@ -3798,7 +3798,7 @@
     },
     {
       "destinations": [],
-      "PredictedEndVolumes": [
+      "predictedEndVolumes": [
         "TRN_VOL"
       ],
       "xfl": 0,
