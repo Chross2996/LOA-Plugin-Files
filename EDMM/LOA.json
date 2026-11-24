@@ -1437,14 +1437,12 @@
     },
     {
       "destinations": [],
-      "EndVolumes": [
+      "predictedEndVolumes": [
         "FRK_VOL"
       ],
       "xfl": 0,
       "copText": "COPX",
-      "nextSectors": [
-        "EXT"
-      ],
+      "nextSectors": [],
       "waypoints": []
     }
   ],
@@ -1724,14 +1722,12 @@
     },
     {
       "destinations": [],
-      "EndVolumes": [
+      "PredictedEndVolumes": [
         "TRS_VOL"
       ],
       "xfl": 0,
       "copText": "COPX",
-      "nextSectors": [
-        "EXT"
-      ],
+      "nextSectors": [],
       "waypoints": []
     }
   ],
@@ -3802,14 +3798,12 @@
     },
     {
       "destinations": [],
-      "EndVolumes": [
+      "PredictedEndVolumes": [
         "TRN_VOL"
       ],
       "xfl": 0,
       "copText": "COPX",
-      "nextSectors": [
-        "EXT"
-      ],
+      "nextSectors": [],
       "waypoints": []
     }
   ],
@@ -4113,14 +4107,12 @@
     },
     {
       "destinations": [],
-      "EndVolumes": [
+      "predictedEndVolumes": [
         "SAS_VOL"
       ],
       "xfl": 0,
       "copText": "COPX",
-      "nextSectors": [
-        "EXT"
-      ],
+      "nextSectors": [],
       "waypoints": []
     }
   ],
